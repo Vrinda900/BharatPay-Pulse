@@ -1,0 +1,3672 @@
+state,year,quarter,category,transaction_count
+Andaman and Nicobar Islands,2018,1,P2P,2297
+Andaman and Nicobar Islands,2018,1,Retail,6656
+Andaman and Nicobar Islands,2018,1,Utility,136
+Andaman and Nicobar Islands,2018,2,P2P,4383
+Andaman and Nicobar Islands,2018,2,Retail,10462
+Andaman and Nicobar Islands,2018,2,Utility,217
+Andaman and Nicobar Islands,2018,3,P2P,7608
+Andaman and Nicobar Islands,2018,3,Utility,408
+Andaman and Nicobar Islands,2018,3,Retail,13138
+Andaman and Nicobar Islands,2018,4,P2P,12260
+Andaman and Nicobar Islands,2018,4,Retail,18359
+Andaman and Nicobar Islands,2018,4,Utility,520
+Andaman and Nicobar Islands,2019,1,P2P,15423
+Andaman and Nicobar Islands,2019,1,Retail,24638
+Andaman and Nicobar Islands,2019,1,Utility,665
+Andaman and Nicobar Islands,2019,2,P2P,18528
+Andaman and Nicobar Islands,2019,2,Retail,27418
+Andaman and Nicobar Islands,2019,2,Utility,818
+Andaman and Nicobar Islands,2019,3,P2P,17346
+Andaman and Nicobar Islands,2019,3,Utility,1570
+Andaman and Nicobar Islands,2019,3,Retail,21707
+Andaman and Nicobar Islands,2019,4,P2P,19490
+Andaman and Nicobar Islands,2019,4,Retail,18325
+Andaman and Nicobar Islands,2019,4,Utility,3850
+Andaman and Nicobar Islands,2020,1,P2P,19682
+Andaman and Nicobar Islands,2020,1,Retail,23473
+Andaman and Nicobar Islands,2020,1,Utility,5949
+Andaman and Nicobar Islands,2020,2,P2P,23455
+Andaman and Nicobar Islands,2020,2,Retail,43610
+Andaman and Nicobar Islands,2020,2,Utility,11620
+Andaman and Nicobar Islands,2020,3,P2P,48650
+Andaman and Nicobar Islands,2020,3,Retail,76639
+Andaman and Nicobar Islands,2020,3,Utility,18700
+Andaman and Nicobar Islands,2020,4,P2P,95937
+Andaman and Nicobar Islands,2020,4,Retail,132834
+Andaman and Nicobar Islands,2020,4,Utility,43234
+Andaman and Nicobar Islands,2021,1,P2P,130833
+Andaman and Nicobar Islands,2021,1,Retail,86168
+Andaman and Nicobar Islands,2021,1,Utility,99269
+Andaman and Nicobar Islands,2021,2,P2P,167435
+Andaman and Nicobar Islands,2021,2,Retail,123565
+Andaman and Nicobar Islands,2021,2,Utility,166972
+Andaman and Nicobar Islands,2021,3,P2P,231422
+Andaman and Nicobar Islands,2021,3,Retail,169369
+Andaman and Nicobar Islands,2021,3,Utility,186637
+Andaman and Nicobar Islands,2021,4,P2P,300209
+Andaman and Nicobar Islands,2021,4,Retail,259587
+Andaman and Nicobar Islands,2021,4,Utility,162945
+Andaman and Nicobar Islands,2022,1,P2P,397423
+Andaman and Nicobar Islands,2022,1,Retail,396140
+Andaman and Nicobar Islands,2022,1,Utility,204932
+Andaman and Nicobar Islands,2022,2,P2P,537340
+Andaman and Nicobar Islands,2022,2,Retail,629016
+Andaman and Nicobar Islands,2022,2,Utility,253200
+Andaman and Nicobar Islands,2022,3,P2P,698789
+Andaman and Nicobar Islands,2022,3,Retail,866124
+Andaman and Nicobar Islands,2022,3,Utility,312058
+Andaman and Nicobar Islands,2022,4,P2P,822471
+Andaman and Nicobar Islands,2022,4,Retail,1130336
+Andaman and Nicobar Islands,2022,4,Utility,310348
+Andaman and Nicobar Islands,2023,1,P2P,882980
+Andaman and Nicobar Islands,2023,1,Retail,1254352
+Andaman and Nicobar Islands,2023,1,Utility,312565
+Andaman and Nicobar Islands,2023,2,P2P,997058
+Andaman and Nicobar Islands,2023,2,Retail,1593082
+Andaman and Nicobar Islands,2023,2,Utility,349028
+Andaman and Nicobar Islands,2023,3,P2P,1138133
+Andaman and Nicobar Islands,2023,3,Utility,360081
+Andaman and Nicobar Islands,2023,3,Retail,1795799
+Andaman and Nicobar Islands,2023,4,P2P,1353803
+Andaman and Nicobar Islands,2023,4,Retail,2204624
+Andaman and Nicobar Islands,2023,4,Utility,362786
+Andaman and Nicobar Islands,2024,1,P2P,1467728
+Andaman and Nicobar Islands,2024,1,Retail,2483253
+Andaman and Nicobar Islands,2024,1,Utility,377365
+Andaman and Nicobar Islands,2024,2,P2P,1548283
+Andaman and Nicobar Islands,2024,2,Retail,2830230
+Andaman and Nicobar Islands,2024,2,Utility,417077
+Andaman and Nicobar Islands,2024,3,P2P,1730844
+Andaman and Nicobar Islands,2024,3,Utility,434919
+Andaman and Nicobar Islands,2024,3,Retail,3128743
+Andaman and Nicobar Islands,2024,4,P2P,1988874
+Andaman and Nicobar Islands,2024,4,Retail,3637868
+Andaman and Nicobar Islands,2024,4,Utility,453059
+Andaman and Nicobar Islands,2025,1,P2P,2042168
+Andaman and Nicobar Islands,2025,1,Retail,3813109
+Andaman and Nicobar Islands,2025,1,Utility,476805
+Andaman and Nicobar Islands,2025,2,P2P,1943344
+Andaman and Nicobar Islands,2025,2,Retail,3953793
+Andaman and Nicobar Islands,2025,2,Utility,478132
+Andaman and Nicobar Islands,2025,3,P2P,2062721
+Andaman and Nicobar Islands,2025,3,Utility,484457
+Andaman and Nicobar Islands,2025,3,Retail,4184644
+Andaman and Nicobar Islands,2025,4,P2P,2368365
+Andaman and Nicobar Islands,2025,4,Retail,4719538
+Andaman and Nicobar Islands,2025,4,Utility,521632
+Andaman and Nicobar Islands,2026,1,P2P,2444181
+Andaman and Nicobar Islands,2026,1,Retail,4993199
+Andaman and Nicobar Islands,2026,1,Utility,527121
+Andaman and Nicobar Islands,2026,2,P2P,2318395
+Andaman and Nicobar Islands,2026,2,Retail,4915599
+Andaman and Nicobar Islands,2026,2,Utility,519101
+Andhra Pradesh,2018,1,P2P,3470494
+Andhra Pradesh,2018,1,Retail,6888562
+Andhra Pradesh,2018,1,Utility,503773
+Andhra Pradesh,2018,2,P2P,5367902
+Andhra Pradesh,2018,2,Retail,8191674
+Andhra Pradesh,2018,2,Utility,1137792
+Andhra Pradesh,2018,3,P2P,17848404
+Andhra Pradesh,2018,3,Retail,9823208
+Andhra Pradesh,2018,3,Utility,1591118
+Andhra Pradesh,2018,4,P2P,19562957
+Andhra Pradesh,2018,4,Utility,1916648
+Andhra Pradesh,2018,4,Retail,14242724
+Andhra Pradesh,2019,1,P2P,43527491
+Andhra Pradesh,2019,1,Retail,21565529
+Andhra Pradesh,2019,1,Utility,2888424
+Andhra Pradesh,2019,2,P2P,41431019
+Andhra Pradesh,2019,2,Retail,29006645
+Andhra Pradesh,2019,2,Utility,2803995
+Andhra Pradesh,2019,3,P2P,49997866
+Andhra Pradesh,2019,3,Retail,38574125
+Andhra Pradesh,2019,3,Utility,4461164
+Andhra Pradesh,2019,4,P2P,73565940
+Andhra Pradesh,2019,4,Retail,48905204
+Andhra Pradesh,2019,4,Utility,8291836
+Andhra Pradesh,2020,1,P2P,86063489
+Andhra Pradesh,2020,1,Retail,58613484
+Andhra Pradesh,2020,1,Utility,14509601
+Andhra Pradesh,2020,2,P2P,94711506
+Andhra Pradesh,2020,2,Retail,58995509
+Andhra Pradesh,2020,2,Utility,22577871
+Andhra Pradesh,2020,3,P2P,136309737
+Andhra Pradesh,2020,3,Retail,90557252
+Andhra Pradesh,2020,3,Utility,24510120
+Andhra Pradesh,2020,4,P2P,178466683
+Andhra Pradesh,2020,4,Utility,29154133
+Andhra Pradesh,2020,4,Retail,118472460
+Andhra Pradesh,2021,1,P2P,187035752
+Andhra Pradesh,2021,1,Retail,122228605
+Andhra Pradesh,2021,1,Utility,51307542
+Andhra Pradesh,2021,2,Retail,137701586
+Andhra Pradesh,2021,2,Utility,69008588
+Andhra Pradesh,2021,2,P2P,244005532
+Andhra Pradesh,2021,3,P2P,283896229
+Andhra Pradesh,2021,3,Retail,195005296
+Andhra Pradesh,2021,3,Utility,73567732
+Andhra Pradesh,2021,4,P2P,288996866
+Andhra Pradesh,2021,4,Retail,223299270
+Andhra Pradesh,2021,4,Utility,64264055
+Andhra Pradesh,2022,1,P2P,359825164
+Andhra Pradesh,2022,1,Retail,295596425
+Andhra Pradesh,2022,1,Utility,70133038
+Andhra Pradesh,2022,2,P2P,402016237
+Andhra Pradesh,2022,2,Retail,357185042
+Andhra Pradesh,2022,2,Utility,81131062
+Andhra Pradesh,2022,3,P2P,442266221
+Andhra Pradesh,2022,3,Retail,425082142
+Andhra Pradesh,2022,3,Utility,89069693
+Andhra Pradesh,2022,4,P2P,470505491
+Andhra Pradesh,2022,4,Utility,91912723
+Andhra Pradesh,2022,4,Retail,468020065
+Andhra Pradesh,2023,1,P2P,515228601
+Andhra Pradesh,2023,1,Retail,526737073
+Andhra Pradesh,2023,1,Utility,96759239
+Andhra Pradesh,2023,2,Retail,613447829
+Andhra Pradesh,2023,2,Utility,107815790
+Andhra Pradesh,2023,2,P2P,573773696
+Andhra Pradesh,2023,3,P2P,623522468
+Andhra Pradesh,2023,3,Retail,730559498
+Andhra Pradesh,2023,3,Utility,113563012
+Andhra Pradesh,2023,4,P2P,673686762
+Andhra Pradesh,2023,4,Retail,800499764
+Andhra Pradesh,2023,4,Utility,114111280
+Andhra Pradesh,2024,1,P2P,722183330
+Andhra Pradesh,2024,1,Retail,907194749
+Andhra Pradesh,2024,1,Utility,120349511
+Andhra Pradesh,2024,2,Retail,1043588059
+Andhra Pradesh,2024,2,Utility,128360994
+Andhra Pradesh,2024,2,P2P,748936609
+Andhra Pradesh,2024,3,P2P,803007628
+Andhra Pradesh,2024,3,Retail,1154960340
+Andhra Pradesh,2024,3,Utility,128090297
+Andhra Pradesh,2024,4,P2P,872939105
+Andhra Pradesh,2024,4,Retail,1284541504
+Andhra Pradesh,2024,4,Utility,135289441
+Andhra Pradesh,2025,1,P2P,926759367
+Andhra Pradesh,2025,1,Retail,1349213113
+Andhra Pradesh,2025,1,Utility,146913770
+Andhra Pradesh,2025,2,P2P,935539501
+Andhra Pradesh,2025,2,Retail,1445602514
+Andhra Pradesh,2025,2,Utility,149776958
+Andhra Pradesh,2025,3,P2P,979073292
+Andhra Pradesh,2025,3,Retail,1575163628
+Andhra Pradesh,2025,3,Utility,146091968
+Andhra Pradesh,2025,4,P2P,1018086782
+Andhra Pradesh,2025,4,Utility,147848451
+Andhra Pradesh,2025,4,Retail,1696774348
+Andhra Pradesh,2026,1,P2P,1077713980
+Andhra Pradesh,2026,1,Retail,1812911085
+Andhra Pradesh,2026,1,Utility,156804770
+Andhra Pradesh,2026,2,Retail,1978617733
+Andhra Pradesh,2026,2,Utility,157632055
+Andhra Pradesh,2026,2,P2P,1109707075
+Arunachal Pradesh,2018,1,P2P,15540
+Arunachal Pradesh,2018,1,Retail,40846
+Arunachal Pradesh,2018,1,Utility,186
+Arunachal Pradesh,2018,2,P2P,30899
+Arunachal Pradesh,2018,2,Retail,69003
+Arunachal Pradesh,2018,2,Utility,956
+Arunachal Pradesh,2018,3,P2P,56490
+Arunachal Pradesh,2018,3,Retail,102215
+Arunachal Pradesh,2018,3,Utility,1622
+Arunachal Pradesh,2018,4,P2P,78292
+Arunachal Pradesh,2018,4,Utility,2197
+Arunachal Pradesh,2018,4,Retail,141727
+Arunachal Pradesh,2019,1,P2P,114051
+Arunachal Pradesh,2019,1,Retail,175799
+Arunachal Pradesh,2019,1,Utility,3373
+Arunachal Pradesh,2019,2,P2P,148005
+Arunachal Pradesh,2019,2,Retail,235969
+Arunachal Pradesh,2019,2,Utility,3321
+Arunachal Pradesh,2019,3,P2P,187127
+Arunachal Pradesh,2019,3,Retail,246085
+Arunachal Pradesh,2019,3,Utility,22910
+Arunachal Pradesh,2019,4,P2P,248720
+Arunachal Pradesh,2019,4,Retail,245850
+Arunachal Pradesh,2019,4,Utility,76238
+Arunachal Pradesh,2020,1,P2P,282980
+Arunachal Pradesh,2020,1,Retail,284879
+Arunachal Pradesh,2020,1,Utility,128283
+Arunachal Pradesh,2020,2,P2P,340273
+Arunachal Pradesh,2020,2,Retail,407472
+Arunachal Pradesh,2020,2,Utility,224384
+Arunachal Pradesh,2020,3,P2P,475422
+Arunachal Pradesh,2020,3,Retail,466194
+Arunachal Pradesh,2020,3,Utility,218466
+Arunachal Pradesh,2020,4,P2P,611037
+Arunachal Pradesh,2020,4,Utility,284318
+Arunachal Pradesh,2020,4,Retail,498430
+Arunachal Pradesh,2021,1,P2P,717820
+Arunachal Pradesh,2021,1,Retail,268630
+Arunachal Pradesh,2021,1,Utility,525290
+Arunachal Pradesh,2021,2,Retail,357066
+Arunachal Pradesh,2021,2,Utility,749967
+Arunachal Pradesh,2021,2,P2P,1019755
+Arunachal Pradesh,2021,3,P2P,1295459
+Arunachal Pradesh,2021,3,Retail,445416
+Arunachal Pradesh,2021,3,Utility,812004
+Arunachal Pradesh,2021,4,P2P,1394700
+Arunachal Pradesh,2021,4,Retail,624665
+Arunachal Pradesh,2021,4,Utility,761738
+Arunachal Pradesh,2022,1,P2P,1814764
+Arunachal Pradesh,2022,1,Retail,974159
+Arunachal Pradesh,2022,1,Utility,854235
+Arunachal Pradesh,2022,2,P2P,2362702
+Arunachal Pradesh,2022,2,Retail,1560097
+Arunachal Pradesh,2022,2,Utility,982108
+Arunachal Pradesh,2022,3,P2P,3089113
+Arunachal Pradesh,2022,3,Retail,2127733
+Arunachal Pradesh,2022,3,Utility,1108609
+Arunachal Pradesh,2022,4,P2P,3542488
+Arunachal Pradesh,2022,4,Utility,1178436
+Arunachal Pradesh,2022,4,Retail,2753357
+Arunachal Pradesh,2023,1,P2P,3962069
+Arunachal Pradesh,2023,1,Retail,3193883
+Arunachal Pradesh,2023,1,Utility,1260713
+Arunachal Pradesh,2023,2,Retail,4518172
+Arunachal Pradesh,2023,2,Utility,1413721
+Arunachal Pradesh,2023,2,P2P,4985211
+Arunachal Pradesh,2023,3,P2P,6019719
+Arunachal Pradesh,2023,3,Retail,5692334
+Arunachal Pradesh,2023,3,Utility,1515279
+Arunachal Pradesh,2023,4,P2P,6810909
+Arunachal Pradesh,2023,4,Retail,6707771
+Arunachal Pradesh,2023,4,Utility,1565683
+Arunachal Pradesh,2024,1,P2P,7377899
+Arunachal Pradesh,2024,1,Retail,7729487
+Arunachal Pradesh,2024,1,Utility,1761139
+Arunachal Pradesh,2024,2,Retail,9939346
+Arunachal Pradesh,2024,2,Utility,1906208
+Arunachal Pradesh,2024,2,P2P,8264639
+Arunachal Pradesh,2024,3,P2P,10063903
+Arunachal Pradesh,2024,3,Retail,12397130
+Arunachal Pradesh,2024,3,Utility,2058012
+Arunachal Pradesh,2024,4,P2P,10737577
+Arunachal Pradesh,2024,4,Retail,13968413
+Arunachal Pradesh,2024,4,Utility,2084116
+Arunachal Pradesh,2025,1,P2P,10857782
+Arunachal Pradesh,2025,1,Retail,15250004
+Arunachal Pradesh,2025,1,Utility,2299656
+Arunachal Pradesh,2025,2,P2P,11005299
+Arunachal Pradesh,2025,2,Retail,17910730
+Arunachal Pradesh,2025,2,Utility,2235425
+Arunachal Pradesh,2025,3,P2P,12684279
+Arunachal Pradesh,2025,3,Retail,21332176
+Arunachal Pradesh,2025,3,Utility,2317779
+Arunachal Pradesh,2025,4,P2P,12859718
+Arunachal Pradesh,2025,4,Utility,2328499
+Arunachal Pradesh,2025,4,Retail,20914837
+Arunachal Pradesh,2026,1,P2P,12775009
+Arunachal Pradesh,2026,1,Retail,20987088
+Arunachal Pradesh,2026,1,Utility,2412789
+Arunachal Pradesh,2026,2,Retail,24690742
+Arunachal Pradesh,2026,2,Utility,2447416
+Arunachal Pradesh,2026,2,P2P,13494356
+Assam,2018,1,Retail,917663
+Assam,2018,1,P2P,367018
+Assam,2018,1,Utility,11201
+Assam,2018,2,P2P,602513
+Assam,2018,2,Retail,1336377
+Assam,2018,2,Utility,58011
+Assam,2018,3,P2P,907160
+Assam,2018,3,Retail,1729859
+Assam,2018,3,Utility,89515
+Assam,2018,4,P2P,1425542
+Assam,2018,4,Retail,2764241
+Assam,2018,4,Utility,106444
+Assam,2019,1,Retail,2757939
+Assam,2019,1,P2P,2043007
+Assam,2019,1,Utility,146609
+Assam,2019,2,P2P,2242546
+Assam,2019,2,Retail,3193461
+Assam,2019,2,Utility,149400
+Assam,2019,3,P2P,2646141
+Assam,2019,3,Retail,3051698
+Assam,2019,3,Utility,356634
+Assam,2019,4,P2P,3109608
+Assam,2019,4,Retail,2890501
+Assam,2019,4,Utility,891749
+Assam,2020,1,P2P,3723043
+Assam,2020,1,Utility,1545036
+Assam,2020,1,Retail,3406812
+Assam,2020,2,P2P,3693429
+Assam,2020,2,Retail,4571702
+Assam,2020,2,Utility,2761829
+Assam,2020,3,P2P,4865545
+Assam,2020,3,Retail,4773287
+Assam,2020,3,Utility,2322970
+Assam,2020,4,P2P,6673162
+Assam,2020,4,Retail,5154466
+Assam,2020,4,Utility,2956856
+Assam,2021,1,Retail,3579513
+Assam,2021,1,P2P,8037741
+Assam,2021,1,Utility,5700478
+Assam,2021,2,Retail,4119253
+Assam,2021,2,Utility,8502474
+Assam,2021,2,P2P,9999466
+Assam,2021,3,P2P,12915370
+Assam,2021,3,Retail,6486596
+Assam,2021,3,Utility,9291264
+Assam,2021,4,P2P,15760519
+Assam,2021,4,Retail,10034417
+Assam,2021,4,Utility,9233797
+Assam,2022,1,P2P,22622208
+Assam,2022,1,Utility,10408631
+Assam,2022,1,Retail,16994856
+Assam,2022,2,P2P,28055767
+Assam,2022,2,Retail,24578300
+Assam,2022,2,Utility,12166210
+Assam,2022,3,P2P,35183163
+Assam,2022,3,Retail,34972826
+Assam,2022,3,Utility,14185524
+Assam,2022,4,P2P,40692233
+Assam,2022,4,Retail,41152378
+Assam,2022,4,Utility,15240015
+Assam,2023,1,Retail,49721049
+Assam,2023,1,P2P,48450507
+Assam,2023,1,Utility,17044791
+Assam,2023,2,Retail,62198937
+Assam,2023,2,Utility,19532756
+Assam,2023,2,P2P,57867509
+Assam,2023,3,P2P,66738687
+Assam,2023,3,Retail,80789947
+Assam,2023,3,Utility,20749479
+Assam,2023,4,P2P,79931097
+Assam,2023,4,Retail,93896583
+Assam,2023,4,Utility,20524429
+Assam,2024,1,Retail,108690485
+Assam,2024,1,P2P,91156112
+Assam,2024,1,Utility,22782397
+Assam,2024,2,Retail,143706811
+Assam,2024,2,Utility,25314244
+Assam,2024,2,P2P,105567953
+Assam,2024,3,P2P,112086581
+Assam,2024,3,Retail,159283968
+Assam,2024,3,Utility,26379142
+Assam,2024,4,P2P,129253234
+Assam,2024,4,Retail,178000773
+Assam,2024,4,Utility,25832036
+Assam,2025,1,P2P,148257710
+Assam,2025,1,Utility,31062214
+Assam,2025,1,Retail,202129241
+Assam,2025,2,P2P,152460784
+Assam,2025,2,Retail,228314633
+Assam,2025,2,Utility,31747436
+Assam,2025,3,P2P,163168524
+Assam,2025,3,Retail,257785154
+Assam,2025,3,Utility,33608696
+Assam,2025,4,P2P,173912850
+Assam,2025,4,Retail,262799498
+Assam,2025,4,Utility,32082813
+Assam,2026,1,P2P,187964652
+Assam,2026,1,Utility,35281902
+Assam,2026,1,Retail,280234793
+Assam,2026,2,Retail,314710936
+Assam,2026,2,Utility,37936564
+Assam,2026,2,P2P,196477566
+Bihar,2018,1,P2P,2402724
+Bihar,2018,1,Retail,4816218
+Bihar,2018,1,Utility,48864
+Bihar,2018,2,P2P,3988478
+Bihar,2018,2,Retail,6197442
+Bihar,2018,2,Utility,248659
+Bihar,2018,3,P2P,9964049
+Bihar,2018,3,Retail,6195903
+Bihar,2018,3,Utility,347261
+Bihar,2018,4,P2P,9133500
+Bihar,2018,4,Retail,8778363
+Bihar,2018,4,Utility,412736
+Bihar,2019,1,P2P,17822554
+Bihar,2019,1,Retail,10134940
+Bihar,2019,1,Utility,620729
+Bihar,2019,2,P2P,15127981
+Bihar,2019,2,Retail,13444865
+Bihar,2019,2,Utility,639972
+Bihar,2019,3,P2P,14075183
+Bihar,2019,3,Retail,14352593
+Bihar,2019,3,Utility,1264920
+Bihar,2019,4,P2P,23834576
+Bihar,2019,4,Retail,13833728
+Bihar,2019,4,Utility,3299582
+Bihar,2020,1,Retail,16415988
+Bihar,2020,1,Utility,5455724
+Bihar,2020,1,P2P,22185121
+Bihar,2020,2,P2P,26487666
+Bihar,2020,2,Retail,18443012
+Bihar,2020,2,Utility,9024105
+Bihar,2020,3,P2P,37372584
+Bihar,2020,3,Retail,26489558
+Bihar,2020,3,Utility,8917471
+Bihar,2020,4,P2P,49315343
+Bihar,2020,4,Retail,37187582
+Bihar,2020,4,Utility,11193683
+Bihar,2021,1,P2P,57601479
+Bihar,2021,1,Retail,33189718
+Bihar,2021,1,Utility,20899510
+Bihar,2021,2,P2P,78237915
+Bihar,2021,2,Retail,42188486
+Bihar,2021,2,Utility,32501986
+Bihar,2021,3,P2P,92724849
+Bihar,2021,3,Retail,60516429
+Bihar,2021,3,Utility,31570844
+Bihar,2021,4,P2P,102626865
+Bihar,2021,4,Retail,80117478
+Bihar,2021,4,Utility,28850796
+Bihar,2022,1,Retail,110204201
+Bihar,2022,1,Utility,31793367
+Bihar,2022,1,P2P,137367506
+Bihar,2022,2,P2P,161392512
+Bihar,2022,2,Retail,149362668
+Bihar,2022,2,Utility,40232225
+Bihar,2022,3,P2P,180096829
+Bihar,2022,3,Retail,172516214
+Bihar,2022,3,Utility,45468409
+Bihar,2022,4,P2P,211334089
+Bihar,2022,4,Retail,219181745
+Bihar,2022,4,Utility,48045808
+Bihar,2023,1,P2P,245637029
+Bihar,2023,1,Retail,256728191
+Bihar,2023,1,Utility,54933265
+Bihar,2023,2,P2P,293573878
+Bihar,2023,2,Retail,339365938
+Bihar,2023,2,Utility,65606677
+Bihar,2023,3,P2P,311733910
+Bihar,2023,3,Retail,364225692
+Bihar,2023,3,Utility,68033312
+Bihar,2023,4,P2P,394950650
+Bihar,2023,4,Retail,471333078
+Bihar,2023,4,Utility,73025892
+Bihar,2024,1,P2P,455919236
+Bihar,2024,1,Retail,544022949
+Bihar,2024,1,Utility,86165652
+Bihar,2024,2,P2P,529175031
+Bihar,2024,2,Retail,693433446
+Bihar,2024,2,Utility,99126252
+Bihar,2024,3,P2P,547856063
+Bihar,2024,3,Retail,710563604
+Bihar,2024,3,Utility,96191519
+Bihar,2024,4,P2P,641897466
+Bihar,2024,4,Retail,820470734
+Bihar,2024,4,Utility,97440319
+Bihar,2025,1,Retail,800286778
+Bihar,2025,1,Utility,101340524
+Bihar,2025,1,P2P,629038929
+Bihar,2025,2,P2P,703844449
+Bihar,2025,2,Retail,980327979
+Bihar,2025,2,Utility,109613379
+Bihar,2025,3,P2P,695549121
+Bihar,2025,3,Retail,1002602349
+Bihar,2025,3,Utility,105850547
+Bihar,2025,4,P2P,793555664
+Bihar,2025,4,Retail,1119034346
+Bihar,2025,4,Utility,109996353
+Bihar,2026,1,Retail,1152850594
+Bihar,2026,1,Utility,112264306
+Bihar,2026,1,P2P,833487914
+Bihar,2026,2,P2P,879874401
+Bihar,2026,2,Retail,1295213536
+Bihar,2026,2,Utility,113963936
+Chandigarh,2018,1,P2P,86598
+Chandigarh,2018,1,Retail,135274
+Chandigarh,2018,1,Utility,2103
+Chandigarh,2018,2,P2P,139093
+Chandigarh,2018,2,Retail,171635
+Chandigarh,2018,2,Utility,8832
+Chandigarh,2018,3,P2P,205970
+Chandigarh,2018,3,Retail,197262
+Chandigarh,2018,3,Utility,14687
+Chandigarh,2018,4,Retail,279421
+Chandigarh,2018,4,Utility,19324
+Chandigarh,2018,4,P2P,304514
+Chandigarh,2019,1,P2P,485410
+Chandigarh,2019,1,Retail,360000
+Chandigarh,2019,1,Utility,31410
+Chandigarh,2019,2,P2P,506704
+Chandigarh,2019,2,Retail,534131
+Chandigarh,2019,2,Utility,40446
+Chandigarh,2019,3,P2P,607651
+Chandigarh,2019,3,Retail,746995
+Chandigarh,2019,3,Utility,73559
+Chandigarh,2019,4,P2P,722134
+Chandigarh,2019,4,Retail,812438
+Chandigarh,2019,4,Utility,128746
+Chandigarh,2020,1,P2P,707916
+Chandigarh,2020,1,Retail,890041
+Chandigarh,2020,1,Utility,178573
+Chandigarh,2020,2,P2P,425584
+Chandigarh,2020,2,Retail,500782
+Chandigarh,2020,2,Utility,172129
+Chandigarh,2020,3,P2P,675369
+Chandigarh,2020,3,Retail,925689
+Chandigarh,2020,3,Utility,186053
+Chandigarh,2020,4,Retail,1450083
+Chandigarh,2020,4,Utility,258048
+Chandigarh,2020,4,P2P,902711
+Chandigarh,2021,1,P2P,1088211
+Chandigarh,2021,1,Retail,1728889
+Chandigarh,2021,1,Utility,473914
+Chandigarh,2021,2,Retail,1673769
+Chandigarh,2021,2,Utility,552658
+Chandigarh,2021,2,P2P,1110497
+Chandigarh,2021,3,P2P,1505884
+Chandigarh,2021,3,Retail,2650201
+Chandigarh,2021,3,Utility,639374
+Chandigarh,2021,4,P2P,1508876
+Chandigarh,2021,4,Retail,2956450
+Chandigarh,2021,4,Utility,547261
+Chandigarh,2022,1,P2P,1784924
+Chandigarh,2022,1,Retail,3654287
+Chandigarh,2022,1,Utility,586867
+Chandigarh,2022,2,P2P,2128206
+Chandigarh,2022,2,Retail,4970069
+Chandigarh,2022,2,Utility,663607
+Chandigarh,2022,3,P2P,2527240
+Chandigarh,2022,3,Retail,5882444
+Chandigarh,2022,3,Utility,765462
+Chandigarh,2022,4,Retail,6381514
+Chandigarh,2022,4,Utility,755871
+Chandigarh,2022,4,P2P,2607319
+Chandigarh,2023,1,P2P,2723528
+Chandigarh,2023,1,Retail,6679868
+Chandigarh,2023,1,Utility,779399
+Chandigarh,2023,2,Retail,8001836
+Chandigarh,2023,2,Utility,845048
+Chandigarh,2023,2,P2P,3155761
+Chandigarh,2023,3,P2P,3525766
+Chandigarh,2023,3,Retail,9100188
+Chandigarh,2023,3,Utility,888688
+Chandigarh,2023,4,P2P,3600977
+Chandigarh,2023,4,Retail,9344696
+Chandigarh,2023,4,Utility,839308
+Chandigarh,2024,1,P2P,3544955
+Chandigarh,2024,1,Retail,9276490
+Chandigarh,2024,1,Utility,845616
+Chandigarh,2024,2,Retail,11519996
+Chandigarh,2024,2,Utility,945062
+Chandigarh,2024,2,P2P,4105222
+Chandigarh,2024,3,P2P,4542561
+Chandigarh,2024,3,Retail,12269851
+Chandigarh,2024,3,Utility,1018070
+Chandigarh,2024,4,P2P,4741956
+Chandigarh,2024,4,Retail,12890043
+Chandigarh,2024,4,Utility,1013894
+Chandigarh,2025,1,P2P,5030048
+Chandigarh,2025,1,Retail,13786138
+Chandigarh,2025,1,Utility,1115029
+Chandigarh,2025,2,P2P,4978557
+Chandigarh,2025,2,Retail,14246760
+Chandigarh,2025,2,Utility,1030151
+Chandigarh,2025,3,P2P,5537474
+Chandigarh,2025,3,Retail,15506364
+Chandigarh,2025,3,Utility,1105728
+Chandigarh,2025,4,Retail,15785608
+Chandigarh,2025,4,Utility,1093710
+Chandigarh,2025,4,P2P,5748592
+Chandigarh,2026,1,P2P,5753972
+Chandigarh,2026,1,Retail,15927532
+Chandigarh,2026,1,Utility,1138785
+Chandigarh,2026,2,Retail,17838348
+Chandigarh,2026,2,Utility,1109237
+Chandigarh,2026,2,P2P,6189470
+Chhattisgarh,2018,1,P2P,639043
+Chhattisgarh,2018,1,Retail,1589599
+Chhattisgarh,2018,1,Utility,79932
+Chhattisgarh,2018,2,P2P,1072278
+Chhattisgarh,2018,2,Retail,2124217
+Chhattisgarh,2018,2,Utility,183975
+Chhattisgarh,2018,3,P2P,1798955
+Chhattisgarh,2018,3,Retail,2435063
+Chhattisgarh,2018,3,Utility,278528
+Chhattisgarh,2018,4,P2P,2623941
+Chhattisgarh,2018,4,Retail,3372461
+Chhattisgarh,2018,4,Utility,356824
+Chhattisgarh,2019,1,P2P,4296607
+Chhattisgarh,2019,1,Retail,4062272
+Chhattisgarh,2019,1,Utility,447231
+Chhattisgarh,2019,2,P2P,4418365
+Chhattisgarh,2019,2,Retail,5256226
+Chhattisgarh,2019,2,Utility,467315
+Chhattisgarh,2019,3,P2P,5228457
+Chhattisgarh,2019,3,Retail,6394057
+Chhattisgarh,2019,3,Utility,837626
+Chhattisgarh,2019,4,P2P,7300968
+Chhattisgarh,2019,4,Retail,7244686
+Chhattisgarh,2019,4,Utility,1811639
+Chhattisgarh,2020,1,P2P,7781097
+Chhattisgarh,2020,1,Retail,8600738
+Chhattisgarh,2020,1,Utility,2711559
+Chhattisgarh,2020,2,P2P,8442089
+Chhattisgarh,2020,2,Retail,8614241
+Chhattisgarh,2020,2,Utility,3952782
+Chhattisgarh,2020,3,P2P,12041208
+Chhattisgarh,2020,3,Retail,12030721
+Chhattisgarh,2020,3,Utility,4210764
+Chhattisgarh,2020,4,P2P,16417563
+Chhattisgarh,2020,4,Retail,18163320
+Chhattisgarh,2020,4,Utility,5223775
+Chhattisgarh,2021,1,P2P,19316584
+Chhattisgarh,2021,1,Retail,19091610
+Chhattisgarh,2021,1,Utility,10222266
+Chhattisgarh,2021,2,P2P,23437224
+Chhattisgarh,2021,2,Retail,19178737
+Chhattisgarh,2021,2,Utility,14858951
+Chhattisgarh,2021,3,P2P,31909232
+Chhattisgarh,2021,3,Retail,33321770
+Chhattisgarh,2021,3,Utility,15486870
+Chhattisgarh,2021,4,P2P,35131434
+Chhattisgarh,2021,4,Retail,42220296
+Chhattisgarh,2021,4,Utility,13634340
+Chhattisgarh,2022,1,P2P,45584964
+Chhattisgarh,2022,1,Retail,57726019
+Chhattisgarh,2022,1,Utility,15340629
+Chhattisgarh,2022,2,P2P,52204431
+Chhattisgarh,2022,2,Retail,73440835
+Chhattisgarh,2022,2,Utility,18004384
+Chhattisgarh,2022,3,P2P,61107108
+Chhattisgarh,2022,3,Retail,87352711
+Chhattisgarh,2022,3,Utility,20317816
+Chhattisgarh,2022,4,P2P,69413479
+Chhattisgarh,2022,4,Retail,102175844
+Chhattisgarh,2022,4,Utility,21052451
+Chhattisgarh,2023,1,P2P,76789266
+Chhattisgarh,2023,1,Retail,113977816
+Chhattisgarh,2023,1,Utility,23918375
+Chhattisgarh,2023,2,P2P,86943045
+Chhattisgarh,2023,2,Retail,136171929
+Chhattisgarh,2023,2,Utility,27053139
+Chhattisgarh,2023,3,P2P,97126941
+Chhattisgarh,2023,3,Retail,158512662
+Chhattisgarh,2023,3,Utility,27931179
+Chhattisgarh,2023,4,P2P,110933299
+Chhattisgarh,2023,4,Retail,183166600
+Chhattisgarh,2023,4,Utility,28461939
+Chhattisgarh,2024,1,P2P,124650369
+Chhattisgarh,2024,1,Retail,209330663
+Chhattisgarh,2024,1,Utility,32670030
+Chhattisgarh,2024,2,P2P,134770237
+Chhattisgarh,2024,2,Retail,241644172
+Chhattisgarh,2024,2,Utility,36083364
+Chhattisgarh,2024,3,P2P,146277797
+Chhattisgarh,2024,3,Retail,260777393
+Chhattisgarh,2024,3,Utility,36086655
+Chhattisgarh,2024,4,P2P,166440802
+Chhattisgarh,2024,4,Retail,296276945
+Chhattisgarh,2024,4,Utility,37316174
+Chhattisgarh,2025,1,P2P,164285124
+Chhattisgarh,2025,1,Retail,292745236
+Chhattisgarh,2025,1,Utility,41684435
+Chhattisgarh,2025,2,P2P,166802677
+Chhattisgarh,2025,2,Retail,320942200
+Chhattisgarh,2025,2,Utility,42493171
+Chhattisgarh,2025,3,P2P,179010025
+Chhattisgarh,2025,3,Retail,346929895
+Chhattisgarh,2025,3,Utility,41810158
+Chhattisgarh,2025,4,P2P,194816642
+Chhattisgarh,2025,4,Retail,369466099
+Chhattisgarh,2025,4,Utility,41418377
+Chhattisgarh,2026,1,P2P,199909355
+Chhattisgarh,2026,1,Retail,381331900
+Chhattisgarh,2026,1,Utility,44200445
+Chhattisgarh,2026,2,P2P,199041865
+Chhattisgarh,2026,2,Retail,402505854
+Chhattisgarh,2026,2,Utility,44653852
+Dadra and Nagar Haveli and Daman and Diu,2018,1,P2P,48727
+Dadra and Nagar Haveli and Daman and Diu,2018,1,Retail,124310
+Dadra and Nagar Haveli and Daman and Diu,2018,1,Utility,2712
+Dadra and Nagar Haveli and Daman and Diu,2018,2,P2P,75693
+Dadra and Nagar Haveli and Daman and Diu,2018,2,Retail,150355
+Dadra and Nagar Haveli and Daman and Diu,2018,2,Utility,7282
+Dadra and Nagar Haveli and Daman and Diu,2018,3,P2P,125652
+Dadra and Nagar Haveli and Daman and Diu,2018,3,Retail,190778
+Dadra and Nagar Haveli and Daman and Diu,2018,3,Utility,10687
+Dadra and Nagar Haveli and Daman and Diu,2018,4,Retail,240461
+Dadra and Nagar Haveli and Daman and Diu,2018,4,P2P,207646
+Dadra and Nagar Haveli and Daman and Diu,2018,4,Utility,12612
+Dadra and Nagar Haveli and Daman and Diu,2019,1,P2P,463399
+Dadra and Nagar Haveli and Daman and Diu,2019,1,Retail,285372
+Dadra and Nagar Haveli and Daman and Diu,2019,1,Utility,16689
+Dadra and Nagar Haveli and Daman and Diu,2019,2,P2P,320409
+Dadra and Nagar Haveli and Daman and Diu,2019,2,Retail,324440
+Dadra and Nagar Haveli and Daman and Diu,2019,2,Utility,15630
+Dadra and Nagar Haveli and Daman and Diu,2019,3,P2P,340048
+Dadra and Nagar Haveli and Daman and Diu,2019,3,Retail,371757
+Dadra and Nagar Haveli and Daman and Diu,2019,3,Utility,42282
+Dadra and Nagar Haveli and Daman and Diu,2019,4,P2P,439004
+Dadra and Nagar Haveli and Daman and Diu,2019,4,Retail,375567
+Dadra and Nagar Haveli and Daman and Diu,2019,4,Utility,102306
+Dadra and Nagar Haveli and Daman and Diu,2020,1,P2P,449715
+Dadra and Nagar Haveli and Daman and Diu,2020,1,Retail,459843
+Dadra and Nagar Haveli and Daman and Diu,2020,1,Utility,149809
+Dadra and Nagar Haveli and Daman and Diu,2020,2,P2P,427476
+Dadra and Nagar Haveli and Daman and Diu,2020,2,Retail,483124
+Dadra and Nagar Haveli and Daman and Diu,2020,2,Utility,218092
+Dadra and Nagar Haveli and Daman and Diu,2020,3,P2P,553718
+Dadra and Nagar Haveli and Daman and Diu,2020,3,Retail,633739
+Dadra and Nagar Haveli and Daman and Diu,2020,3,Utility,194133
+Dadra and Nagar Haveli and Daman and Diu,2020,4,Retail,1023837
+Dadra and Nagar Haveli and Daman and Diu,2020,4,P2P,780882
+Dadra and Nagar Haveli and Daman and Diu,2020,4,Utility,269757
+Dadra and Nagar Haveli and Daman and Diu,2021,1,P2P,981563
+Dadra and Nagar Haveli and Daman and Diu,2021,1,Retail,969125
+Dadra and Nagar Haveli and Daman and Diu,2021,1,Utility,517520
+Dadra and Nagar Haveli and Daman and Diu,2021,2,P2P,1108625
+Dadra and Nagar Haveli and Daman and Diu,2021,2,Utility,640807
+Dadra and Nagar Haveli and Daman and Diu,2021,2,Retail,1065450
+Dadra and Nagar Haveli and Daman and Diu,2021,3,P2P,1642468
+Dadra and Nagar Haveli and Daman and Diu,2021,3,Retail,1727177
+Dadra and Nagar Haveli and Daman and Diu,2021,3,Utility,761155
+Dadra and Nagar Haveli and Daman and Diu,2021,4,P2P,1752030
+Dadra and Nagar Haveli and Daman and Diu,2021,4,Retail,2297983
+Dadra and Nagar Haveli and Daman and Diu,2021,4,Utility,668701
+Dadra and Nagar Haveli and Daman and Diu,2022,1,P2P,2194931
+Dadra and Nagar Haveli and Daman and Diu,2022,1,Retail,3219540
+Dadra and Nagar Haveli and Daman and Diu,2022,1,Utility,685309
+Dadra and Nagar Haveli and Daman and Diu,2022,2,P2P,2354655
+Dadra and Nagar Haveli and Daman and Diu,2022,2,Retail,4326687
+Dadra and Nagar Haveli and Daman and Diu,2022,2,Utility,750002
+Dadra and Nagar Haveli and Daman and Diu,2022,3,P2P,2905787
+Dadra and Nagar Haveli and Daman and Diu,2022,3,Retail,5333300
+Dadra and Nagar Haveli and Daman and Diu,2022,3,Utility,928626
+Dadra and Nagar Haveli and Daman and Diu,2022,4,Retail,6545310
+Dadra and Nagar Haveli and Daman and Diu,2022,4,P2P,3196176
+Dadra and Nagar Haveli and Daman and Diu,2022,4,Utility,926056
+Dadra and Nagar Haveli and Daman and Diu,2023,1,P2P,3455321
+Dadra and Nagar Haveli and Daman and Diu,2023,1,Retail,7186722
+Dadra and Nagar Haveli and Daman and Diu,2023,1,Utility,985895
+Dadra and Nagar Haveli and Daman and Diu,2023,2,P2P,3776627
+Dadra and Nagar Haveli and Daman and Diu,2023,2,Utility,1059690
+Dadra and Nagar Haveli and Daman and Diu,2023,2,Retail,8303022
+Dadra and Nagar Haveli and Daman and Diu,2023,3,P2P,4410140
+Dadra and Nagar Haveli and Daman and Diu,2023,3,Retail,9373489
+Dadra and Nagar Haveli and Daman and Diu,2023,3,Utility,1162740
+Dadra and Nagar Haveli and Daman and Diu,2023,4,P2P,5097316
+Dadra and Nagar Haveli and Daman and Diu,2023,4,Retail,11546558
+Dadra and Nagar Haveli and Daman and Diu,2023,4,Utility,1206838
+Dadra and Nagar Haveli and Daman and Diu,2024,1,P2P,5816338
+Dadra and Nagar Haveli and Daman and Diu,2024,1,Retail,13145056
+Dadra and Nagar Haveli and Daman and Diu,2024,1,Utility,1392162
+Dadra and Nagar Haveli and Daman and Diu,2024,2,P2P,6167656
+Dadra and Nagar Haveli and Daman and Diu,2024,2,Utility,1482566
+Dadra and Nagar Haveli and Daman and Diu,2024,2,Retail,14877323
+Dadra and Nagar Haveli and Daman and Diu,2024,3,P2P,6931855
+Dadra and Nagar Haveli and Daman and Diu,2024,3,Retail,15976900
+Dadra and Nagar Haveli and Daman and Diu,2024,3,Utility,1543426
+Dadra and Nagar Haveli and Daman and Diu,2024,4,P2P,7537976
+Dadra and Nagar Haveli and Daman and Diu,2024,4,Retail,18263646
+Dadra and Nagar Haveli and Daman and Diu,2024,4,Utility,1552401
+Dadra and Nagar Haveli and Daman and Diu,2025,1,P2P,7221487
+Dadra and Nagar Haveli and Daman and Diu,2025,1,Retail,18323342
+Dadra and Nagar Haveli and Daman and Diu,2025,1,Utility,1562980
+Dadra and Nagar Haveli and Daman and Diu,2025,2,P2P,7216216
+Dadra and Nagar Haveli and Daman and Diu,2025,2,Retail,19481392
+Dadra and Nagar Haveli and Daman and Diu,2025,2,Utility,1527743
+Dadra and Nagar Haveli and Daman and Diu,2025,3,P2P,8208256
+Dadra and Nagar Haveli and Daman and Diu,2025,3,Retail,21544940
+Dadra and Nagar Haveli and Daman and Diu,2025,3,Utility,1690805
+Dadra and Nagar Haveli and Daman and Diu,2025,4,Retail,22194792
+Dadra and Nagar Haveli and Daman and Diu,2025,4,P2P,8706241
+Dadra and Nagar Haveli and Daman and Diu,2025,4,Utility,1645644
+Dadra and Nagar Haveli and Daman and Diu,2026,1,P2P,9026170
+Dadra and Nagar Haveli and Daman and Diu,2026,1,Retail,23012051
+Dadra and Nagar Haveli and Daman and Diu,2026,1,Utility,1680935
+Dadra and Nagar Haveli and Daman and Diu,2026,2,P2P,8616843
+Dadra and Nagar Haveli and Daman and Diu,2026,2,Utility,1527516
+Dadra and Nagar Haveli and Daman and Diu,2026,2,Retail,22891864
+Delhi,2018,1,P2P,1615875
+Delhi,2018,1,Retail,2985448
+Delhi,2018,1,Utility,260065
+Delhi,2018,2,P2P,2449953
+Delhi,2018,2,Retail,3933398
+Delhi,2018,2,Utility,506635
+Delhi,2018,3,P2P,3857294
+Delhi,2018,3,Retail,7857195
+Delhi,2018,3,Utility,860477
+Delhi,2018,4,P2P,6896926
+Delhi,2018,4,Retail,16093319
+Delhi,2018,4,Utility,1860729
+Delhi,2019,1,P2P,13271887
+Delhi,2019,1,Retail,20659076
+Delhi,2019,1,Utility,2963382
+Delhi,2019,2,P2P,14006642
+Delhi,2019,2,Retail,25329627
+Delhi,2019,2,Utility,3677505
+Delhi,2019,3,P2P,17777669
+Delhi,2019,3,Retail,32091616
+Delhi,2019,3,Utility,5872908
+Delhi,2019,4,P2P,22990805
+Delhi,2019,4,Retail,31670633
+Delhi,2019,4,Utility,7887397
+Delhi,2020,1,P2P,23652153
+Delhi,2020,1,Retail,33050230
+Delhi,2020,1,Utility,8215685
+Delhi,2020,2,P2P,19831287
+Delhi,2020,2,Retail,25679771
+Delhi,2020,2,Utility,6930252
+Delhi,2020,3,P2P,29703975
+Delhi,2020,3,Retail,36733987
+Delhi,2020,3,Utility,7424548
+Delhi,2020,4,P2P,39937336
+Delhi,2020,4,Retail,50818263
+Delhi,2020,4,Utility,10505343
+Delhi,2021,1,P2P,46702955
+Delhi,2021,1,Retail,56615267
+Delhi,2021,1,Utility,16835054
+Delhi,2021,2,P2P,48255308
+Delhi,2021,2,Retail,54742475
+Delhi,2021,2,Utility,18473500
+Delhi,2021,3,P2P,67534917
+Delhi,2021,3,Retail,82693069
+Delhi,2021,3,Utility,22523596
+Delhi,2021,4,P2P,69394557
+Delhi,2021,4,Retail,91396064
+Delhi,2021,4,Utility,19381497
+Delhi,2022,1,P2P,84352873
+Delhi,2022,1,Retail,118196322
+Delhi,2022,1,Utility,20602963
+Delhi,2022,2,P2P,97270927
+Delhi,2022,2,Retail,159256415
+Delhi,2022,2,Utility,24135356
+Delhi,2022,3,P2P,114108021
+Delhi,2022,3,Retail,193226144
+Delhi,2022,3,Utility,28810329
+Delhi,2022,4,P2P,121689844
+Delhi,2022,4,Retail,213906227
+Delhi,2022,4,Utility,29427236
+Delhi,2023,1,P2P,134544771
+Delhi,2023,1,Retail,241528649
+Delhi,2023,1,Utility,32210985
+Delhi,2023,2,P2P,150932258
+Delhi,2023,2,Retail,293401714
+Delhi,2023,2,Utility,35543813
+Delhi,2023,3,P2P,166704530
+Delhi,2023,3,Retail,339588954
+Delhi,2023,3,Utility,38169781
+Delhi,2023,4,P2P,184185421
+Delhi,2023,4,Retail,373762989
+Delhi,2023,4,Utility,38030327
+Delhi,2024,1,P2P,196018058
+Delhi,2024,1,Retail,411667423
+Delhi,2024,1,Utility,41003547
+Delhi,2024,2,P2P,219740879
+Delhi,2024,2,Retail,509081017
+Delhi,2024,2,Utility,45492460
+Delhi,2024,3,P2P,242375284
+Delhi,2024,3,Retail,552938672
+Delhi,2024,3,Utility,49397556
+Delhi,2024,4,P2P,261111396
+Delhi,2024,4,Retail,597843647
+Delhi,2024,4,Utility,51136394
+Delhi,2025,1,P2P,270766003
+Delhi,2025,1,Retail,618162326
+Delhi,2025,1,Utility,58066232
+Delhi,2025,2,P2P,270015501
+Delhi,2025,2,Retail,662259192
+Delhi,2025,2,Utility,56078668
+Delhi,2025,3,P2P,293655235
+Delhi,2025,3,Retail,714113988
+Delhi,2025,3,Utility,61548053
+Delhi,2025,4,P2P,299388404
+Delhi,2025,4,Retail,727159498
+Delhi,2025,4,Utility,61435469
+Delhi,2026,1,P2P,296399539
+Delhi,2026,1,Retail,729639080
+Delhi,2026,1,Utility,61742114
+Delhi,2026,2,P2P,306838191
+Delhi,2026,2,Retail,802878308
+Delhi,2026,2,Utility,62188327
+Goa,2018,1,P2P,66717
+Goa,2018,1,Retail,115688
+Goa,2018,1,Utility,978
+Goa,2018,2,Retail,155786
+Goa,2018,2,Utility,4759
+Goa,2018,2,P2P,96965
+Goa,2018,3,P2P,161853
+Goa,2018,3,Retail,206471
+Goa,2018,3,Utility,8189
+Goa,2018,4,P2P,268194
+Goa,2018,4,Retail,301078
+Goa,2018,4,Utility,10375
+Goa,2019,1,P2P,442149
+Goa,2019,1,Retail,405891
+Goa,2019,1,Utility,21039
+Goa,2019,2,Retail,527008
+Goa,2019,2,Utility,29378
+Goa,2019,2,P2P,510080
+Goa,2019,3,P2P,649002
+Goa,2019,3,Retail,625843
+Goa,2019,3,Utility,77114
+Goa,2019,4,P2P,959581
+Goa,2019,4,Retail,742233
+Goa,2019,4,Utility,199647
+Goa,2020,1,P2P,1095516
+Goa,2020,1,Retail,920792
+Goa,2020,1,Utility,292336
+Goa,2020,2,Retail,763049
+Goa,2020,2,Utility,347749
+Goa,2020,2,P2P,629488
+Goa,2020,3,P2P,847145
+Goa,2020,3,Retail,966368
+Goa,2020,3,Utility,319592
+Goa,2020,4,P2P,1695904
+Goa,2020,4,Retail,1953066
+Goa,2020,4,Utility,497313
+Goa,2021,1,P2P,2574988
+Goa,2021,1,Retail,2615744
+Goa,2021,1,Utility,978889
+Goa,2021,2,P2P,2032902
+Goa,2021,2,Retail,2174178
+Goa,2021,2,Utility,1136351
+Goa,2021,3,P2P,2861832
+Goa,2021,3,Retail,3288618
+Goa,2021,3,Utility,1267079
+Goa,2021,4,P2P,4502621
+Goa,2021,4,Retail,5639629
+Goa,2021,4,Utility,1323738
+Goa,2022,1,P2P,5223491
+Goa,2022,1,Retail,7310623
+Goa,2022,1,Utility,1394762
+Goa,2022,2,Retail,8797632
+Goa,2022,2,Utility,1565643
+Goa,2022,2,P2P,5658819
+Goa,2022,3,P2P,6030389
+Goa,2022,3,Retail,10069731
+Goa,2022,3,Utility,1681161
+Goa,2022,4,P2P,7786510
+Goa,2022,4,Retail,13577360
+Goa,2022,4,Utility,1856794
+Goa,2023,1,P2P,8076526
+Goa,2023,1,Retail,14541027
+Goa,2023,1,Utility,1908727
+Goa,2023,2,P2P,8592814
+Goa,2023,2,Retail,16228200
+Goa,2023,2,Utility,2043786
+Goa,2023,3,P2P,8489626
+Goa,2023,3,Retail,16701945
+Goa,2023,3,Utility,2057103
+Goa,2023,4,P2P,10436608
+Goa,2023,4,Retail,21043935
+Goa,2023,4,Utility,2163377
+Goa,2024,1,P2P,10733878
+Goa,2024,1,Retail,22126561
+Goa,2024,1,Utility,2285672
+Goa,2024,2,P2P,10934962
+Goa,2024,2,Retail,23876060
+Goa,2024,2,Utility,2371417
+Goa,2024,3,P2P,10857503
+Goa,2024,3,Retail,23713527
+Goa,2024,3,Utility,2395328
+Goa,2024,4,P2P,13498885
+Goa,2024,4,Retail,30230530
+Goa,2024,4,Utility,2589479
+Goa,2025,1,P2P,14131627
+Goa,2025,1,Retail,32194383
+Goa,2025,1,Utility,2867963
+Goa,2025,2,Retail,30469355
+Goa,2025,2,Utility,2669494
+Goa,2025,2,P2P,12632826
+Goa,2025,3,P2P,12865476
+Goa,2025,3,Retail,30620188
+Goa,2025,3,Utility,2665063
+Goa,2025,4,P2P,14936827
+Goa,2025,4,Retail,35239184
+Goa,2025,4,Utility,2775581
+Goa,2026,1,P2P,15481410
+Goa,2026,1,Retail,36831929
+Goa,2026,1,Utility,2855777
+Goa,2026,2,P2P,14983673
+Goa,2026,2,Retail,37488228
+Goa,2026,2,Utility,2736896
+Gujarat,2018,1,P2P,1830544
+Gujarat,2018,1,Retail,4636584
+Gujarat,2018,1,Utility,168384
+Gujarat,2018,2,P2P,2611334
+Gujarat,2018,2,Retail,5503458
+Gujarat,2018,2,Utility,461319
+Gujarat,2018,3,P2P,5489933
+Gujarat,2018,3,Retail,6110333
+Gujarat,2018,3,Utility,641837
+Gujarat,2018,4,P2P,6833499
+Gujarat,2018,4,Retail,8704983
+Gujarat,2018,4,Utility,769597
+Gujarat,2019,1,P2P,13774066
+Gujarat,2019,1,Retail,11548425
+Gujarat,2019,1,Utility,1132735
+Gujarat,2019,2,P2P,11595434
+Gujarat,2019,2,Retail,15025058
+Gujarat,2019,2,Utility,1171086
+Gujarat,2019,3,P2P,13435353
+Gujarat,2019,3,Retail,21282425
+Gujarat,2019,3,Utility,2150621
+Gujarat,2019,4,P2P,17984643
+Gujarat,2019,4,Retail,18884739
+Gujarat,2019,4,Utility,4541135
+Gujarat,2020,1,P2P,18268400
+Gujarat,2020,1,Utility,6372515
+Gujarat,2020,1,Retail,22371270
+Gujarat,2020,2,P2P,15009269
+Gujarat,2020,2,Retail,21301458
+Gujarat,2020,2,Utility,8469098
+Gujarat,2020,3,P2P,22093055
+Gujarat,2020,3,Retail,28750957
+Gujarat,2020,3,Utility,7929243
+Gujarat,2020,4,P2P,28915624
+Gujarat,2020,4,Retail,37351915
+Gujarat,2020,4,Utility,11083263
+Gujarat,2021,1,P2P,35155051
+Gujarat,2021,1,Retail,36594813
+Gujarat,2021,1,Utility,21245003
+Gujarat,2021,2,P2P,39949396
+Gujarat,2021,2,Retail,41144828
+Gujarat,2021,2,Utility,27647135
+Gujarat,2021,3,P2P,54390293
+Gujarat,2021,3,Retail,61450401
+Gujarat,2021,3,Utility,30725112
+Gujarat,2021,4,P2P,56399845
+Gujarat,2021,4,Retail,71950994
+Gujarat,2021,4,Utility,27265731
+Gujarat,2022,1,P2P,74150580
+Gujarat,2022,1,Utility,29300212
+Gujarat,2022,1,Retail,98716618
+Gujarat,2022,2,P2P,82061815
+Gujarat,2022,2,Retail,126999953
+Gujarat,2022,2,Utility,33804215
+Gujarat,2022,3,P2P,100513268
+Gujarat,2022,3,Retail,157589389
+Gujarat,2022,3,Utility,40067690
+Gujarat,2022,4,P2P,108856133
+Gujarat,2022,4,Retail,179290320
+Gujarat,2022,4,Utility,40928065
+Gujarat,2023,1,P2P,121055664
+Gujarat,2023,1,Retail,204120466
+Gujarat,2023,1,Utility,43825872
+Gujarat,2023,2,P2P,132213776
+Gujarat,2023,2,Retail,245264196
+Gujarat,2023,2,Utility,47973734
+Gujarat,2023,3,P2P,151993907
+Gujarat,2023,3,Retail,282686065
+Gujarat,2023,3,Utility,50932042
+Gujarat,2023,4,P2P,167346113
+Gujarat,2023,4,Retail,323807182
+Gujarat,2023,4,Utility,51225825
+Gujarat,2024,1,P2P,188201304
+Gujarat,2024,1,Retail,369258483
+Gujarat,2024,1,Utility,56638527
+Gujarat,2024,2,P2P,199975569
+Gujarat,2024,2,Retail,441428904
+Gujarat,2024,2,Utility,60516982
+Gujarat,2024,3,P2P,225932859
+Gujarat,2024,3,Retail,473594132
+Gujarat,2024,3,Utility,64160595
+Gujarat,2024,4,P2P,244412869
+Gujarat,2024,4,Retail,522588190
+Gujarat,2024,4,Utility,64354451
+Gujarat,2025,1,P2P,261049938
+Gujarat,2025,1,Utility,71901303
+Gujarat,2025,1,Retail,569309965
+Gujarat,2025,2,P2P,251082446
+Gujarat,2025,2,Retail,602292300
+Gujarat,2025,2,Utility,66134130
+Gujarat,2025,3,P2P,289978000
+Gujarat,2025,3,Retail,684049224
+Gujarat,2025,3,Utility,71326567
+Gujarat,2025,4,P2P,305349338
+Gujarat,2025,4,Retail,672395110
+Gujarat,2025,4,Utility,70450414
+Gujarat,2026,1,P2P,333335610
+Gujarat,2026,1,Utility,73998228
+Gujarat,2026,1,Retail,720203459
+Gujarat,2026,2,P2P,330324037
+Gujarat,2026,2,Retail,757197417
+Gujarat,2026,2,Utility,70381232
+Haryana,2018,1,Retail,3258301
+Haryana,2018,1,P2P,1735441
+Haryana,2018,1,Utility,50655
+Haryana,2018,2,P2P,2579978
+Haryana,2018,2,Retail,4054740
+Haryana,2018,2,Utility,232435
+Haryana,2018,3,P2P,3891786
+Haryana,2018,3,Retail,4806047
+Haryana,2018,3,Utility,337486
+Haryana,2018,4,P2P,6368684
+Haryana,2018,4,Retail,7602117
+Haryana,2018,4,Utility,555261
+Haryana,2019,1,Retail,10298565
+Haryana,2019,1,P2P,14454322
+Haryana,2019,1,Utility,883953
+Haryana,2019,2,P2P,12805219
+Haryana,2019,2,Retail,14367720
+Haryana,2019,2,Utility,1125662
+Haryana,2019,3,P2P,14597118
+Haryana,2019,3,Retail,19464332
+Haryana,2019,3,Utility,2072737
+Haryana,2019,4,P2P,19453976
+Haryana,2019,4,Retail,21364196
+Haryana,2019,4,Utility,3922821
+Haryana,2020,1,P2P,21051976
+Haryana,2020,1,Retail,25036070
+Haryana,2020,1,Utility,5251155
+Haryana,2020,2,P2P,19749837
+Haryana,2020,2,Retail,20771849
+Haryana,2020,2,Utility,5978008
+Haryana,2020,3,P2P,29036906
+Haryana,2020,3,Retail,32099499
+Haryana,2020,3,Utility,6230451
+Haryana,2020,4,P2P,37925384
+Haryana,2020,4,Retail,44510568
+Haryana,2020,4,Utility,8902670
+Haryana,2021,1,Retail,46819759
+Haryana,2021,1,P2P,43022006
+Haryana,2021,1,Utility,15942911
+Haryana,2021,2,P2P,51942602
+Haryana,2021,2,Utility,20392290
+Haryana,2021,2,Retail,52047541
+Haryana,2021,3,P2P,66050125
+Haryana,2021,3,Retail,77143949
+Haryana,2021,3,Utility,22571715
+Haryana,2021,4,P2P,67543542
+Haryana,2021,4,Retail,85064659
+Haryana,2021,4,Utility,20117157
+Haryana,2022,1,P2P,85153388
+Haryana,2022,1,Retail,112255341
+Haryana,2022,1,Utility,23133103
+Haryana,2022,2,P2P,96613876
+Haryana,2022,2,Retail,148317828
+Haryana,2022,2,Utility,26335681
+Haryana,2022,3,P2P,113184007
+Haryana,2022,3,Retail,182189584
+Haryana,2022,3,Utility,30545383
+Haryana,2022,4,P2P,117778439
+Haryana,2022,4,Retail,197287674
+Haryana,2022,4,Utility,31355451
+Haryana,2023,1,Retail,219069526
+Haryana,2023,1,P2P,128988482
+Haryana,2023,1,Utility,34370284
+Haryana,2023,2,P2P,147501959
+Haryana,2023,2,Utility,37873831
+Haryana,2023,2,Retail,273061935
+Haryana,2023,3,P2P,156895804
+Haryana,2023,3,Retail,306428250
+Haryana,2023,3,Utility,38692273
+Haryana,2023,4,P2P,175660164
+Haryana,2023,4,Retail,339854772
+Haryana,2023,4,Utility,40280339
+Haryana,2024,1,Retail,373122494
+Haryana,2024,1,P2P,188138732
+Haryana,2024,1,Utility,44836765
+Haryana,2024,2,P2P,214631303
+Haryana,2024,2,Utility,49105924
+Haryana,2024,2,Retail,476635703
+Haryana,2024,3,P2P,231883044
+Haryana,2024,3,Retail,513982387
+Haryana,2024,3,Utility,51465693
+Haryana,2024,4,P2P,245119637
+Haryana,2024,4,Retail,546237947
+Haryana,2024,4,Utility,52743722
+Haryana,2025,1,P2P,248265982
+Haryana,2025,1,Retail,552381807
+Haryana,2025,1,Utility,56985955
+Haryana,2025,2,P2P,259001315
+Haryana,2025,2,Retail,627408882
+Haryana,2025,2,Utility,55088912
+Haryana,2025,3,P2P,276948829
+Haryana,2025,3,Retail,676587870
+Haryana,2025,3,Utility,58279648
+Haryana,2025,4,P2P,286824452
+Haryana,2025,4,Retail,679431344
+Haryana,2025,4,Utility,58933440
+Haryana,2026,1,P2P,288242452
+Haryana,2026,1,Retail,682240539
+Haryana,2026,1,Utility,60386295
+Haryana,2026,2,P2P,302949383
+Haryana,2026,2,Utility,59580774
+Haryana,2026,2,Retail,768184781
+Himachal Pradesh,2018,1,P2P,155307
+Himachal Pradesh,2018,1,Retail,374817
+Himachal Pradesh,2018,1,Utility,2024
+Himachal Pradesh,2018,2,P2P,244789
+Himachal Pradesh,2018,2,Retail,495410
+Himachal Pradesh,2018,2,Utility,12426
+Himachal Pradesh,2018,3,P2P,359835
+Himachal Pradesh,2018,3,Retail,591381
+Himachal Pradesh,2018,3,Utility,31853
+Himachal Pradesh,2018,4,P2P,614646
+Himachal Pradesh,2018,4,Retail,826781
+Himachal Pradesh,2018,4,Utility,45038
+Himachal Pradesh,2019,1,P2P,1174821
+Himachal Pradesh,2019,1,Retail,1063259
+Himachal Pradesh,2019,1,Utility,77081
+Himachal Pradesh,2019,2,P2P,1109932
+Himachal Pradesh,2019,2,Retail,1399651
+Himachal Pradesh,2019,2,Utility,85275
+Himachal Pradesh,2019,3,P2P,1136295
+Himachal Pradesh,2019,3,Retail,1483897
+Himachal Pradesh,2019,3,Utility,180023
+Himachal Pradesh,2019,4,P2P,1525082
+Himachal Pradesh,2019,4,Retail,1623659
+Himachal Pradesh,2019,4,Utility,444274
+Himachal Pradesh,2020,1,P2P,1548749
+Himachal Pradesh,2020,1,Retail,1973218
+Himachal Pradesh,2020,1,Utility,713544
+Himachal Pradesh,2020,2,P2P,1491543
+Himachal Pradesh,2020,2,Retail,2214649
+Himachal Pradesh,2020,2,Utility,1142256
+Himachal Pradesh,2020,3,P2P,2021110
+Himachal Pradesh,2020,3,Retail,2795882
+Himachal Pradesh,2020,3,Utility,1060966
+Himachal Pradesh,2020,4,P2P,2642942
+Himachal Pradesh,2020,4,Retail,3543029
+Himachal Pradesh,2020,4,Utility,1462519
+Himachal Pradesh,2021,1,P2P,3080132
+Himachal Pradesh,2021,1,Retail,2729674
+Himachal Pradesh,2021,1,Utility,2606950
+Himachal Pradesh,2021,2,P2P,3654848
+Himachal Pradesh,2021,2,Retail,3324890
+Himachal Pradesh,2021,2,Utility,3693667
+Himachal Pradesh,2021,3,P2P,4692458
+Himachal Pradesh,2021,3,Retail,4599348
+Himachal Pradesh,2021,3,Utility,3705835
+Himachal Pradesh,2021,4,P2P,4865930
+Himachal Pradesh,2021,4,Retail,5779795
+Himachal Pradesh,2021,4,Utility,3104536
+Himachal Pradesh,2022,1,P2P,5795846
+Himachal Pradesh,2022,1,Retail,7493598
+Himachal Pradesh,2022,1,Utility,3274250
+Himachal Pradesh,2022,2,P2P,7197331
+Himachal Pradesh,2022,2,Retail,11288487
+Himachal Pradesh,2022,2,Utility,3748312
+Himachal Pradesh,2022,3,P2P,7859922
+Himachal Pradesh,2022,3,Retail,12331466
+Himachal Pradesh,2022,3,Utility,4191848
+Himachal Pradesh,2022,4,P2P,8530434
+Himachal Pradesh,2022,4,Retail,15080061
+Himachal Pradesh,2022,4,Utility,3996602
+Himachal Pradesh,2023,1,P2P,8712826
+Himachal Pradesh,2023,1,Retail,15826198
+Himachal Pradesh,2023,1,Utility,4052173
+Himachal Pradesh,2023,2,P2P,10883052
+Himachal Pradesh,2023,2,Retail,21622495
+Himachal Pradesh,2023,2,Utility,4460264
+Himachal Pradesh,2023,3,P2P,10089367
+Himachal Pradesh,2023,3,Retail,20360373
+Himachal Pradesh,2023,3,Utility,4275412
+Himachal Pradesh,2023,4,P2P,11483554
+Himachal Pradesh,2023,4,Retail,25051506
+Himachal Pradesh,2023,4,Utility,4080214
+Himachal Pradesh,2024,1,P2P,11816852
+Himachal Pradesh,2024,1,Retail,24834607
+Himachal Pradesh,2024,1,Utility,4160326
+Himachal Pradesh,2024,2,P2P,14982368
+Himachal Pradesh,2024,2,Retail,34599835
+Himachal Pradesh,2024,2,Utility,4924706
+Himachal Pradesh,2024,3,P2P,14456119
+Himachal Pradesh,2024,3,Retail,31103167
+Himachal Pradesh,2024,3,Utility,4690964
+Himachal Pradesh,2024,4,P2P,15664730
+Himachal Pradesh,2024,4,Retail,33892927
+Himachal Pradesh,2024,4,Utility,4538144
+Himachal Pradesh,2025,1,P2P,16289890
+Himachal Pradesh,2025,1,Retail,36211260
+Himachal Pradesh,2025,1,Utility,5175278
+Himachal Pradesh,2025,2,P2P,17252603
+Himachal Pradesh,2025,2,Retail,41619250
+Himachal Pradesh,2025,2,Utility,5031057
+Himachal Pradesh,2025,3,P2P,16586359
+Himachal Pradesh,2025,3,Retail,38757665
+Himachal Pradesh,2025,3,Utility,4977567
+Himachal Pradesh,2025,4,P2P,18434338
+Himachal Pradesh,2025,4,Retail,39612159
+Himachal Pradesh,2025,4,Utility,4856000
+Himachal Pradesh,2026,1,P2P,18652821
+Himachal Pradesh,2026,1,Retail,39046196
+Himachal Pradesh,2026,1,Utility,5034304
+Himachal Pradesh,2026,2,P2P,21564394
+Himachal Pradesh,2026,2,Retail,47984389
+Himachal Pradesh,2026,2,Utility,5304226
+Jammu and Kashmir,2018,1,P2P,265236
+Jammu and Kashmir,2018,1,Retail,389224
+Jammu and Kashmir,2018,1,Utility,1703
+Jammu and Kashmir,2018,2,P2P,495778
+Jammu and Kashmir,2018,2,Retail,571507
+Jammu and Kashmir,2018,2,Utility,19492
+Jammu and Kashmir,2018,3,P2P,757932
+Jammu and Kashmir,2018,3,Retail,484480
+Jammu and Kashmir,2018,3,Utility,34797
+Jammu and Kashmir,2018,4,P2P,548498
+Jammu and Kashmir,2018,4,Utility,46651
+Jammu and Kashmir,2018,4,Retail,673367
+Jammu and Kashmir,2019,1,P2P,969595
+Jammu and Kashmir,2019,1,Retail,772422
+Jammu and Kashmir,2019,1,Utility,86148
+Jammu and Kashmir,2019,2,P2P,1056876
+Jammu and Kashmir,2019,2,Retail,989235
+Jammu and Kashmir,2019,2,Utility,73051
+Jammu and Kashmir,2019,3,P2P,476173
+Jammu and Kashmir,2019,3,Retail,432043
+Jammu and Kashmir,2019,3,Utility,39568
+Jammu and Kashmir,2019,4,P2P,152003
+Jammu and Kashmir,2019,4,Retail,75857
+Jammu and Kashmir,2019,4,Utility,44221
+Jammu and Kashmir,2020,1,P2P,392979
+Jammu and Kashmir,2020,1,Retail,285108
+Jammu and Kashmir,2020,1,Utility,174338
+Jammu and Kashmir,2020,2,P2P,1113996
+Jammu and Kashmir,2020,2,Retail,830419
+Jammu and Kashmir,2020,2,Utility,533819
+Jammu and Kashmir,2020,3,P2P,1579112
+Jammu and Kashmir,2020,3,Retail,1130325
+Jammu and Kashmir,2020,3,Utility,554350
+Jammu and Kashmir,2020,4,P2P,2151666
+Jammu and Kashmir,2020,4,Utility,1047336
+Jammu and Kashmir,2020,4,Retail,2498216
+Jammu and Kashmir,2021,1,P2P,2422378
+Jammu and Kashmir,2021,1,Retail,1821330
+Jammu and Kashmir,2021,1,Utility,2575293
+Jammu and Kashmir,2021,2,P2P,3376159
+Jammu and Kashmir,2021,2,Retail,2461450
+Jammu and Kashmir,2021,2,Utility,3921511
+Jammu and Kashmir,2021,3,P2P,4549759
+Jammu and Kashmir,2021,3,Retail,3104332
+Jammu and Kashmir,2021,3,Utility,4492677
+Jammu and Kashmir,2021,4,P2P,4805709
+Jammu and Kashmir,2021,4,Retail,4460916
+Jammu and Kashmir,2021,4,Utility,4185175
+Jammu and Kashmir,2022,1,P2P,6090704
+Jammu and Kashmir,2022,1,Retail,6333871
+Jammu and Kashmir,2022,1,Utility,4507844
+Jammu and Kashmir,2022,2,P2P,8551984
+Jammu and Kashmir,2022,2,Retail,10304279
+Jammu and Kashmir,2022,2,Utility,5709975
+Jammu and Kashmir,2022,3,P2P,10903528
+Jammu and Kashmir,2022,3,Retail,13247341
+Jammu and Kashmir,2022,3,Utility,6805168
+Jammu and Kashmir,2022,4,P2P,11572484
+Jammu and Kashmir,2022,4,Utility,7329984
+Jammu and Kashmir,2022,4,Retail,18526673
+Jammu and Kashmir,2023,1,P2P,12550695
+Jammu and Kashmir,2023,1,Retail,21801222
+Jammu and Kashmir,2023,1,Utility,7886467
+Jammu and Kashmir,2023,2,P2P,18040047
+Jammu and Kashmir,2023,2,Retail,31290114
+Jammu and Kashmir,2023,2,Utility,9735287
+Jammu and Kashmir,2023,3,P2P,20679778
+Jammu and Kashmir,2023,3,Retail,35773150
+Jammu and Kashmir,2023,3,Utility,11048892
+Jammu and Kashmir,2023,4,P2P,21009113
+Jammu and Kashmir,2023,4,Retail,41933534
+Jammu and Kashmir,2023,4,Utility,10731946
+Jammu and Kashmir,2024,1,P2P,21727328
+Jammu and Kashmir,2024,1,Retail,45932216
+Jammu and Kashmir,2024,1,Utility,10129715
+Jammu and Kashmir,2024,2,P2P,30644374
+Jammu and Kashmir,2024,2,Retail,68626394
+Jammu and Kashmir,2024,2,Utility,12818698
+Jammu and Kashmir,2024,3,P2P,35392152
+Jammu and Kashmir,2024,3,Retail,72576759
+Jammu and Kashmir,2024,3,Utility,13248428
+Jammu and Kashmir,2024,4,P2P,37298358
+Jammu and Kashmir,2024,4,Retail,77050079
+Jammu and Kashmir,2024,4,Utility,12993535
+Jammu and Kashmir,2025,1,P2P,37620630
+Jammu and Kashmir,2025,1,Retail,80196524
+Jammu and Kashmir,2025,1,Utility,14639948
+Jammu and Kashmir,2025,2,P2P,42511800
+Jammu and Kashmir,2025,2,Retail,98320985
+Jammu and Kashmir,2025,2,Utility,14916288
+Jammu and Kashmir,2025,3,P2P,46404338
+Jammu and Kashmir,2025,3,Retail,101539363
+Jammu and Kashmir,2025,3,Utility,15255239
+Jammu and Kashmir,2025,4,P2P,47917355
+Jammu and Kashmir,2025,4,Utility,14940519
+Jammu and Kashmir,2025,4,Retail,98610091
+Jammu and Kashmir,2026,1,P2P,46503195
+Jammu and Kashmir,2026,1,Retail,93587796
+Jammu and Kashmir,2026,1,Utility,14375967
+Jammu and Kashmir,2026,2,P2P,55206052
+Jammu and Kashmir,2026,2,Retail,117475120
+Jammu and Kashmir,2026,2,Utility,15060953
+Jharkhand,2018,1,P2P,947125
+Jharkhand,2018,1,Retail,1726726
+Jharkhand,2018,1,Utility,4149
+Jharkhand,2018,2,P2P,1593567
+Jharkhand,2018,2,Retail,2116672
+Jharkhand,2018,2,Utility,45765
+Jharkhand,2018,3,P2P,6756488
+Jharkhand,2018,3,Retail,2349945
+Jharkhand,2018,3,Utility,93885
+Jharkhand,2018,4,P2P,3755791
+Jharkhand,2018,4,Retail,3314423
+Jharkhand,2018,4,Utility,125151
+Jharkhand,2019,1,P2P,6717237
+Jharkhand,2019,1,Retail,3804061
+Jharkhand,2019,1,Utility,202422
+Jharkhand,2019,2,P2P,5913940
+Jharkhand,2019,2,Retail,5681873
+Jharkhand,2019,2,Utility,217193
+Jharkhand,2019,3,P2P,6510320
+Jharkhand,2019,3,Retail,8952523
+Jharkhand,2019,3,Utility,481640
+Jharkhand,2019,4,P2P,11836414
+Jharkhand,2019,4,Retail,7431278
+Jharkhand,2019,4,Utility,1278276
+Jharkhand,2020,1,P2P,9481346
+Jharkhand,2020,1,Retail,9031137
+Jharkhand,2020,1,Utility,2178190
+Jharkhand,2020,2,P2P,9797276
+Jharkhand,2020,2,Retail,8793799
+Jharkhand,2020,2,Utility,3535284
+Jharkhand,2020,3,P2P,14261806
+Jharkhand,2020,3,Utility,3380879
+Jharkhand,2020,3,Retail,13724440
+Jharkhand,2020,4,P2P,19241235
+Jharkhand,2020,4,Retail,20202143
+Jharkhand,2020,4,Utility,4346894
+Jharkhand,2021,1,P2P,22330559
+Jharkhand,2021,1,Retail,21235684
+Jharkhand,2021,1,Utility,8783677
+Jharkhand,2021,2,P2P,28958156
+Jharkhand,2021,2,Retail,22645520
+Jharkhand,2021,2,Utility,13484679
+Jharkhand,2021,3,P2P,36049192
+Jharkhand,2021,3,Utility,14028016
+Jharkhand,2021,3,Retail,35362822
+Jharkhand,2021,4,P2P,40807294
+Jharkhand,2021,4,Retail,46792105
+Jharkhand,2021,4,Utility,12830291
+Jharkhand,2022,1,P2P,53521439
+Jharkhand,2022,1,Retail,62624486
+Jharkhand,2022,1,Utility,14341518
+Jharkhand,2022,2,P2P,61327193
+Jharkhand,2022,2,Retail,79513404
+Jharkhand,2022,2,Utility,17487019
+Jharkhand,2022,3,P2P,70952996
+Jharkhand,2022,3,Utility,20077026
+Jharkhand,2022,3,Retail,93843062
+Jharkhand,2022,4,P2P,80680000
+Jharkhand,2022,4,Retail,112033002
+Jharkhand,2022,4,Utility,20742620
+Jharkhand,2023,1,P2P,92176742
+Jharkhand,2023,1,Retail,127450739
+Jharkhand,2023,1,Utility,23350115
+Jharkhand,2023,2,P2P,107804978
+Jharkhand,2023,2,Retail,157909691
+Jharkhand,2023,2,Utility,26784523
+Jharkhand,2023,3,P2P,116600180
+Jharkhand,2023,3,Retail,177337898
+Jharkhand,2023,3,Utility,27164590
+Jharkhand,2023,4,P2P,139481501
+Jharkhand,2023,4,Retail,211872201
+Jharkhand,2023,4,Utility,28030186
+Jharkhand,2024,1,P2P,157990766
+Jharkhand,2024,1,Retail,240172406
+Jharkhand,2024,1,Utility,31791598
+Jharkhand,2024,2,P2P,176556980
+Jharkhand,2024,2,Retail,290437854
+Jharkhand,2024,2,Utility,35450575
+Jharkhand,2024,3,P2P,185937852
+Jharkhand,2024,3,Retail,302180456
+Jharkhand,2024,3,Utility,34315977
+Jharkhand,2024,4,P2P,211112198
+Jharkhand,2024,4,Retail,339852753
+Jharkhand,2024,4,Utility,35557816
+Jharkhand,2025,1,P2P,216904868
+Jharkhand,2025,1,Retail,343440347
+Jharkhand,2025,1,Utility,39049753
+Jharkhand,2025,2,P2P,231273756
+Jharkhand,2025,2,Retail,394139963
+Jharkhand,2025,2,Utility,40418780
+Jharkhand,2025,3,P2P,239848372
+Jharkhand,2025,3,Retail,415102736
+Jharkhand,2025,3,Utility,40092792
+Jharkhand,2025,4,P2P,257280435
+Jharkhand,2025,4,Retail,441921141
+Jharkhand,2025,4,Utility,40169634
+Jharkhand,2026,1,P2P,266563753
+Jharkhand,2026,1,Retail,455474383
+Jharkhand,2026,1,Utility,42553181
+Jharkhand,2026,2,P2P,274010191
+Jharkhand,2026,2,Retail,498662306
+Jharkhand,2026,2,Utility,42637464
+Karnataka,2018,1,P2P,4019765
+Karnataka,2018,1,Retail,6950094
+Karnataka,2018,1,Utility,289544
+Karnataka,2018,2,P2P,6502018
+Karnataka,2018,2,Retail,8777546
+Karnataka,2018,2,Utility,729134
+Karnataka,2018,3,P2P,10890904
+Karnataka,2018,3,Retail,11393430
+Karnataka,2018,3,Utility,1117158
+Karnataka,2018,4,P2P,18845529
+Karnataka,2018,4,Utility,1551206
+Karnataka,2018,4,Retail,22411453
+Karnataka,2019,1,P2P,42558665
+Karnataka,2019,1,Retail,39499009
+Karnataka,2019,1,Utility,2599376
+Karnataka,2019,2,P2P,51792667
+Karnataka,2019,2,Retail,64951290
+Karnataka,2019,2,Utility,2874388
+Karnataka,2019,3,P2P,70653459
+Karnataka,2019,3,Retail,103434009
+Karnataka,2019,3,Utility,5680029
+Karnataka,2019,4,Retail,136538824
+Karnataka,2019,4,Utility,11671731
+Karnataka,2019,4,P2P,97978867
+Karnataka,2020,1,P2P,104854727
+Karnataka,2020,1,Retail,155213652
+Karnataka,2020,1,Utility,18130058
+Karnataka,2020,2,P2P,83140160
+Karnataka,2020,2,Retail,106019637
+Karnataka,2020,2,Utility,23392132
+Karnataka,2020,3,P2P,121005509
+Karnataka,2020,3,Retail,155688887
+Karnataka,2020,3,Utility,24301811
+Karnataka,2020,4,P2P,166354896
+Karnataka,2020,4,Utility,30443681
+Karnataka,2020,4,Retail,232139007
+Karnataka,2021,1,P2P,189767892
+Karnataka,2021,1,Retail,278444938
+Karnataka,2021,1,Utility,53754469
+Karnataka,2021,2,Utility,73595718
+Karnataka,2021,2,P2P,213932224
+Karnataka,2021,2,Retail,240282738
+Karnataka,2021,3,P2P,284775729
+Karnataka,2021,3,Retail,382783587
+Karnataka,2021,3,Utility,79090457
+Karnataka,2021,4,Retail,428409513
+Karnataka,2021,4,Utility,73377637
+Karnataka,2021,4,P2P,299544336
+Karnataka,2022,1,P2P,378524434
+Karnataka,2022,1,Retail,573122892
+Karnataka,2022,1,Utility,84078680
+Karnataka,2022,2,P2P,438454375
+Karnataka,2022,2,Retail,722776073
+Karnataka,2022,2,Utility,100400772
+Karnataka,2022,3,P2P,506236100
+Karnataka,2022,3,Retail,878792459
+Karnataka,2022,3,Utility,114818294
+Karnataka,2022,4,P2P,542356761
+Karnataka,2022,4,Utility,120746351
+Karnataka,2022,4,Retail,973811552
+Karnataka,2023,1,P2P,596684637
+Karnataka,2023,1,Retail,1108594530
+Karnataka,2023,1,Utility,126994552
+Karnataka,2023,2,Utility,143163466
+Karnataka,2023,2,P2P,655266669
+Karnataka,2023,2,Retail,1254350536
+Karnataka,2023,3,P2P,733654998
+Karnataka,2023,3,Retail,1474542255
+Karnataka,2023,3,Utility,149411413
+Karnataka,2023,4,Retail,1599837426
+Karnataka,2023,4,Utility,153913609
+Karnataka,2023,4,P2P,796720335
+Karnataka,2024,1,P2P,854741628
+Karnataka,2024,1,Retail,1769743226
+Karnataka,2024,1,Utility,162229165
+Karnataka,2024,2,Utility,173336590
+Karnataka,2024,2,P2P,911025984
+Karnataka,2024,2,Retail,1944859250
+Karnataka,2024,3,P2P,985650830
+Karnataka,2024,3,Retail,2093950803
+Karnataka,2024,3,Utility,179701829
+Karnataka,2024,4,Retail,2233293582
+Karnataka,2024,4,Utility,184563072
+Karnataka,2024,4,P2P,1039717182
+Karnataka,2025,1,P2P,1107610457
+Karnataka,2025,1,Retail,2427111761
+Karnataka,2025,1,Utility,195201067
+Karnataka,2025,2,P2P,1080287597
+Karnataka,2025,2,Retail,2452632899
+Karnataka,2025,2,Utility,197160334
+Karnataka,2025,3,P2P,1116255213
+Karnataka,2025,3,Retail,2545361507
+Karnataka,2025,3,Utility,191298984
+Karnataka,2025,4,P2P,1167109048
+Karnataka,2025,4,Utility,193787780
+Karnataka,2025,4,Retail,2703392355
+Karnataka,2026,1,P2P,1205710715
+Karnataka,2026,1,Retail,2825330293
+Karnataka,2026,1,Utility,197107980
+Karnataka,2026,2,Utility,207964808
+Karnataka,2026,2,P2P,1250633746
+Karnataka,2026,2,Retail,3033113369
+Kerala,2018,1,P2P,598075
+Kerala,2018,1,Retail,1222873
+Kerala,2018,1,Utility,4424
+Kerala,2018,2,P2P,828394
+Kerala,2018,2,Retail,1454296
+Kerala,2018,2,Utility,35445
+Kerala,2018,3,P2P,1314738
+Kerala,2018,3,Retail,1718134
+Kerala,2018,3,Utility,56851
+Kerala,2018,4,P2P,2056759
+Kerala,2018,4,Utility,65447
+Kerala,2018,4,Retail,2322398
+Kerala,2019,1,P2P,3583016
+Kerala,2019,1,Retail,2906623
+Kerala,2019,1,Utility,123154
+Kerala,2019,2,P2P,3576434
+Kerala,2019,2,Retail,3887749
+Kerala,2019,2,Utility,198355
+Kerala,2019,3,P2P,4285730
+Kerala,2019,3,Retail,4827707
+Kerala,2019,3,Utility,520130
+Kerala,2019,4,P2P,6073579
+Kerala,2019,4,Retail,5655198
+Kerala,2019,4,Utility,1245359
+Kerala,2020,1,P2P,6285143
+Kerala,2020,1,Retail,7087979
+Kerala,2020,1,Utility,2061926
+Kerala,2020,2,P2P,4835285
+Kerala,2020,2,Retail,7591045
+Kerala,2020,2,Utility,3254822
+Kerala,2020,3,P2P,8342008
+Kerala,2020,3,Retail,10639866
+Kerala,2020,3,Utility,3320213
+Kerala,2020,4,P2P,12960136
+Kerala,2020,4,Utility,4893132
+Kerala,2020,4,Retail,16554145
+Kerala,2021,1,P2P,16497214
+Kerala,2021,1,Retail,17500843
+Kerala,2021,1,Utility,9833672
+Kerala,2021,2,P2P,17410034
+Kerala,2021,2,Retail,16995197
+Kerala,2021,2,Utility,15125247
+Kerala,2021,3,P2P,24038832
+Kerala,2021,3,Retail,26792845
+Kerala,2021,3,Utility,15339519
+Kerala,2021,4,P2P,25988637
+Kerala,2021,4,Retail,35632663
+Kerala,2021,4,Utility,13172187
+Kerala,2022,1,P2P,32902484
+Kerala,2022,1,Retail,49169365
+Kerala,2022,1,Utility,14362158
+Kerala,2022,2,P2P,35607788
+Kerala,2022,2,Retail,57745367
+Kerala,2022,2,Utility,15904350
+Kerala,2022,3,P2P,42607631
+Kerala,2022,3,Retail,72429593
+Kerala,2022,3,Utility,18095993
+Kerala,2022,4,P2P,45561057
+Kerala,2022,4,Utility,18411745
+Kerala,2022,4,Retail,81180394
+Kerala,2023,1,P2P,46092010
+Kerala,2023,1,Retail,85084073
+Kerala,2023,1,Utility,17588686
+Kerala,2023,2,P2P,48079475
+Kerala,2023,2,Retail,90888495
+Kerala,2023,2,Utility,18893067
+Kerala,2023,3,P2P,51776040
+Kerala,2023,3,Retail,100655472
+Kerala,2023,3,Utility,19155551
+Kerala,2023,4,P2P,54727019
+Kerala,2023,4,Retail,108215077
+Kerala,2023,4,Utility,18228626
+Kerala,2024,1,P2P,54332511
+Kerala,2024,1,Retail,109820926
+Kerala,2024,1,Utility,17944266
+Kerala,2024,2,P2P,56637815
+Kerala,2024,2,Retail,120226924
+Kerala,2024,2,Utility,18664818
+Kerala,2024,3,P2P,64035147
+Kerala,2024,3,Retail,131732251
+Kerala,2024,3,Utility,19738562
+Kerala,2024,4,P2P,69835587
+Kerala,2024,4,Retail,143632641
+Kerala,2024,4,Utility,19803441
+Kerala,2025,1,P2P,73441722
+Kerala,2025,1,Retail,153309373
+Kerala,2025,1,Utility,21026262
+Kerala,2025,2,P2P,67677636
+Kerala,2025,2,Retail,150007968
+Kerala,2025,2,Utility,19819864
+Kerala,2025,3,P2P,75618258
+Kerala,2025,3,Retail,165209747
+Kerala,2025,3,Utility,20137871
+Kerala,2025,4,P2P,82739665
+Kerala,2025,4,Utility,20746377
+Kerala,2025,4,Retail,177673616
+Kerala,2026,1,P2P,83964124
+Kerala,2026,1,Retail,180100477
+Kerala,2026,1,Utility,20551782
+Kerala,2026,2,P2P,82527448
+Kerala,2026,2,Retail,191946358
+Kerala,2026,2,Utility,20176010
+Ladakh,2018,1,P2P,2100
+Ladakh,2018,1,Retail,5556
+Ladakh,2018,1,Utility,77
+Ladakh,2018,2,Retail,11482
+Ladakh,2018,2,Utility,253
+Ladakh,2018,2,P2P,6677
+Ladakh,2018,3,P2P,11465
+Ladakh,2018,3,Retail,18155
+Ladakh,2018,3,Utility,729
+Ladakh,2018,4,Retail,25020
+Ladakh,2018,4,Utility,1351
+Ladakh,2018,4,P2P,18127
+Ladakh,2019,1,P2P,26902
+Ladakh,2019,1,Retail,31236
+Ladakh,2019,1,Utility,2132
+Ladakh,2019,2,Retail,52308
+Ladakh,2019,2,Utility,2456
+Ladakh,2019,2,P2P,48630
+Ladakh,2019,3,P2P,62163
+Ladakh,2019,3,Retail,51154
+Ladakh,2019,3,Utility,7701
+Ladakh,2019,4,P2P,61312
+Ladakh,2019,4,Retail,35256
+Ladakh,2019,4,Utility,16642
+Ladakh,2020,1,P2P,72321
+Ladakh,2020,1,Retail,50689
+Ladakh,2020,1,Utility,26498
+Ladakh,2020,2,Retail,62740
+Ladakh,2020,2,Utility,40125
+Ladakh,2020,2,P2P,93537
+Ladakh,2020,3,Retail,93272
+Ladakh,2020,3,Utility,50315
+Ladakh,2020,3,P2P,148038
+Ladakh,2020,4,Retail,147929
+Ladakh,2020,4,Utility,68325
+Ladakh,2020,4,P2P,184000
+Ladakh,2021,1,P2P,194706
+Ladakh,2021,1,Retail,110768
+Ladakh,2021,1,Utility,94672
+Ladakh,2021,2,P2P,313050
+Ladakh,2021,2,Retail,196095
+Ladakh,2021,2,Utility,141433
+Ladakh,2021,3,Retail,269662
+Ladakh,2021,3,Utility,181030
+Ladakh,2021,3,P2P,479271
+Ladakh,2021,4,P2P,416036
+Ladakh,2021,4,Retail,285865
+Ladakh,2021,4,Utility,155738
+Ladakh,2022,1,P2P,490348
+Ladakh,2022,1,Retail,333285
+Ladakh,2022,1,Utility,168329
+Ladakh,2022,2,Retail,587810
+Ladakh,2022,2,Utility,256115
+Ladakh,2022,2,P2P,847046
+Ladakh,2022,3,Retail,710428
+Ladakh,2022,3,Utility,302983
+Ladakh,2022,3,P2P,1064875
+Ladakh,2022,4,Retail,773705
+Ladakh,2022,4,Utility,262043
+Ladakh,2022,4,P2P,900940
+Ladakh,2023,1,P2P,840723
+Ladakh,2023,1,Retail,794686
+Ladakh,2023,1,Utility,247516
+Ladakh,2023,2,P2P,1534520
+Ladakh,2023,2,Retail,1437079
+Ladakh,2023,2,Utility,424429
+Ladakh,2023,3,P2P,1856334
+Ladakh,2023,3,Retail,1693969
+Ladakh,2023,3,Utility,515323
+Ladakh,2023,4,P2P,1495868
+Ladakh,2023,4,Retail,1624260
+Ladakh,2023,4,Utility,403359
+Ladakh,2024,1,P2P,1309880
+Ladakh,2024,1,Retail,1611509
+Ladakh,2024,1,Utility,332052
+Ladakh,2024,2,P2P,2223303
+Ladakh,2024,2,Retail,2943855
+Ladakh,2024,2,Utility,524781
+Ladakh,2024,3,P2P,2729278
+Ladakh,2024,3,Retail,3592229
+Ladakh,2024,3,Utility,641721
+Ladakh,2024,4,P2P,2147484
+Ladakh,2024,4,Retail,3075686
+Ladakh,2024,4,Utility,509252
+Ladakh,2025,1,P2P,1789370
+Ladakh,2025,1,Retail,2532508
+Ladakh,2025,1,Utility,508051
+Ladakh,2025,2,Retail,4345406
+Ladakh,2025,2,Utility,632290
+Ladakh,2025,2,P2P,2676016
+Ladakh,2025,3,P2P,3175450
+Ladakh,2025,3,Retail,4892557
+Ladakh,2025,3,Utility,714259
+Ladakh,2025,4,Retail,3470604
+Ladakh,2025,4,Utility,543512
+Ladakh,2025,4,P2P,2329612
+Ladakh,2026,1,P2P,2125414
+Ladakh,2026,1,Retail,3180624
+Ladakh,2026,1,Utility,474318
+Ladakh,2026,2,P2P,3331223
+Ladakh,2026,2,Retail,5270609
+Ladakh,2026,2,Utility,655593
+Lakshadweep,2018,1,P2P,576
+Lakshadweep,2018,1,Retail,548
+Lakshadweep,2018,2,P2P,1665
+Lakshadweep,2018,2,Retail,1202
+Lakshadweep,2018,2,Utility,8
+Lakshadweep,2018,3,P2P,1177
+Lakshadweep,2018,3,Retail,1481
+Lakshadweep,2018,3,Utility,18
+Lakshadweep,2018,4,P2P,1178
+Lakshadweep,2018,4,Retail,1800
+Lakshadweep,2018,4,Utility,41
+Lakshadweep,2019,1,P2P,2117
+Lakshadweep,2019,1,Retail,2458
+Lakshadweep,2019,1,Utility,47
+Lakshadweep,2019,2,P2P,2342
+Lakshadweep,2019,2,Retail,3217
+Lakshadweep,2019,2,Utility,49
+Lakshadweep,2019,3,P2P,2600
+Lakshadweep,2019,3,Retail,2520
+Lakshadweep,2019,3,Utility,190
+Lakshadweep,2019,4,Retail,2626
+Lakshadweep,2019,4,Utility,334
+Lakshadweep,2019,4,P2P,3137
+Lakshadweep,2020,1,Retail,4060
+Lakshadweep,2020,1,Utility,763
+Lakshadweep,2020,1,P2P,3906
+Lakshadweep,2020,2,P2P,3849
+Lakshadweep,2020,2,Retail,6329
+Lakshadweep,2020,2,Utility,1324
+Lakshadweep,2020,3,P2P,5177
+Lakshadweep,2020,3,Retail,7289
+Lakshadweep,2020,3,Utility,1440
+Lakshadweep,2020,4,P2P,7324
+Lakshadweep,2020,4,Retail,7929
+Lakshadweep,2020,4,Utility,2419
+Lakshadweep,2021,1,P2P,6910
+Lakshadweep,2021,1,Retail,3956
+Lakshadweep,2021,1,Utility,5199
+Lakshadweep,2021,2,P2P,7419
+Lakshadweep,2021,2,Retail,3416
+Lakshadweep,2021,2,Utility,9953
+Lakshadweep,2021,3,P2P,10295
+Lakshadweep,2021,3,Retail,4919
+Lakshadweep,2021,3,Utility,9413
+Lakshadweep,2021,4,Retail,5279
+Lakshadweep,2021,4,Utility,8630
+Lakshadweep,2021,4,P2P,11408
+Lakshadweep,2022,1,Retail,6831
+Lakshadweep,2022,1,Utility,9168
+Lakshadweep,2022,1,P2P,14349
+Lakshadweep,2022,2,P2P,15622
+Lakshadweep,2022,2,Retail,7795
+Lakshadweep,2022,2,Utility,9662
+Lakshadweep,2022,3,P2P,16327
+Lakshadweep,2022,3,Retail,8822
+Lakshadweep,2022,3,Utility,9825
+Lakshadweep,2022,4,P2P,17973
+Lakshadweep,2022,4,Retail,8933
+Lakshadweep,2022,4,Utility,10108
+Lakshadweep,2023,1,P2P,20840
+Lakshadweep,2023,1,Retail,11319
+Lakshadweep,2023,1,Utility,11361
+Lakshadweep,2023,2,P2P,22867
+Lakshadweep,2023,2,Retail,15989
+Lakshadweep,2023,2,Utility,11701
+Lakshadweep,2023,3,P2P,26919
+Lakshadweep,2023,3,Retail,22701
+Lakshadweep,2023,3,Utility,12070
+Lakshadweep,2023,4,Retail,46222
+Lakshadweep,2023,4,Utility,14053
+Lakshadweep,2023,4,P2P,36239
+Lakshadweep,2024,1,P2P,40581
+Lakshadweep,2024,1,Retail,65567
+Lakshadweep,2024,1,Utility,14177
+Lakshadweep,2024,2,P2P,43383
+Lakshadweep,2024,2,Retail,103328
+Lakshadweep,2024,2,Utility,15133
+Lakshadweep,2024,3,P2P,48622
+Lakshadweep,2024,3,Retail,119755
+Lakshadweep,2024,3,Utility,15283
+Lakshadweep,2024,4,Retail,151047
+Lakshadweep,2024,4,Utility,17263
+Lakshadweep,2024,4,P2P,60510
+Lakshadweep,2025,1,Retail,186433
+Lakshadweep,2025,1,Utility,23504
+Lakshadweep,2025,1,P2P,76507
+Lakshadweep,2025,2,P2P,65743
+Lakshadweep,2025,2,Retail,197029
+Lakshadweep,2025,2,Utility,19414
+Lakshadweep,2025,3,P2P,66169
+Lakshadweep,2025,3,Retail,210108
+Lakshadweep,2025,3,Utility,19303
+Lakshadweep,2025,4,P2P,86831
+Lakshadweep,2025,4,Retail,219710
+Lakshadweep,2025,4,Utility,20396
+Lakshadweep,2026,1,Retail,229831
+Lakshadweep,2026,1,Utility,21957
+Lakshadweep,2026,1,P2P,100205
+Lakshadweep,2026,2,P2P,101796
+Lakshadweep,2026,2,Retail,248709
+Lakshadweep,2026,2,Utility,20691
+Madhya Pradesh,2018,1,P2P,2982533
+Madhya Pradesh,2018,1,Retail,5540953
+Madhya Pradesh,2018,1,Utility,90643
+Madhya Pradesh,2018,2,P2P,4456775
+Madhya Pradesh,2018,2,Retail,6493926
+Madhya Pradesh,2018,2,Utility,298573
+Madhya Pradesh,2018,3,P2P,10456411
+Madhya Pradesh,2018,3,Retail,7152252
+Madhya Pradesh,2018,3,Utility,454035
+Madhya Pradesh,2018,4,P2P,11980653
+Madhya Pradesh,2018,4,Retail,10163524
+Madhya Pradesh,2018,4,Utility,663430
+Madhya Pradesh,2019,1,P2P,24432077
+Madhya Pradesh,2019,1,Retail,13270690
+Madhya Pradesh,2019,1,Utility,1226099
+Madhya Pradesh,2019,2,P2P,20842891
+Madhya Pradesh,2019,2,Retail,19025755
+Madhya Pradesh,2019,2,Utility,1375818
+Madhya Pradesh,2019,3,P2P,23192694
+Madhya Pradesh,2019,3,Retail,29189777
+Madhya Pradesh,2019,3,Utility,2513880
+Madhya Pradesh,2019,4,P2P,33794899
+Madhya Pradesh,2019,4,Retail,31573884
+Madhya Pradesh,2019,4,Utility,5634285
+Madhya Pradesh,2020,1,Retail,36937883
+Madhya Pradesh,2020,1,Utility,8526282
+Madhya Pradesh,2020,1,P2P,34929211
+Madhya Pradesh,2020,2,P2P,33907763
+Madhya Pradesh,2020,2,Retail,28763727
+Madhya Pradesh,2020,2,Utility,13036513
+Madhya Pradesh,2020,3,Utility,12299837
+Madhya Pradesh,2020,3,P2P,48783194
+Madhya Pradesh,2020,3,Retail,44812503
+Madhya Pradesh,2020,4,P2P,64401144
+Madhya Pradesh,2020,4,Retail,67928541
+Madhya Pradesh,2020,4,Utility,15369811
+Madhya Pradesh,2021,1,P2P,78279566
+Madhya Pradesh,2021,1,Retail,79551215
+Madhya Pradesh,2021,1,Utility,29616287
+Madhya Pradesh,2021,2,P2P,91032253
+Madhya Pradesh,2021,2,Utility,43800755
+Madhya Pradesh,2021,2,Retail,68475966
+Madhya Pradesh,2021,3,Utility,43359373
+Madhya Pradesh,2021,3,P2P,118679995
+Madhya Pradesh,2021,3,Retail,124505570
+Madhya Pradesh,2021,4,P2P,127810835
+Madhya Pradesh,2021,4,Retail,154372079
+Madhya Pradesh,2021,4,Utility,38984765
+Madhya Pradesh,2022,1,Retail,208119201
+Madhya Pradesh,2022,1,Utility,45034736
+Madhya Pradesh,2022,1,P2P,165503407
+Madhya Pradesh,2022,2,P2P,183118953
+Madhya Pradesh,2022,2,Retail,254146400
+Madhya Pradesh,2022,2,Utility,52798619
+Madhya Pradesh,2022,3,Utility,59670715
+Madhya Pradesh,2022,3,P2P,207152051
+Madhya Pradesh,2022,3,Retail,298169767
+Madhya Pradesh,2022,4,P2P,232104827
+Madhya Pradesh,2022,4,Retail,346579011
+Madhya Pradesh,2022,4,Utility,61984859
+Madhya Pradesh,2023,1,P2P,263468166
+Madhya Pradesh,2023,1,Retail,395551751
+Madhya Pradesh,2023,1,Utility,71618700
+Madhya Pradesh,2023,2,P2P,294078080
+Madhya Pradesh,2023,2,Utility,81019878
+Madhya Pradesh,2023,2,Retail,468684552
+Madhya Pradesh,2023,3,P2P,333168847
+Madhya Pradesh,2023,3,Retail,555828663
+Madhya Pradesh,2023,3,Utility,85637152
+Madhya Pradesh,2023,4,P2P,373938153
+Madhya Pradesh,2023,4,Retail,636732492
+Madhya Pradesh,2023,4,Utility,88108658
+Madhya Pradesh,2024,1,P2P,434331008
+Madhya Pradesh,2024,1,Retail,747491424
+Madhya Pradesh,2024,1,Utility,101620697
+Madhya Pradesh,2024,2,P2P,462519489
+Madhya Pradesh,2024,2,Utility,109715950
+Madhya Pradesh,2024,2,Retail,859901226
+Madhya Pradesh,2024,3,P2P,497539973
+Madhya Pradesh,2024,3,Retail,926585300
+Madhya Pradesh,2024,3,Utility,110364227
+Madhya Pradesh,2024,4,P2P,545431384
+Madhya Pradesh,2024,4,Retail,1024836894
+Madhya Pradesh,2024,4,Utility,111609384
+Madhya Pradesh,2025,1,Retail,1040983000
+Madhya Pradesh,2025,1,Utility,123203106
+Madhya Pradesh,2025,1,P2P,559249557
+Madhya Pradesh,2025,2,P2P,568967572
+Madhya Pradesh,2025,2,Retail,1143273346
+Madhya Pradesh,2025,2,Utility,125078312
+Madhya Pradesh,2025,3,P2P,609772524
+Madhya Pradesh,2025,3,Retail,1244302556
+Madhya Pradesh,2025,3,Utility,126262681
+Madhya Pradesh,2025,4,P2P,655981444
+Madhya Pradesh,2025,4,Retail,1317761396
+Madhya Pradesh,2025,4,Utility,127339599
+Madhya Pradesh,2026,1,Retail,1369000689
+Madhya Pradesh,2026,1,Utility,134791979
+Madhya Pradesh,2026,1,P2P,682818506
+Madhya Pradesh,2026,2,P2P,692355802
+Madhya Pradesh,2026,2,Utility,134905941
+Madhya Pradesh,2026,2,Retail,1456576342
+Maharashtra,2018,1,P2P,4904123
+Maharashtra,2018,1,Retail,10256681
+Maharashtra,2018,1,Utility,610493
+Maharashtra,2018,2,P2P,7296740
+Maharashtra,2018,2,Retail,13039678
+Maharashtra,2018,2,Utility,1370966
+Maharashtra,2018,3,P2P,12620224
+Maharashtra,2018,3,Utility,1976450
+Maharashtra,2018,3,Retail,16189479
+Maharashtra,2018,4,Retail,23240057
+Maharashtra,2018,4,Utility,2435307
+Maharashtra,2018,4,P2P,20039783
+Maharashtra,2019,1,P2P,35939138
+Maharashtra,2019,1,Retail,33977457
+Maharashtra,2019,1,Utility,3958137
+Maharashtra,2019,2,P2P,40939711
+Maharashtra,2019,2,Retail,54030628
+Maharashtra,2019,2,Utility,4360998
+Maharashtra,2019,3,P2P,56361577
+Maharashtra,2019,3,Utility,8344485
+Maharashtra,2019,3,Retail,84053886
+Maharashtra,2019,4,P2P,75832872
+Maharashtra,2019,4,Retail,103887387
+Maharashtra,2019,4,Utility,16758012
+Maharashtra,2020,1,P2P,84061718
+Maharashtra,2020,1,Retail,125734064
+Maharashtra,2020,1,Utility,23962681
+Maharashtra,2020,2,P2P,70384119
+Maharashtra,2020,2,Retail,80390030
+Maharashtra,2020,2,Utility,29655735
+Maharashtra,2020,3,P2P,102590461
+Maharashtra,2020,3,Retail,127581626
+Maharashtra,2020,3,Utility,29011915
+Maharashtra,2020,4,Retail,211773187
+Maharashtra,2020,4,Utility,39414683
+Maharashtra,2020,4,P2P,145871285
+Maharashtra,2021,1,P2P,173584645
+Maharashtra,2021,1,Retail,241600887
+Maharashtra,2021,1,Utility,72955854
+Maharashtra,2021,2,Utility,95323220
+Maharashtra,2021,2,P2P,208494008
+Maharashtra,2021,2,Retail,229413959
+Maharashtra,2021,3,P2P,268139750
+Maharashtra,2021,3,Retail,362427389
+Maharashtra,2021,3,Utility,104019441
+Maharashtra,2021,4,P2P,286423482
+Maharashtra,2021,4,Retail,441281724
+Maharashtra,2021,4,Utility,93550357
+Maharashtra,2022,1,P2P,367923036
+Maharashtra,2022,1,Retail,597190812
+Maharashtra,2022,1,Utility,104698822
+Maharashtra,2022,2,P2P,412391023
+Maharashtra,2022,2,Retail,739763476
+Maharashtra,2022,2,Utility,120605573
+Maharashtra,2022,3,P2P,478474346
+Maharashtra,2022,3,Retail,868371330
+Maharashtra,2022,3,Utility,135060465
+Maharashtra,2022,4,Retail,998769959
+Maharashtra,2022,4,Utility,138571543
+Maharashtra,2022,4,P2P,521994075
+Maharashtra,2023,1,P2P,572302736
+Maharashtra,2023,1,Retail,1121600766
+Maharashtra,2023,1,Utility,149306143
+Maharashtra,2023,2,Utility,164636686
+Maharashtra,2023,2,P2P,620451894
+Maharashtra,2023,2,Retail,1273343788
+Maharashtra,2023,3,P2P,688980001
+Maharashtra,2023,3,Utility,171877423
+Maharashtra,2023,3,Retail,1427891144
+Maharashtra,2023,4,P2P,767862734
+Maharashtra,2023,4,Retail,1627859322
+Maharashtra,2023,4,Utility,172844886
+Maharashtra,2024,1,P2P,843776729
+Maharashtra,2024,1,Retail,1798938438
+Maharashtra,2024,1,Utility,188720337
+Maharashtra,2024,2,Utility,201364193
+Maharashtra,2024,2,P2P,879434478
+Maharashtra,2024,2,Retail,1975738521
+Maharashtra,2024,3,P2P,971225117
+Maharashtra,2024,3,Utility,213922255
+Maharashtra,2024,3,Retail,2100939879
+Maharashtra,2024,4,P2P,1061944663
+Maharashtra,2024,4,Retail,2354931274
+Maharashtra,2024,4,Utility,218025062
+Maharashtra,2025,1,P2P,1136127810
+Maharashtra,2025,1,Retail,2530485146
+Maharashtra,2025,1,Utility,237921594
+Maharashtra,2025,2,P2P,1133509660
+Maharashtra,2025,2,Retail,2660636662
+Maharashtra,2025,2,Utility,241776924
+Maharashtra,2025,3,P2P,1226322130
+Maharashtra,2025,3,Utility,250631747
+Maharashtra,2025,3,Retail,2829226611
+Maharashtra,2025,4,Retail,3052486746
+Maharashtra,2025,4,Utility,254520674
+Maharashtra,2025,4,P2P,1311097640
+Maharashtra,2026,1,P2P,1363409161
+Maharashtra,2026,1,Retail,3200987799
+Maharashtra,2026,1,Utility,265080469
+Maharashtra,2026,2,Utility,262324547
+Maharashtra,2026,2,P2P,1389123843
+Maharashtra,2026,2,Retail,3413003601
+Manipur,2018,1,Retail,74310
+Manipur,2018,1,Utility,200
+Manipur,2018,1,P2P,30398
+Manipur,2018,2,P2P,69535
+Manipur,2018,2,Retail,113472
+Manipur,2018,2,Utility,1923
+Manipur,2018,3,P2P,103214
+Manipur,2018,3,Retail,113751
+Manipur,2018,3,Utility,2817
+Manipur,2018,4,P2P,116349
+Manipur,2018,4,Retail,164993
+Manipur,2018,4,Utility,3952
+Manipur,2019,1,Retail,170783
+Manipur,2019,1,Utility,5044
+Manipur,2019,1,P2P,147093
+Manipur,2019,2,P2P,161943
+Manipur,2019,2,Retail,200970
+Manipur,2019,2,Utility,4458
+Manipur,2019,3,P2P,191342
+Manipur,2019,3,Retail,204807
+Manipur,2019,3,Utility,15944
+Manipur,2019,4,Retail,209319
+Manipur,2019,4,Utility,52049
+Manipur,2019,4,P2P,250375
+Manipur,2020,1,P2P,267095
+Manipur,2020,1,Retail,244184
+Manipur,2020,1,Utility,95720
+Manipur,2020,2,P2P,343823
+Manipur,2020,2,Retail,349701
+Manipur,2020,2,Utility,185770
+Manipur,2020,3,P2P,444736
+Manipur,2020,3,Retail,416199
+Manipur,2020,3,Utility,182393
+Manipur,2020,4,P2P,539549
+Manipur,2020,4,Retail,420543
+Manipur,2020,4,Utility,226110
+Manipur,2021,1,Retail,220308
+Manipur,2021,1,Utility,377533
+Manipur,2021,1,P2P,553294
+Manipur,2021,2,P2P,635650
+Manipur,2021,2,Retail,250250
+Manipur,2021,2,Utility,550077
+Manipur,2021,3,P2P,835511
+Manipur,2021,3,Retail,336219
+Manipur,2021,3,Utility,600525
+Manipur,2021,4,Retail,368527
+Manipur,2021,4,Utility,558055
+Manipur,2021,4,P2P,855988
+Manipur,2022,1,P2P,1104469
+Manipur,2022,1,Retail,509928
+Manipur,2022,1,Utility,642874
+Manipur,2022,2,P2P,1198080
+Manipur,2022,2,Retail,645557
+Manipur,2022,2,Utility,607690
+Manipur,2022,3,P2P,1481055
+Manipur,2022,3,Retail,837582
+Manipur,2022,3,Utility,657815
+Manipur,2022,4,P2P,1609813
+Manipur,2022,4,Retail,928790
+Manipur,2022,4,Utility,678547
+Manipur,2023,1,Retail,1073657
+Manipur,2023,1,Utility,647485
+Manipur,2023,1,P2P,1714135
+Manipur,2023,2,P2P,815435
+Manipur,2023,2,Retail,585926
+Manipur,2023,2,Utility,298692
+Manipur,2023,3,P2P,450302
+Manipur,2023,3,Retail,250465
+Manipur,2023,3,Utility,203970
+Manipur,2023,4,Retail,688632
+Manipur,2023,4,Utility,414045
+Manipur,2023,4,P2P,1100791
+Manipur,2024,1,Retail,1380355
+Manipur,2024,1,Utility,660502
+Manipur,2024,1,P2P,1933165
+Manipur,2024,2,P2P,2523049
+Manipur,2024,2,Retail,2012748
+Manipur,2024,2,Utility,732578
+Manipur,2024,3,P2P,2962849
+Manipur,2024,3,Retail,2087985
+Manipur,2024,3,Utility,755221
+Manipur,2024,4,Retail,2123143
+Manipur,2024,4,Utility,660774
+Manipur,2024,4,P2P,3014393
+Manipur,2025,1,P2P,4012837
+Manipur,2025,1,Retail,2888122
+Manipur,2025,1,Utility,874183
+Manipur,2025,2,P2P,4212499
+Manipur,2025,2,Retail,3542824
+Manipur,2025,2,Utility,845312
+Manipur,2025,3,P2P,4683706
+Manipur,2025,3,Retail,4269941
+Manipur,2025,3,Utility,850824
+Manipur,2025,4,P2P,4810704
+Manipur,2025,4,Retail,4174837
+Manipur,2025,4,Utility,829488
+Manipur,2026,1,P2P,4986200
+Manipur,2026,1,Retail,4367144
+Manipur,2026,1,Utility,881023
+Manipur,2026,2,P2P,5042151
+Manipur,2026,2,Retail,4552091
+Manipur,2026,2,Utility,865449
+Meghalaya,2018,1,P2P,14088
+Meghalaya,2018,1,Retail,42995
+Meghalaya,2018,1,Utility,655
+Meghalaya,2018,2,P2P,21522
+Meghalaya,2018,2,Retail,56085
+Meghalaya,2018,2,Utility,2068
+Meghalaya,2018,3,P2P,38720
+Meghalaya,2018,3,Retail,81832
+Meghalaya,2018,3,Utility,3332
+Meghalaya,2018,4,P2P,59703
+Meghalaya,2018,4,Retail,118819
+Meghalaya,2018,4,Utility,3834
+Meghalaya,2019,1,P2P,92541
+Meghalaya,2019,1,Retail,135938
+Meghalaya,2019,1,Utility,5319
+Meghalaya,2019,2,P2P,107691
+Meghalaya,2019,2,Retail,167684
+Meghalaya,2019,2,Utility,4909
+Meghalaya,2019,3,P2P,132605
+Meghalaya,2019,3,Retail,175853
+Meghalaya,2019,3,Utility,17725
+Meghalaya,2019,4,P2P,159506
+Meghalaya,2019,4,Retail,163554
+Meghalaya,2019,4,Utility,50155
+Meghalaya,2020,1,P2P,165934
+Meghalaya,2020,1,Retail,189179
+Meghalaya,2020,1,Utility,85118
+Meghalaya,2020,2,P2P,176495
+Meghalaya,2020,2,Retail,289723
+Meghalaya,2020,2,Utility,162392
+Meghalaya,2020,3,P2P,238589
+Meghalaya,2020,3,Retail,315322
+Meghalaya,2020,3,Utility,138148
+Meghalaya,2020,4,P2P,319172
+Meghalaya,2020,4,Retail,321204
+Meghalaya,2020,4,Utility,195985
+Meghalaya,2021,1,P2P,374973
+Meghalaya,2021,1,Retail,170026
+Meghalaya,2021,1,Utility,350046
+Meghalaya,2021,2,P2P,422974
+Meghalaya,2021,2,Retail,193215
+Meghalaya,2021,2,Utility,510243
+Meghalaya,2021,3,P2P,544751
+Meghalaya,2021,3,Retail,261011
+Meghalaya,2021,3,Utility,548454
+Meghalaya,2021,4,P2P,686100
+Meghalaya,2021,4,Retail,348960
+Meghalaya,2021,4,Utility,523584
+Meghalaya,2022,1,P2P,932731
+Meghalaya,2022,1,Retail,522433
+Meghalaya,2022,1,Utility,556173
+Meghalaya,2022,2,P2P,1141224
+Meghalaya,2022,2,Retail,740673
+Meghalaya,2022,2,Utility,614032
+Meghalaya,2022,3,P2P,1472843
+Meghalaya,2022,3,Retail,1033414
+Meghalaya,2022,3,Utility,718391
+Meghalaya,2022,4,P2P,1725693
+Meghalaya,2022,4,Retail,1152974
+Meghalaya,2022,4,Utility,747069
+Meghalaya,2023,1,P2P,2010002
+Meghalaya,2023,1,Retail,1323801
+Meghalaya,2023,1,Utility,837947
+Meghalaya,2023,2,P2P,2376705
+Meghalaya,2023,2,Retail,1830555
+Meghalaya,2023,2,Utility,896548
+Meghalaya,2023,3,P2P,2778556
+Meghalaya,2023,3,Retail,2204934
+Meghalaya,2023,3,Utility,944086
+Meghalaya,2023,4,P2P,3410871
+Meghalaya,2023,4,Retail,2726364
+Meghalaya,2023,4,Utility,982808
+Meghalaya,2024,1,P2P,3903641
+Meghalaya,2024,1,Retail,3259975
+Meghalaya,2024,1,Utility,1088583
+Meghalaya,2024,2,P2P,4455087
+Meghalaya,2024,2,Retail,5343544
+Meghalaya,2024,2,Utility,1191791
+Meghalaya,2024,3,P2P,5065670
+Meghalaya,2024,3,Retail,5773240
+Meghalaya,2024,3,Utility,1257525
+Meghalaya,2024,4,P2P,6057301
+Meghalaya,2024,4,Retail,6601880
+Meghalaya,2024,4,Utility,1333935
+Meghalaya,2025,1,P2P,6637505
+Meghalaya,2025,1,Retail,7368816
+Meghalaya,2025,1,Utility,1560086
+Meghalaya,2025,2,P2P,6819794
+Meghalaya,2025,2,Retail,9006438
+Meghalaya,2025,2,Utility,1478014
+Meghalaya,2025,3,P2P,7936464
+Meghalaya,2025,3,Retail,10342245
+Meghalaya,2025,3,Utility,1597432
+Meghalaya,2025,4,P2P,8577148
+Meghalaya,2025,4,Retail,9681598
+Meghalaya,2025,4,Utility,1578904
+Meghalaya,2026,1,P2P,9546670
+Meghalaya,2026,1,Retail,8839945
+Meghalaya,2026,1,Utility,1539820
+Meghalaya,2026,2,P2P,9973916
+Meghalaya,2026,2,Retail,10836114
+Meghalaya,2026,2,Utility,1590783
+Mizoram,2018,1,P2P,7725
+Mizoram,2018,1,Retail,14367
+Mizoram,2018,1,Utility,89
+Mizoram,2018,2,P2P,12760
+Mizoram,2018,2,Retail,18364
+Mizoram,2018,2,Utility,436
+Mizoram,2018,3,P2P,20289
+Mizoram,2018,3,Retail,24604
+Mizoram,2018,3,Utility,721
+Mizoram,2018,4,P2P,28968
+Mizoram,2018,4,Retail,36184
+Mizoram,2018,4,Utility,1082
+Mizoram,2019,1,P2P,40318
+Mizoram,2019,1,Retail,43515
+Mizoram,2019,1,Utility,1386
+Mizoram,2019,2,P2P,46960
+Mizoram,2019,2,Retail,52540
+Mizoram,2019,2,Utility,1458
+Mizoram,2019,3,P2P,52804
+Mizoram,2019,3,Retail,55585
+Mizoram,2019,3,Utility,5758
+Mizoram,2019,4,Utility,18015
+Mizoram,2019,4,P2P,69162
+Mizoram,2019,4,Retail,57139
+Mizoram,2020,1,P2P,73986
+Mizoram,2020,1,Retail,72242
+Mizoram,2020,1,Utility,33309
+Mizoram,2020,2,P2P,75529
+Mizoram,2020,2,Retail,94994
+Mizoram,2020,2,Utility,56635
+Mizoram,2020,3,P2P,113045
+Mizoram,2020,3,Retail,109236
+Mizoram,2020,3,Utility,60332
+Mizoram,2020,4,P2P,155391
+Mizoram,2020,4,Retail,116071
+Mizoram,2020,4,Utility,81393
+Mizoram,2021,1,P2P,177585
+Mizoram,2021,1,Retail,67889
+Mizoram,2021,1,Utility,138912
+Mizoram,2021,2,Utility,196749
+Mizoram,2021,2,P2P,198301
+Mizoram,2021,2,Retail,74439
+Mizoram,2021,3,P2P,249407
+Mizoram,2021,3,Retail,93972
+Mizoram,2021,3,Utility,212555
+Mizoram,2021,4,Utility,191265
+Mizoram,2021,4,P2P,266273
+Mizoram,2021,4,Retail,107464
+Mizoram,2022,1,P2P,333816
+Mizoram,2022,1,Retail,134652
+Mizoram,2022,1,Utility,208246
+Mizoram,2022,2,P2P,367719
+Mizoram,2022,2,Retail,166864
+Mizoram,2022,2,Utility,201375
+Mizoram,2022,3,P2P,441599
+Mizoram,2022,3,Retail,209057
+Mizoram,2022,3,Utility,222267
+Mizoram,2022,4,P2P,527741
+Mizoram,2022,4,Retail,261186
+Mizoram,2022,4,Utility,229803
+Mizoram,2023,1,P2P,601454
+Mizoram,2023,1,Retail,276865
+Mizoram,2023,1,Utility,238353
+Mizoram,2023,2,Utility,248570
+Mizoram,2023,2,P2P,679572
+Mizoram,2023,2,Retail,358005
+Mizoram,2023,3,P2P,734614
+Mizoram,2023,3,Retail,389679
+Mizoram,2023,3,Utility,246931
+Mizoram,2023,4,Utility,245116
+Mizoram,2023,4,P2P,819882
+Mizoram,2023,4,Retail,511251
+Mizoram,2024,1,P2P,860994
+Mizoram,2024,1,Retail,577796
+Mizoram,2024,1,Utility,250134
+Mizoram,2024,2,Utility,257673
+Mizoram,2024,2,P2P,960517
+Mizoram,2024,2,Retail,854085
+Mizoram,2024,3,P2P,1088181
+Mizoram,2024,3,Retail,1032373
+Mizoram,2024,3,Utility,274563
+Mizoram,2024,4,Utility,276280
+Mizoram,2024,4,P2P,1215748
+Mizoram,2024,4,Retail,1194828
+Mizoram,2025,1,P2P,1412817
+Mizoram,2025,1,Retail,1464155
+Mizoram,2025,1,Utility,337939
+Mizoram,2025,2,P2P,1393032
+Mizoram,2025,2,Retail,1693554
+Mizoram,2025,2,Utility,312219
+Mizoram,2025,3,P2P,1589619
+Mizoram,2025,3,Retail,2025992
+Mizoram,2025,3,Utility,336226
+Mizoram,2025,4,P2P,1786077
+Mizoram,2025,4,Retail,1979390
+Mizoram,2025,4,Utility,337628
+Mizoram,2026,1,P2P,1855867
+Mizoram,2026,1,Retail,1959194
+Mizoram,2026,1,Utility,336079
+Mizoram,2026,2,Utility,331711
+Mizoram,2026,2,P2P,2067137
+Mizoram,2026,2,Retail,2231778
+Nagaland,2018,1,Retail,39386
+Nagaland,2018,1,Utility,219
+Nagaland,2018,1,P2P,12854
+Nagaland,2018,2,Retail,58079
+Nagaland,2018,2,Utility,1114
+Nagaland,2018,2,P2P,23666
+Nagaland,2018,3,P2P,38744
+Nagaland,2018,3,Retail,77504
+Nagaland,2018,3,Utility,1708
+Nagaland,2018,4,P2P,61529
+Nagaland,2018,4,Retail,109267
+Nagaland,2018,4,Utility,2530
+Nagaland,2019,1,Retail,124651
+Nagaland,2019,1,Utility,3755
+Nagaland,2019,1,P2P,85647
+Nagaland,2019,2,Retail,156958
+Nagaland,2019,2,Utility,3776
+Nagaland,2019,2,P2P,108986
+Nagaland,2019,3,P2P,134567
+Nagaland,2019,3,Retail,167265
+Nagaland,2019,3,Utility,16442
+Nagaland,2019,4,P2P,171822
+Nagaland,2019,4,Retail,163700
+Nagaland,2019,4,Utility,51480
+Nagaland,2020,1,P2P,183413
+Nagaland,2020,1,Retail,184484
+Nagaland,2020,1,Utility,89888
+Nagaland,2020,2,Retail,239041
+Nagaland,2020,2,Utility,154857
+Nagaland,2020,2,P2P,219693
+Nagaland,2020,3,P2P,326189
+Nagaland,2020,3,Retail,292460
+Nagaland,2020,3,Utility,148565
+Nagaland,2020,4,P2P,396507
+Nagaland,2020,4,Retail,266738
+Nagaland,2020,4,Utility,188444
+Nagaland,2021,1,Retail,127106
+Nagaland,2021,1,Utility,330764
+Nagaland,2021,1,P2P,419883
+Nagaland,2021,2,P2P,512516
+Nagaland,2021,2,Retail,130032
+Nagaland,2021,2,Utility,464803
+Nagaland,2021,3,P2P,649798
+Nagaland,2021,3,Retail,183947
+Nagaland,2021,3,Utility,482981
+Nagaland,2021,4,P2P,692273
+Nagaland,2021,4,Retail,222754
+Nagaland,2021,4,Utility,454766
+Nagaland,2022,1,P2P,877525
+Nagaland,2022,1,Retail,323423
+Nagaland,2022,1,Utility,508927
+Nagaland,2022,2,Retail,441412
+Nagaland,2022,2,Utility,514039
+Nagaland,2022,2,P2P,1018561
+Nagaland,2022,3,P2P,1260750
+Nagaland,2022,3,Retail,562207
+Nagaland,2022,3,Utility,574188
+Nagaland,2022,4,P2P,1392790
+Nagaland,2022,4,Retail,603869
+Nagaland,2022,4,Utility,583848
+Nagaland,2023,1,Retail,680677
+Nagaland,2023,1,Utility,613668
+Nagaland,2023,1,P2P,1539803
+Nagaland,2023,2,P2P,1655450
+Nagaland,2023,2,Retail,838501
+Nagaland,2023,2,Utility,597510
+Nagaland,2023,3,P2P,1932631
+Nagaland,2023,3,Retail,1024556
+Nagaland,2023,3,Utility,624443
+Nagaland,2023,4,P2P,2151924
+Nagaland,2023,4,Retail,1196265
+Nagaland,2023,4,Utility,605199
+Nagaland,2024,1,Retail,1475125
+Nagaland,2024,1,Utility,640783
+Nagaland,2024,1,P2P,2296558
+Nagaland,2024,2,P2P,2698781
+Nagaland,2024,2,Retail,2514000
+Nagaland,2024,2,Utility,684389
+Nagaland,2024,3,P2P,3223455
+Nagaland,2024,3,Retail,3141143
+Nagaland,2024,3,Utility,763284
+Nagaland,2024,4,P2P,3646828
+Nagaland,2024,4,Retail,3534185
+Nagaland,2024,4,Utility,771268
+Nagaland,2025,1,P2P,3745885
+Nagaland,2025,1,Retail,3803438
+Nagaland,2025,1,Utility,868332
+Nagaland,2025,2,Retail,4724132
+Nagaland,2025,2,Utility,835279
+Nagaland,2025,2,P2P,3898002
+Nagaland,2025,3,P2P,4458684
+Nagaland,2025,3,Retail,5833318
+Nagaland,2025,3,Utility,888870
+Nagaland,2025,4,P2P,4922948
+Nagaland,2025,4,Retail,5394902
+Nagaland,2025,4,Utility,854785
+Nagaland,2026,1,P2P,5009814
+Nagaland,2026,1,Retail,5145327
+Nagaland,2026,1,Utility,874824
+Nagaland,2026,2,P2P,5388614
+Nagaland,2026,2,Retail,6083226
+Nagaland,2026,2,Utility,886486
+Odisha,2018,1,P2P,2693875
+Odisha,2018,1,Retail,4336997
+Odisha,2018,1,Utility,18114
+Odisha,2018,2,P2P,4606791
+Odisha,2018,2,Retail,4832463
+Odisha,2018,2,Utility,108033
+Odisha,2018,3,P2P,27474197
+Odisha,2018,3,Retail,6109834
+Odisha,2018,3,Utility,189115
+Odisha,2018,4,P2P,13840684
+Odisha,2018,4,Retail,9660259
+Odisha,2018,4,Utility,229303
+Odisha,2019,1,P2P,25934247
+Odisha,2019,1,Retail,10887807
+Odisha,2019,1,Utility,371706
+Odisha,2019,2,P2P,16396541
+Odisha,2019,2,Retail,13345566
+Odisha,2019,2,Utility,346179
+Odisha,2019,3,P2P,18424210
+Odisha,2019,3,Retail,21330371
+Odisha,2019,3,Utility,1046265
+Odisha,2019,4,P2P,43533987
+Odisha,2019,4,Retail,19167186
+Odisha,2019,4,Utility,2978391
+Odisha,2020,1,P2P,27380806
+Odisha,2020,1,Retail,21880811
+Odisha,2020,1,Utility,5159960
+Odisha,2020,2,P2P,24255361
+Odisha,2020,2,Retail,18242091
+Odisha,2020,2,Utility,7894700
+Odisha,2020,3,P2P,35509492
+Odisha,2020,3,Retail,25581574
+Odisha,2020,3,Utility,7947529
+Odisha,2020,4,P2P,48735138
+Odisha,2020,4,Retail,36795800
+Odisha,2020,4,Utility,9342253
+Odisha,2021,1,P2P,56168577
+Odisha,2021,1,Retail,39886914
+Odisha,2021,1,Utility,19039161
+Odisha,2021,2,P2P,70199957
+Odisha,2021,2,Retail,39885033
+Odisha,2021,2,Utility,28140708
+Odisha,2021,3,P2P,88531048
+Odisha,2021,3,Retail,65021952
+Odisha,2021,3,Utility,29812656
+Odisha,2021,4,P2P,97365421
+Odisha,2021,4,Retail,89306095
+Odisha,2021,4,Utility,25597121
+Odisha,2022,1,P2P,121543612
+Odisha,2022,1,Retail,119389372
+Odisha,2022,1,Utility,27978744
+Odisha,2022,2,P2P,138799315
+Odisha,2022,2,Retail,150198940
+Odisha,2022,2,Utility,33379972
+Odisha,2022,3,P2P,159103433
+Odisha,2022,3,Retail,183017599
+Odisha,2022,3,Utility,38473266
+Odisha,2022,4,P2P,178318278
+Odisha,2022,4,Retail,208414479
+Odisha,2022,4,Utility,39048175
+Odisha,2023,1,P2P,198718809
+Odisha,2023,1,Retail,237800370
+Odisha,2023,1,Utility,43529534
+Odisha,2023,2,P2P,217465779
+Odisha,2023,2,Retail,275129628
+Odisha,2023,2,Utility,47971872
+Odisha,2023,3,P2P,239483197
+Odisha,2023,3,Retail,331120980
+Odisha,2023,3,Utility,50250704
+Odisha,2023,4,P2P,283368515
+Odisha,2023,4,Retail,394216870
+Odisha,2023,4,Utility,52426671
+Odisha,2024,1,P2P,328186502
+Odisha,2024,1,Retail,472041275
+Odisha,2024,1,Utility,62179031
+Odisha,2024,2,P2P,342454314
+Odisha,2024,2,Retail,533463941
+Odisha,2024,2,Utility,65817736
+Odisha,2024,3,P2P,372510527
+Odisha,2024,3,Retail,583139376
+Odisha,2024,3,Utility,67338953
+Odisha,2024,4,P2P,418474939
+Odisha,2024,4,Retail,653769361
+Odisha,2024,4,Utility,69451360
+Odisha,2025,1,P2P,427880801
+Odisha,2025,1,Retail,672598864
+Odisha,2025,1,Utility,73948513
+Odisha,2025,2,P2P,429202554
+Odisha,2025,2,Retail,746112659
+Odisha,2025,2,Utility,78154888
+Odisha,2025,3,P2P,451228084
+Odisha,2025,3,Retail,785652801
+Odisha,2025,3,Utility,77391433
+Odisha,2025,4,P2P,486153705
+Odisha,2025,4,Retail,841861625
+Odisha,2025,4,Utility,77443479
+Odisha,2026,1,P2P,516558572
+Odisha,2026,1,Retail,889549627
+Odisha,2026,1,Utility,81743696
+Odisha,2026,2,P2P,507336215
+Odisha,2026,2,Retail,932756499
+Odisha,2026,2,Utility,83037296
+Puducherry,2018,1,P2P,40064
+Puducherry,2018,1,Retail,65486
+Puducherry,2018,1,Utility,662
+Puducherry,2018,2,P2P,56575
+Puducherry,2018,2,Retail,68910
+Puducherry,2018,2,Utility,2836
+Puducherry,2018,3,P2P,97296
+Puducherry,2018,3,Retail,84545
+Puducherry,2018,3,Utility,5028
+Puducherry,2018,4,P2P,175338
+Puducherry,2018,4,Retail,135865
+Puducherry,2018,4,Utility,6133
+Puducherry,2019,1,P2P,308499
+Puducherry,2019,1,Retail,180367
+Puducherry,2019,1,Utility,8863
+Puducherry,2019,2,P2P,322762
+Puducherry,2019,2,Retail,246183
+Puducherry,2019,2,Utility,10136
+Puducherry,2019,3,P2P,404050
+Puducherry,2019,3,Retail,338785
+Puducherry,2019,3,Utility,22196
+Puducherry,2019,4,P2P,586080
+Puducherry,2019,4,Retail,451087
+Puducherry,2019,4,Utility,55159
+Puducherry,2020,1,P2P,637583
+Puducherry,2020,1,Retail,580921
+Puducherry,2020,1,Utility,100933
+Puducherry,2020,2,P2P,444724
+Puducherry,2020,2,Retail,455143
+Puducherry,2020,2,Utility,140895
+Puducherry,2020,3,P2P,679376
+Puducherry,2020,3,Retail,727619
+Puducherry,2020,3,Utility,138596
+Puducherry,2020,4,P2P,1047351
+Puducherry,2020,4,Retail,1272494
+Puducherry,2020,4,Utility,214590
+Puducherry,2021,1,P2P,1252418
+Puducherry,2021,1,Retail,1443581
+Puducherry,2021,1,Utility,432222
+Puducherry,2021,2,P2P,1279040
+Puducherry,2021,2,Retail,1385293
+Puducherry,2021,2,Utility,571970
+Puducherry,2021,3,P2P,1758454
+Puducherry,2021,3,Retail,2208281
+Puducherry,2021,3,Utility,623569
+Puducherry,2021,4,P2P,1825625
+Puducherry,2021,4,Retail,2550628
+Puducherry,2021,4,Utility,556670
+Puducherry,2022,1,P2P,2317321
+Puducherry,2022,1,Retail,3461076
+Puducherry,2022,1,Utility,576190
+Puducherry,2022,2,P2P,2582879
+Puducherry,2022,2,Retail,4265431
+Puducherry,2022,2,Utility,641663
+Puducherry,2022,3,P2P,2958867
+Puducherry,2022,3,Retail,5157180
+Puducherry,2022,3,Utility,732350
+Puducherry,2022,4,P2P,3142120
+Puducherry,2022,4,Retail,5863846
+Puducherry,2022,4,Utility,742089
+Puducherry,2023,1,P2P,3258866
+Puducherry,2023,1,Retail,6224977
+Puducherry,2023,1,Utility,733646
+Puducherry,2023,2,P2P,3459724
+Puducherry,2023,2,Retail,6931355
+Puducherry,2023,2,Utility,802559
+Puducherry,2023,3,P2P,3709860
+Puducherry,2023,3,Retail,7920199
+Puducherry,2023,3,Utility,834650
+Puducherry,2023,4,P2P,3866931
+Puducherry,2023,4,Retail,8377582
+Puducherry,2023,4,Utility,830139
+Puducherry,2024,1,P2P,3982272
+Puducherry,2024,1,Retail,8706366
+Puducherry,2024,1,Utility,831332
+Puducherry,2024,2,P2P,4169309
+Puducherry,2024,2,Retail,9569219
+Puducherry,2024,2,Utility,872339
+Puducherry,2024,3,P2P,4543301
+Puducherry,2024,3,Retail,10358162
+Puducherry,2024,3,Utility,919708
+Puducherry,2024,4,P2P,4665679
+Puducherry,2024,4,Retail,10781586
+Puducherry,2024,4,Utility,929550
+Puducherry,2025,1,P2P,5027320
+Puducherry,2025,1,Retail,11618519
+Puducherry,2025,1,Utility,966872
+Puducherry,2025,2,P2P,4859467
+Puducherry,2025,2,Retail,11716317
+Puducherry,2025,2,Utility,920231
+Puducherry,2025,3,P2P,5067996
+Puducherry,2025,3,Retail,12400209
+Puducherry,2025,3,Utility,933390
+Puducherry,2025,4,P2P,5170739
+Puducherry,2025,4,Retail,12734340
+Puducherry,2025,4,Utility,952014
+Puducherry,2026,1,P2P,5457257
+Puducherry,2026,1,Retail,13385336
+Puducherry,2026,1,Utility,948358
+Puducherry,2026,2,P2P,5456184
+Puducherry,2026,2,Retail,14273998
+Puducherry,2026,2,Utility,941727
+Punjab,2018,1,P2P,762537
+Punjab,2018,1,Retail,1378870
+Punjab,2018,1,Utility,11163
+Punjab,2018,2,Retail,1731538
+Punjab,2018,2,Utility,81397
+Punjab,2018,2,P2P,1119836
+Punjab,2018,3,P2P,1801894
+Punjab,2018,3,Utility,139167
+Punjab,2018,3,Retail,1933346
+Punjab,2018,4,P2P,2460715
+Punjab,2018,4,Retail,2824577
+Punjab,2018,4,Utility,205266
+Punjab,2019,1,P2P,4274369
+Punjab,2019,1,Retail,3247097
+Punjab,2019,1,Utility,308408
+Punjab,2019,2,Retail,4325884
+Punjab,2019,2,Utility,372650
+Punjab,2019,2,P2P,4208807
+Punjab,2019,3,P2P,4737624
+Punjab,2019,3,Utility,674942
+Punjab,2019,3,Retail,5622095
+Punjab,2019,4,Retail,6254384
+Punjab,2019,4,Utility,1404641
+Punjab,2019,4,P2P,6321702
+Punjab,2020,1,P2P,6448799
+Punjab,2020,1,Retail,7210325
+Punjab,2020,1,Utility,2038824
+Punjab,2020,2,Retail,6014021
+Punjab,2020,2,Utility,2687674
+Punjab,2020,2,P2P,5501764
+Punjab,2020,3,P2P,7525655
+Punjab,2020,3,Retail,7823602
+Punjab,2020,3,Utility,2538701
+Punjab,2020,4,P2P,9697447
+Punjab,2020,4,Retail,10297838
+Punjab,2020,4,Utility,3598416
+Punjab,2021,1,P2P,11070488
+Punjab,2021,1,Retail,10008900
+Punjab,2021,1,Utility,6390774
+Punjab,2021,2,P2P,13202084
+Punjab,2021,2,Retail,11144498
+Punjab,2021,2,Utility,8335415
+Punjab,2021,3,P2P,16413165
+Punjab,2021,3,Retail,16218466
+Punjab,2021,3,Utility,9024573
+Punjab,2021,4,Retail,19076362
+Punjab,2021,4,Utility,8060225
+Punjab,2021,4,P2P,17253838
+Punjab,2022,1,P2P,21331370
+Punjab,2022,1,Retail,25097722
+Punjab,2022,1,Utility,9159479
+Punjab,2022,2,Retail,34194211
+Punjab,2022,2,Utility,10670260
+Punjab,2022,2,P2P,24605671
+Punjab,2022,3,P2P,29796417
+Punjab,2022,3,Retail,43028061
+Punjab,2022,3,Utility,12523896
+Punjab,2022,4,P2P,32553199
+Punjab,2022,4,Retail,49331250
+Punjab,2022,4,Utility,12821570
+Punjab,2023,1,P2P,33559001
+Punjab,2023,1,Retail,51451166
+Punjab,2023,1,Utility,13143670
+Punjab,2023,2,P2P,39137930
+Punjab,2023,2,Retail,65508285
+Punjab,2023,2,Utility,14366193
+Punjab,2023,3,P2P,43206798
+Punjab,2023,3,Utility,14957827
+Punjab,2023,3,Retail,74686189
+Punjab,2023,4,Retail,81488251
+Punjab,2023,4,Utility,14745378
+Punjab,2023,4,P2P,47207197
+Punjab,2024,1,P2P,46625283
+Punjab,2024,1,Retail,81707832
+Punjab,2024,1,Utility,14840154
+Punjab,2024,2,P2P,53076867
+Punjab,2024,2,Retail,103791454
+Punjab,2024,2,Utility,15990098
+Punjab,2024,3,P2P,58951692
+Punjab,2024,3,Utility,16691176
+Punjab,2024,3,Retail,112671341
+Punjab,2024,4,Retail,119043043
+Punjab,2024,4,Utility,16909420
+Punjab,2024,4,P2P,64059597
+Punjab,2025,1,P2P,68035690
+Punjab,2025,1,Retail,127552368
+Punjab,2025,1,Utility,19112840
+Punjab,2025,2,Retail,135349462
+Punjab,2025,2,Utility,17550075
+Punjab,2025,2,P2P,66681507
+Punjab,2025,3,P2P,72569615
+Punjab,2025,3,Utility,18471295
+Punjab,2025,3,Retail,147253055
+Punjab,2025,4,P2P,78882931
+Punjab,2025,4,Retail,152709681
+Punjab,2025,4,Utility,18984611
+Punjab,2026,1,P2P,80997955
+Punjab,2026,1,Retail,156323287
+Punjab,2026,1,Utility,19640341
+Punjab,2026,2,P2P,86235320
+Punjab,2026,2,Retail,176968809
+Punjab,2026,2,Utility,19159944
+Rajasthan,2018,1,P2P,2918332
+Rajasthan,2018,1,Retail,6171468
+Rajasthan,2018,1,Utility,182637
+Rajasthan,2018,2,P2P,4284208
+Rajasthan,2018,2,Retail,7030908
+Rajasthan,2018,2,Utility,567897
+Rajasthan,2018,3,P2P,7866935
+Rajasthan,2018,3,Retail,7654080
+Rajasthan,2018,3,Utility,943933
+Rajasthan,2018,4,P2P,11980655
+Rajasthan,2018,4,Utility,1214114
+Rajasthan,2018,4,Retail,11168140
+Rajasthan,2019,1,P2P,29406151
+Rajasthan,2019,1,Retail,16759749
+Rajasthan,2019,1,Utility,1977666
+Rajasthan,2019,2,P2P,24738172
+Rajasthan,2019,2,Retail,23387217
+Rajasthan,2019,2,Utility,1961199
+Rajasthan,2019,3,P2P,28826157
+Rajasthan,2019,3,Retail,33642559
+Rajasthan,2019,3,Utility,3460585
+Rajasthan,2019,4,P2P,42028213
+Rajasthan,2019,4,Retail,33945223
+Rajasthan,2019,4,Utility,7317684
+Rajasthan,2020,1,P2P,46351996
+Rajasthan,2020,1,Utility,11320295
+Rajasthan,2020,1,Retail,42140703
+Rajasthan,2020,2,P2P,46162638
+Rajasthan,2020,2,Retail,36961229
+Rajasthan,2020,2,Utility,15181393
+Rajasthan,2020,3,P2P,69523816
+Rajasthan,2020,3,Retail,57900495
+Rajasthan,2020,3,Utility,15584292
+Rajasthan,2020,4,P2P,85199155
+Rajasthan,2020,4,Utility,20367929
+Rajasthan,2020,4,Retail,79104977
+Rajasthan,2021,1,P2P,111107699
+Rajasthan,2021,1,Retail,91152365
+Rajasthan,2021,1,Utility,38694713
+Rajasthan,2021,2,P2P,132454889
+Rajasthan,2021,2,Retail,90192431
+Rajasthan,2021,2,Utility,51789864
+Rajasthan,2021,3,P2P,175069182
+Rajasthan,2021,3,Retail,155512206
+Rajasthan,2021,3,Utility,53490251
+Rajasthan,2021,4,P2P,179543868
+Rajasthan,2021,4,Retail,182274484
+Rajasthan,2021,4,Utility,48371763
+Rajasthan,2022,1,P2P,230002464
+Rajasthan,2022,1,Utility,56318976
+Rajasthan,2022,1,Retail,249207437
+Rajasthan,2022,2,P2P,248313762
+Rajasthan,2022,2,Retail,309286081
+Rajasthan,2022,2,Utility,63079382
+Rajasthan,2022,3,P2P,289727149
+Rajasthan,2022,3,Retail,374499257
+Rajasthan,2022,3,Utility,72804376
+Rajasthan,2022,4,P2P,317940780
+Rajasthan,2022,4,Utility,76699563
+Rajasthan,2022,4,Retail,426355884
+Rajasthan,2023,1,P2P,353143283
+Rajasthan,2023,1,Retail,478301186
+Rajasthan,2023,1,Utility,87654297
+Rajasthan,2023,2,P2P,389689144
+Rajasthan,2023,2,Retail,586137559
+Rajasthan,2023,2,Utility,97266041
+Rajasthan,2023,3,P2P,438636047
+Rajasthan,2023,3,Retail,696907330
+Rajasthan,2023,3,Utility,101501052
+Rajasthan,2023,4,P2P,484389540
+Rajasthan,2023,4,Retail,760169113
+Rajasthan,2023,4,Utility,106407366
+Rajasthan,2024,1,P2P,566598111
+Rajasthan,2024,1,Retail,910181233
+Rajasthan,2024,1,Utility,123778868
+Rajasthan,2024,2,P2P,603687650
+Rajasthan,2024,2,Retail,1080979751
+Rajasthan,2024,2,Utility,134036249
+Rajasthan,2024,3,P2P,638890431
+Rajasthan,2024,3,Retail,1159471272
+Rajasthan,2024,3,Utility,134482860
+Rajasthan,2024,4,P2P,672386566
+Rajasthan,2024,4,Retail,1233463293
+Rajasthan,2024,4,Utility,134791141
+Rajasthan,2025,1,P2P,665402771
+Rajasthan,2025,1,Utility,143752639
+Rajasthan,2025,1,Retail,1225941832
+Rajasthan,2025,2,P2P,674572899
+Rajasthan,2025,2,Retail,1361793084
+Rajasthan,2025,2,Utility,144038201
+Rajasthan,2025,3,P2P,706351073
+Rajasthan,2025,3,Retail,1471559131
+Rajasthan,2025,3,Utility,145697952
+Rajasthan,2025,4,P2P,731137692
+Rajasthan,2025,4,Utility,145740845
+Rajasthan,2025,4,Retail,1482912609
+Rajasthan,2026,1,P2P,751360343
+Rajasthan,2026,1,Utility,153879554
+Rajasthan,2026,1,Retail,1529887412
+Rajasthan,2026,2,P2P,762303898
+Rajasthan,2026,2,Retail,1639275785
+Rajasthan,2026,2,Utility,151848846
+Sikkim,2018,1,P2P,15233
+Sikkim,2018,1,Retail,37037
+Sikkim,2018,1,Utility,152
+Sikkim,2018,2,P2P,27106
+Sikkim,2018,2,Retail,59274
+Sikkim,2018,2,Utility,968
+Sikkim,2018,3,P2P,46387
+Sikkim,2018,3,Retail,75943
+Sikkim,2018,3,Utility,1704
+Sikkim,2018,4,Retail,108280
+Sikkim,2018,4,Utility,2170
+Sikkim,2018,4,P2P,71395
+Sikkim,2019,1,P2P,107340
+Sikkim,2019,1,Retail,122550
+Sikkim,2019,1,Utility,3141
+Sikkim,2019,2,P2P,130037
+Sikkim,2019,2,Retail,165212
+Sikkim,2019,2,Utility,3183
+Sikkim,2019,3,P2P,148858
+Sikkim,2019,3,Retail,168555
+Sikkim,2019,3,Utility,16288
+Sikkim,2019,4,P2P,195405
+Sikkim,2019,4,Retail,161964
+Sikkim,2019,4,Utility,51718
+Sikkim,2020,1,P2P,200232
+Sikkim,2020,1,Retail,180421
+Sikkim,2020,1,Utility,78924
+Sikkim,2020,2,P2P,203950
+Sikkim,2020,2,Retail,221971
+Sikkim,2020,2,Utility,121448
+Sikkim,2020,3,P2P,264230
+Sikkim,2020,3,Retail,256031
+Sikkim,2020,3,Utility,119316
+Sikkim,2020,4,Retail,273203
+Sikkim,2020,4,Utility,152036
+Sikkim,2020,4,P2P,353096
+Sikkim,2021,1,P2P,436996
+Sikkim,2021,1,Retail,153480
+Sikkim,2021,1,Utility,289217
+Sikkim,2021,2,Retail,160006
+Sikkim,2021,2,Utility,408180
+Sikkim,2021,2,P2P,496633
+Sikkim,2021,3,P2P,641409
+Sikkim,2021,3,Retail,234862
+Sikkim,2021,3,Utility,418872
+Sikkim,2021,4,P2P,766037
+Sikkim,2021,4,Retail,347103
+Sikkim,2021,4,Utility,384951
+Sikkim,2022,1,P2P,946961
+Sikkim,2022,1,Retail,483455
+Sikkim,2022,1,Utility,404118
+Sikkim,2022,2,P2P,1270954
+Sikkim,2022,2,Retail,766320
+Sikkim,2022,2,Utility,474966
+Sikkim,2022,3,P2P,1454342
+Sikkim,2022,3,Retail,918215
+Sikkim,2022,3,Utility,531908
+Sikkim,2022,4,Retail,1044864
+Sikkim,2022,4,Utility,549517
+Sikkim,2022,4,P2P,1598547
+Sikkim,2023,1,P2P,1725226
+Sikkim,2023,1,Retail,1136164
+Sikkim,2023,1,Utility,540109
+Sikkim,2023,2,Retail,1696647
+Sikkim,2023,2,Utility,596642
+Sikkim,2023,2,P2P,2144313
+Sikkim,2023,3,P2P,2132175
+Sikkim,2023,3,Retail,2004746
+Sikkim,2023,3,Utility,603240
+Sikkim,2023,4,P2P,2130107
+Sikkim,2023,4,Retail,2139471
+Sikkim,2023,4,Utility,572923
+Sikkim,2024,1,P2P,2446211
+Sikkim,2024,1,Retail,2665840
+Sikkim,2024,1,Utility,623826
+Sikkim,2024,2,Retail,3596853
+Sikkim,2024,2,Utility,666213
+Sikkim,2024,2,P2P,2862938
+Sikkim,2024,3,P2P,3059339
+Sikkim,2024,3,Retail,4040039
+Sikkim,2024,3,Utility,738457
+Sikkim,2024,4,P2P,3463436
+Sikkim,2024,4,Retail,4792790
+Sikkim,2024,4,Utility,765750
+Sikkim,2025,1,P2P,3649693
+Sikkim,2025,1,Retail,5355602
+Sikkim,2025,1,Utility,847175
+Sikkim,2025,2,P2P,3900931
+Sikkim,2025,2,Retail,6402735
+Sikkim,2025,2,Utility,853169
+Sikkim,2025,3,P2P,4192100
+Sikkim,2025,3,Retail,6777789
+Sikkim,2025,3,Utility,911937
+Sikkim,2025,4,Retail,6862025
+Sikkim,2025,4,Utility,920936
+Sikkim,2025,4,P2P,4339229
+Sikkim,2026,1,P2P,4721228
+Sikkim,2026,1,Retail,7607696
+Sikkim,2026,1,Utility,958880
+Sikkim,2026,2,Retail,8719037
+Sikkim,2026,2,Utility,970777
+Sikkim,2026,2,P2P,5266430
+Tamil Nadu,2018,1,P2P,2011437
+Tamil Nadu,2018,1,Retail,2877514
+Tamil Nadu,2018,1,Utility,34940
+Tamil Nadu,2018,2,P2P,3227447
+Tamil Nadu,2018,2,Retail,3673579
+Tamil Nadu,2018,2,Utility,228225
+Tamil Nadu,2018,3,P2P,5632565
+Tamil Nadu,2018,3,Retail,4759711
+Tamil Nadu,2018,3,Utility,419825
+Tamil Nadu,2018,4,P2P,8650679
+Tamil Nadu,2018,4,Retail,7901767
+Tamil Nadu,2018,4,Utility,570827
+Tamil Nadu,2019,1,P2P,14460181
+Tamil Nadu,2019,1,Retail,9953421
+Tamil Nadu,2019,1,Utility,764913
+Tamil Nadu,2019,2,P2P,15910165
+Tamil Nadu,2019,2,Retail,14143783
+Tamil Nadu,2019,2,Utility,850224
+Tamil Nadu,2019,3,P2P,20175934
+Tamil Nadu,2019,3,Retail,18733358
+Tamil Nadu,2019,3,Utility,1705873
+Tamil Nadu,2019,4,P2P,26891922
+Tamil Nadu,2019,4,Retail,23550229
+Tamil Nadu,2019,4,Utility,3831224
+Tamil Nadu,2020,1,P2P,29210450
+Tamil Nadu,2020,1,Retail,29894565
+Tamil Nadu,2020,1,Utility,6013364
+Tamil Nadu,2020,2,P2P,19796701
+Tamil Nadu,2020,2,Retail,22003787
+Tamil Nadu,2020,2,Utility,8584890
+Tamil Nadu,2020,3,P2P,30434012
+Tamil Nadu,2020,3,Retail,31747599
+Tamil Nadu,2020,3,Utility,8348187
+Tamil Nadu,2020,4,P2P,46846688
+Tamil Nadu,2020,4,Retail,52957176
+Tamil Nadu,2020,4,Utility,12315930
+Tamil Nadu,2021,1,P2P,56209553
+Tamil Nadu,2021,1,Retail,55184006
+Tamil Nadu,2021,1,Utility,24308721
+Tamil Nadu,2021,2,Retail,50846255
+Tamil Nadu,2021,2,Utility,33606899
+Tamil Nadu,2021,2,P2P,58488704
+Tamil Nadu,2021,3,P2P,80872706
+Tamil Nadu,2021,3,Retail,83456564
+Tamil Nadu,2021,3,Utility,36222902
+Tamil Nadu,2021,4,P2P,86906217
+Tamil Nadu,2021,4,Retail,99367500
+Tamil Nadu,2021,4,Utility,32518385
+Tamil Nadu,2022,1,P2P,111499213
+Tamil Nadu,2022,1,Retail,133533757
+Tamil Nadu,2022,1,Utility,33014685
+Tamil Nadu,2022,2,P2P,128465769
+Tamil Nadu,2022,2,Retail,170116252
+Tamil Nadu,2022,2,Utility,39544405
+Tamil Nadu,2022,3,P2P,150895801
+Tamil Nadu,2022,3,Retail,206948312
+Tamil Nadu,2022,3,Utility,45832819
+Tamil Nadu,2022,4,P2P,160182520
+Tamil Nadu,2022,4,Retail,227776260
+Tamil Nadu,2022,4,Utility,47329274
+Tamil Nadu,2023,1,P2P,169078610
+Tamil Nadu,2023,1,Retail,252046397
+Tamil Nadu,2023,1,Utility,46919825
+Tamil Nadu,2023,2,Retail,271653945
+Tamil Nadu,2023,2,Utility,51542857
+Tamil Nadu,2023,2,P2P,180963627
+Tamil Nadu,2023,3,P2P,198443890
+Tamil Nadu,2023,3,Retail,307301051
+Tamil Nadu,2023,3,Utility,52970605
+Tamil Nadu,2023,4,P2P,208447240
+Tamil Nadu,2023,4,Retail,336363862
+Tamil Nadu,2023,4,Utility,53010030
+Tamil Nadu,2024,1,P2P,219014310
+Tamil Nadu,2024,1,Retail,370440883
+Tamil Nadu,2024,1,Utility,53629398
+Tamil Nadu,2024,2,Retail,417547691
+Tamil Nadu,2024,2,Utility,57183613
+Tamil Nadu,2024,2,P2P,232646050
+Tamil Nadu,2024,3,P2P,261752730
+Tamil Nadu,2024,3,Retail,458580459
+Tamil Nadu,2024,3,Utility,61174987
+Tamil Nadu,2024,4,P2P,272558373
+Tamil Nadu,2024,4,Retail,488070607
+Tamil Nadu,2024,4,Utility,62311789
+Tamil Nadu,2025,1,P2P,286554114
+Tamil Nadu,2025,1,Retail,524381598
+Tamil Nadu,2025,1,Utility,64768769
+Tamil Nadu,2025,2,P2P,277697186
+Tamil Nadu,2025,2,Retail,540167131
+Tamil Nadu,2025,2,Utility,62179306
+Tamil Nadu,2025,3,P2P,301171264
+Tamil Nadu,2025,3,Retail,589397918
+Tamil Nadu,2025,3,Utility,63869623
+Tamil Nadu,2025,4,P2P,310141970
+Tamil Nadu,2025,4,Retail,606536327
+Tamil Nadu,2025,4,Utility,65358581
+Tamil Nadu,2026,1,P2P,321088498
+Tamil Nadu,2026,1,Retail,630192289
+Tamil Nadu,2026,1,Utility,63942573
+Tamil Nadu,2026,2,Retail,667642639
+Tamil Nadu,2026,2,Utility,62934777
+Tamil Nadu,2026,2,P2P,318715551
+Telangana,2018,1,P2P,3466488
+Telangana,2018,1,Retail,5817357
+Telangana,2018,1,Utility,57129
+Telangana,2018,2,P2P,5011318
+Telangana,2018,2,Retail,6332946
+Telangana,2018,2,Utility,200012
+Telangana,2018,3,P2P,11838453
+Telangana,2018,3,Retail,7792425
+Telangana,2018,3,Utility,324907
+Telangana,2018,4,P2P,16046190
+Telangana,2018,4,Utility,437924
+Telangana,2018,4,Retail,13909469
+Telangana,2019,1,P2P,39258819
+Telangana,2019,1,Retail,24788513
+Telangana,2019,1,Utility,766073
+Telangana,2019,2,P2P,41264830
+Telangana,2019,2,Retail,39189406
+Telangana,2019,2,Utility,1000749
+Telangana,2019,3,P2P,52781429
+Telangana,2019,3,Retail,58293457
+Telangana,2019,3,Utility,3037163
+Telangana,2019,4,P2P,73588551
+Telangana,2019,4,Retail,70715723
+Telangana,2019,4,Utility,8205780
+Telangana,2020,1,Utility,13251013
+Telangana,2020,1,P2P,80752201
+Telangana,2020,1,Retail,83326336
+Telangana,2020,2,P2P,67182596
+Telangana,2020,2,Retail,54016206
+Telangana,2020,2,Utility,17127927
+Telangana,2020,3,P2P,97545501
+Telangana,2020,3,Retail,91185733
+Telangana,2020,3,Utility,18741092
+Telangana,2020,4,P2P,146516443
+Telangana,2020,4,Utility,25104426
+Telangana,2020,4,Retail,150218614
+Telangana,2021,1,P2P,166657150
+Telangana,2021,1,Retail,181674390
+Telangana,2021,1,Utility,44128809
+Telangana,2021,2,Retail,193360174
+Telangana,2021,2,P2P,209768440
+Telangana,2021,2,Utility,57938162
+Telangana,2021,3,P2P,252405062
+Telangana,2021,3,Retail,276644191
+Telangana,2021,3,Utility,63692205
+Telangana,2021,4,P2P,268871846
+Telangana,2021,4,Retail,316270714
+Telangana,2021,4,Utility,57265743
+Telangana,2022,1,Utility,64419623
+Telangana,2022,1,P2P,333860206
+Telangana,2022,1,Retail,422012965
+Telangana,2022,2,P2P,385083123
+Telangana,2022,2,Retail,533356769
+Telangana,2022,2,Utility,74769332
+Telangana,2022,3,P2P,437894151
+Telangana,2022,3,Retail,638075219
+Telangana,2022,3,Utility,85263291
+Telangana,2022,4,P2P,483151075
+Telangana,2022,4,Utility,88183985
+Telangana,2022,4,Retail,727397449
+Telangana,2023,1,P2P,522531494
+Telangana,2023,1,Retail,807980480
+Telangana,2023,1,Utility,94109699
+Telangana,2023,2,Retail,945635928
+Telangana,2023,2,P2P,592921662
+Telangana,2023,2,Utility,105486872
+Telangana,2023,3,P2P,646881028
+Telangana,2023,3,Retail,1103013563
+Telangana,2023,3,Utility,111964832
+Telangana,2023,4,P2P,695650059
+Telangana,2023,4,Retail,1197673180
+Telangana,2023,4,Utility,112690584
+Telangana,2024,1,P2P,734914725
+Telangana,2024,1,Retail,1318718383
+Telangana,2024,1,Utility,116600513
+Telangana,2024,2,Retail,1500188080
+Telangana,2024,2,P2P,782308152
+Telangana,2024,2,Utility,121387058
+Telangana,2024,3,P2P,841561320
+Telangana,2024,3,Retail,1637882726
+Telangana,2024,3,Utility,128384944
+Telangana,2024,4,P2P,905792395
+Telangana,2024,4,Retail,1785244498
+Telangana,2024,4,Utility,133221680
+Telangana,2025,1,Utility,143755048
+Telangana,2025,1,P2P,958239626
+Telangana,2025,1,Retail,1855676564
+Telangana,2025,2,P2P,962138565
+Telangana,2025,2,Retail,1937172444
+Telangana,2025,2,Utility,145148278
+Telangana,2025,3,P2P,1003412650
+Telangana,2025,3,Retail,2078091958
+Telangana,2025,3,Utility,147360477
+Telangana,2025,4,P2P,1062691144
+Telangana,2025,4,Utility,153727384
+Telangana,2025,4,Retail,2268697781
+Telangana,2026,1,Utility,164767985
+Telangana,2026,1,P2P,1085668689
+Telangana,2026,1,Retail,2320751024
+Telangana,2026,2,Retail,2560637907
+Telangana,2026,2,P2P,1143923545
+Telangana,2026,2,Utility,173670988
+Tripura,2018,1,Retail,127863
+Tripura,2018,1,Utility,3813
+Tripura,2018,1,P2P,52393
+Tripura,2018,2,P2P,85672
+Tripura,2018,2,Retail,166739
+Tripura,2018,2,Utility,10572
+Tripura,2018,3,P2P,209683
+Tripura,2018,3,Retail,221767
+Tripura,2018,3,Utility,15295
+Tripura,2018,4,P2P,203650
+Tripura,2018,4,Retail,319338
+Tripura,2018,4,Utility,15376
+Tripura,2019,1,Retail,343127
+Tripura,2019,1,Utility,19000
+Tripura,2019,1,P2P,360490
+Tripura,2019,2,P2P,338442
+Tripura,2019,2,Retail,428388
+Tripura,2019,2,Utility,20351
+Tripura,2019,3,P2P,382672
+Tripura,2019,3,Retail,452124
+Tripura,2019,3,Utility,45479
+Tripura,2019,4,P2P,504103
+Tripura,2019,4,Retail,405722
+Tripura,2019,4,Utility,107837
+Tripura,2020,1,P2P,487025
+Tripura,2020,1,Retail,467518
+Tripura,2020,1,Utility,175447
+Tripura,2020,2,P2P,444122
+Tripura,2020,2,Retail,537656
+Tripura,2020,2,Utility,271589
+Tripura,2020,3,P2P,656697
+Tripura,2020,3,Utility,268938
+Tripura,2020,3,Retail,751363
+Tripura,2020,4,P2P,792607
+Tripura,2020,4,Retail,835017
+Tripura,2020,4,Utility,340143
+Tripura,2021,1,Retail,548634
+Tripura,2021,1,Utility,622318
+Tripura,2021,1,P2P,841592
+Tripura,2021,2,P2P,953822
+Tripura,2021,2,Retail,628463
+Tripura,2021,2,Utility,846661
+Tripura,2021,3,P2P,1152547
+Tripura,2021,3,Utility,900667
+Tripura,2021,3,Retail,823202
+Tripura,2021,4,P2P,1220840
+Tripura,2021,4,Retail,944059
+Tripura,2021,4,Utility,832667
+Tripura,2022,1,P2P,1605926
+Tripura,2022,1,Retail,1401056
+Tripura,2022,1,Utility,834523
+Tripura,2022,2,P2P,1895868
+Tripura,2022,2,Retail,1782176
+Tripura,2022,2,Utility,919982
+Tripura,2022,3,P2P,2395190
+Tripura,2022,3,Utility,1080703
+Tripura,2022,3,Retail,2338359
+Tripura,2022,4,P2P,2557126
+Tripura,2022,4,Retail,2695646
+Tripura,2022,4,Utility,1108002
+Tripura,2023,1,Retail,3266101
+Tripura,2023,1,Utility,1246464
+Tripura,2023,1,P2P,3052408
+Tripura,2023,2,P2P,3251151
+Tripura,2023,2,Retail,3992703
+Tripura,2023,2,Utility,1274385
+Tripura,2023,3,P2P,3675914
+Tripura,2023,3,Retail,4601060
+Tripura,2023,3,Utility,1354567
+Tripura,2023,4,P2P,3991339
+Tripura,2023,4,Retail,5363050
+Tripura,2023,4,Utility,1353229
+Tripura,2024,1,Retail,5904516
+Tripura,2024,1,Utility,1432777
+Tripura,2024,1,P2P,4244206
+Tripura,2024,2,P2P,4532604
+Tripura,2024,2,Retail,7412685
+Tripura,2024,2,Utility,1547478
+Tripura,2024,3,P2P,5092683
+Tripura,2024,3,Retail,7914763
+Tripura,2024,3,Utility,1567960
+Tripura,2024,4,P2P,5671226
+Tripura,2024,4,Retail,8800063
+Tripura,2024,4,Utility,1563293
+Tripura,2025,1,P2P,6475520
+Tripura,2025,1,Retail,10267509
+Tripura,2025,1,Utility,1879048
+Tripura,2025,2,P2P,6198843
+Tripura,2025,2,Retail,10787436
+Tripura,2025,2,Utility,1766947
+Tripura,2025,3,P2P,7108559
+Tripura,2025,3,Retail,11889161
+Tripura,2025,3,Utility,1794173
+Tripura,2025,4,P2P,7390643
+Tripura,2025,4,Retail,11726652
+Tripura,2025,4,Utility,1796441
+Tripura,2026,1,P2P,7907062
+Tripura,2026,1,Retail,12274659
+Tripura,2026,1,Utility,1915529
+Tripura,2026,2,P2P,7972133
+Tripura,2026,2,Retail,12958118
+Tripura,2026,2,Utility,1932743
+Uttar Pradesh,2018,1,P2P,4606138
+Uttar Pradesh,2018,1,Retail,10010877
+Uttar Pradesh,2018,1,Utility,169451
+Uttar Pradesh,2018,2,Retail,12691830
+Uttar Pradesh,2018,2,Utility,489580
+Uttar Pradesh,2018,2,P2P,7156556
+Uttar Pradesh,2018,3,Retail,13655861
+Uttar Pradesh,2018,3,Utility,728215
+Uttar Pradesh,2018,3,P2P,14943458
+Uttar Pradesh,2018,4,P2P,17252893
+Uttar Pradesh,2018,4,Retail,22044677
+Uttar Pradesh,2018,4,Utility,1015326
+Uttar Pradesh,2019,1,P2P,35228045
+Uttar Pradesh,2019,1,Retail,27231898
+Uttar Pradesh,2019,1,Utility,1586430
+Uttar Pradesh,2019,2,Retail,35244958
+Uttar Pradesh,2019,2,Utility,1984103
+Uttar Pradesh,2019,2,P2P,30351047
+Uttar Pradesh,2019,3,Retail,42320219
+Uttar Pradesh,2019,3,Utility,3901349
+Uttar Pradesh,2019,3,P2P,30451139
+Uttar Pradesh,2019,4,P2P,45757525
+Uttar Pradesh,2019,4,Retail,43340537
+Uttar Pradesh,2019,4,Utility,8287127
+Uttar Pradesh,2020,1,P2P,44357141
+Uttar Pradesh,2020,1,Retail,51336077
+Uttar Pradesh,2020,1,Utility,12419671
+Uttar Pradesh,2020,2,Retail,47549454
+Uttar Pradesh,2020,2,Utility,18994344
+Uttar Pradesh,2020,2,P2P,43762763
+Uttar Pradesh,2020,3,P2P,60795727
+Uttar Pradesh,2020,3,Retail,63325777
+Uttar Pradesh,2020,3,Utility,17443753
+Uttar Pradesh,2020,4,P2P,81130686
+Uttar Pradesh,2020,4,Retail,86963902
+Uttar Pradesh,2020,4,Utility,23503808
+Uttar Pradesh,2021,1,P2P,94609938
+Uttar Pradesh,2021,1,Retail,89939335
+Uttar Pradesh,2021,1,Utility,42868220
+Uttar Pradesh,2021,2,P2P,116290503
+Uttar Pradesh,2021,2,Retail,93709752
+Uttar Pradesh,2021,2,Utility,63727920
+Uttar Pradesh,2021,3,P2P,145996374
+Uttar Pradesh,2021,3,Retail,141458681
+Uttar Pradesh,2021,3,Utility,63220283
+Uttar Pradesh,2021,4,P2P,164806510
+Uttar Pradesh,2021,4,Retail,177938209
+Uttar Pradesh,2021,4,Utility,57980385
+Uttar Pradesh,2022,1,P2P,215231907
+Uttar Pradesh,2022,1,Retail,241296678
+Uttar Pradesh,2022,1,Utility,64840860
+Uttar Pradesh,2022,2,Retail,322162022
+Uttar Pradesh,2022,2,Utility,78286836
+Uttar Pradesh,2022,2,P2P,254989934
+Uttar Pradesh,2022,3,P2P,295516731
+Uttar Pradesh,2022,3,Retail,391962498
+Uttar Pradesh,2022,3,Utility,88282275
+Uttar Pradesh,2022,4,P2P,337143421
+Uttar Pradesh,2022,4,Retail,459462505
+Uttar Pradesh,2022,4,Utility,93491829
+Uttar Pradesh,2023,1,P2P,384567010
+Uttar Pradesh,2023,1,Retail,521134716
+Uttar Pradesh,2023,1,Utility,105358613
+Uttar Pradesh,2023,2,P2P,447701272
+Uttar Pradesh,2023,2,Retail,651507954
+Uttar Pradesh,2023,2,Utility,121634782
+Uttar Pradesh,2023,3,Retail,747622088
+Uttar Pradesh,2023,3,Utility,124423634
+Uttar Pradesh,2023,3,P2P,489387714
+Uttar Pradesh,2023,4,P2P,576483752
+Uttar Pradesh,2023,4,Retail,869392341
+Uttar Pradesh,2023,4,Utility,131389408
+Uttar Pradesh,2024,1,P2P,653033237
+Uttar Pradesh,2024,1,Retail,989186934
+Uttar Pradesh,2024,1,Utility,152046359
+Uttar Pradesh,2024,2,P2P,736075778
+Uttar Pradesh,2024,2,Retail,1238837502
+Uttar Pradesh,2024,2,Utility,169222802
+Uttar Pradesh,2024,3,Retail,1332554852
+Uttar Pradesh,2024,3,Utility,168343616
+Uttar Pradesh,2024,3,P2P,784233917
+Uttar Pradesh,2024,4,P2P,880393026
+Uttar Pradesh,2024,4,Retail,1489948667
+Uttar Pradesh,2024,4,Utility,172595131
+Uttar Pradesh,2025,1,P2P,904244198
+Uttar Pradesh,2025,1,Retail,1524087525
+Uttar Pradesh,2025,1,Utility,190002269
+Uttar Pradesh,2025,2,Retail,1740462455
+Uttar Pradesh,2025,2,Utility,187420104
+Uttar Pradesh,2025,2,P2P,946221765
+Uttar Pradesh,2025,3,Retail,1840145039
+Uttar Pradesh,2025,3,Utility,187247305
+Uttar Pradesh,2025,3,P2P,968602273
+Uttar Pradesh,2025,4,P2P,1056307689
+Uttar Pradesh,2025,4,Retail,1955108328
+Uttar Pradesh,2025,4,Utility,194854047
+Uttar Pradesh,2026,1,P2P,1088285716
+Uttar Pradesh,2026,1,Retail,2003989823
+Uttar Pradesh,2026,1,Utility,202202501
+Uttar Pradesh,2026,2,P2P,1167703027
+Uttar Pradesh,2026,2,Retail,2293024606
+Uttar Pradesh,2026,2,Utility,204578607
+Uttarakhand,2018,1,P2P,441316
+Uttarakhand,2018,1,Retail,992270
+Uttarakhand,2018,1,Utility,17527
+Uttarakhand,2018,2,P2P,683917
+Uttarakhand,2018,2,Retail,1238396
+Uttarakhand,2018,2,Utility,41154
+Uttarakhand,2018,3,P2P,1129789
+Uttarakhand,2018,3,Retail,1333958
+Uttarakhand,2018,3,Utility,59779
+Uttarakhand,2018,4,P2P,1703009
+Uttarakhand,2018,4,Retail,1847664
+Uttarakhand,2018,4,Utility,75025
+Uttarakhand,2019,1,P2P,4072170
+Uttarakhand,2019,1,Retail,2334030
+Uttarakhand,2019,1,Utility,113508
+Uttarakhand,2019,2,P2P,3080481
+Uttarakhand,2019,2,Retail,3147703
+Uttarakhand,2019,2,Utility,116912
+Uttarakhand,2019,3,P2P,2917737
+Uttarakhand,2019,3,Retail,3479573
+Uttarakhand,2019,3,Utility,293706
+Uttarakhand,2019,4,P2P,3960592
+Uttarakhand,2019,4,Retail,3887718
+Uttarakhand,2019,4,Utility,741841
+Uttarakhand,2020,1,P2P,4002557
+Uttarakhand,2020,1,Retail,4599548
+Uttarakhand,2020,1,Utility,1124736
+Uttarakhand,2020,2,P2P,3531631
+Uttarakhand,2020,2,Retail,4009760
+Uttarakhand,2020,2,Utility,1612644
+Uttarakhand,2020,3,P2P,5220599
+Uttarakhand,2020,3,Retail,6069189
+Uttarakhand,2020,3,Utility,1610633
+Uttarakhand,2020,4,P2P,7078394
+Uttarakhand,2020,4,Retail,9591103
+Uttarakhand,2020,4,Utility,2249445
+Uttarakhand,2021,1,P2P,8249581
+Uttarakhand,2021,1,Retail,9483409
+Uttarakhand,2021,1,Utility,4247882
+Uttarakhand,2021,2,P2P,9520718
+Uttarakhand,2021,2,Retail,9938227
+Uttarakhand,2021,2,Utility,5917433
+Uttarakhand,2021,3,P2P,12313894
+Uttarakhand,2021,3,Retail,14740374
+Uttarakhand,2021,3,Utility,6126336
+Uttarakhand,2021,4,P2P,13030803
+Uttarakhand,2021,4,Retail,18480818
+Uttarakhand,2021,4,Utility,5402025
+Uttarakhand,2022,1,P2P,15762028
+Uttarakhand,2022,1,Retail,23662761
+Uttarakhand,2022,1,Utility,5840799
+Uttarakhand,2022,2,P2P,19583241
+Uttarakhand,2022,2,Retail,34095311
+Uttarakhand,2022,2,Utility,6981950
+Uttarakhand,2022,3,P2P,21811880
+Uttarakhand,2022,3,Retail,38433164
+Uttarakhand,2022,3,Utility,7764248
+Uttarakhand,2022,4,P2P,23524459
+Uttarakhand,2022,4,Retail,43930404
+Uttarakhand,2022,4,Utility,7847037
+Uttarakhand,2023,1,P2P,25042420
+Uttarakhand,2023,1,Retail,46907377
+Uttarakhand,2023,1,Utility,8366841
+Uttarakhand,2023,2,P2P,31621034
+Uttarakhand,2023,2,Retail,62644014
+Uttarakhand,2023,2,Utility,9854273
+Uttarakhand,2023,3,P2P,32160873
+Uttarakhand,2023,3,Retail,64961081
+Uttarakhand,2023,3,Utility,9662996
+Uttarakhand,2023,4,P2P,36002854
+Uttarakhand,2023,4,Retail,73541105
+Uttarakhand,2023,4,Utility,9563661
+Uttarakhand,2024,1,P2P,37475805
+Uttarakhand,2024,1,Retail,76012656
+Uttarakhand,2024,1,Utility,10391543
+Uttarakhand,2024,2,P2P,46074342
+Uttarakhand,2024,2,Retail,101329050
+Uttarakhand,2024,2,Utility,11957468
+Uttarakhand,2024,3,P2P,46985206
+Uttarakhand,2024,3,Retail,100726911
+Uttarakhand,2024,3,Utility,11785368
+Uttarakhand,2024,4,P2P,50703178
+Uttarakhand,2024,4,Retail,108904701
+Uttarakhand,2024,4,Utility,11604501
+Uttarakhand,2025,1,P2P,51173488
+Uttarakhand,2025,1,Retail,111485158
+Uttarakhand,2025,1,Utility,12696604
+Uttarakhand,2025,2,P2P,56901615
+Uttarakhand,2025,2,Retail,132692694
+Uttarakhand,2025,2,Utility,12983865
+Uttarakhand,2025,3,P2P,55559813
+Uttarakhand,2025,3,Retail,129419380
+Uttarakhand,2025,3,Utility,12732437
+Uttarakhand,2025,4,P2P,58829901
+Uttarakhand,2025,4,Retail,132326331
+Uttarakhand,2025,4,Utility,12588948
+Uttarakhand,2026,1,P2P,59360705
+Uttarakhand,2026,1,Retail,132495130
+Uttarakhand,2026,1,Utility,12883179
+Uttarakhand,2026,2,P2P,69429535
+Uttarakhand,2026,2,Retail,163964261
+Uttarakhand,2026,2,Utility,13632986
+West Bengal,2018,1,P2P,3872380
+West Bengal,2018,1,Retail,5952060
+West Bengal,2018,1,Utility,327081
+West Bengal,2018,2,P2P,7871746
+West Bengal,2018,2,Retail,8205192
+West Bengal,2018,2,Utility,706759
+West Bengal,2018,3,P2P,43410545
+West Bengal,2018,3,Retail,9636974
+West Bengal,2018,3,Utility,983932
+West Bengal,2018,4,P2P,16024961
+West Bengal,2018,4,Retail,16379853
+West Bengal,2018,4,Utility,1150258
+West Bengal,2019,1,P2P,24963489
+West Bengal,2019,1,Retail,16502874
+West Bengal,2019,1,Utility,1634979
+West Bengal,2019,2,P2P,19337897
+West Bengal,2019,2,Retail,23489670
+West Bengal,2019,2,Utility,1753333
+West Bengal,2019,3,P2P,20140625
+West Bengal,2019,3,Retail,37079581
+West Bengal,2019,3,Utility,2823745
+West Bengal,2019,4,P2P,61838956
+West Bengal,2019,4,Retail,24001204
+West Bengal,2019,4,Utility,5108751
+West Bengal,2020,1,P2P,26827077
+West Bengal,2020,1,Retail,29827673
+West Bengal,2020,1,Utility,7338804
+West Bengal,2020,2,P2P,24627758
+West Bengal,2020,2,Retail,23778596
+West Bengal,2020,2,Utility,10356741
+West Bengal,2020,3,P2P,35010257
+West Bengal,2020,3,Retail,33531712
+West Bengal,2020,3,Utility,10225685
+West Bengal,2020,4,P2P,45232541
+West Bengal,2020,4,Retail,42774024
+West Bengal,2020,4,Utility,13258584
+West Bengal,2021,1,P2P,51079144
+West Bengal,2021,1,Retail,38286845
+West Bengal,2021,1,Utility,25635970
+West Bengal,2021,2,P2P,61512765
+West Bengal,2021,2,Retail,41133183
+West Bengal,2021,2,Utility,36102795
+West Bengal,2021,3,P2P,79783224
+West Bengal,2021,3,Retail,57001307
+West Bengal,2021,3,Utility,39116796
+West Bengal,2021,4,P2P,87580931
+West Bengal,2021,4,Retail,67551823
+West Bengal,2021,4,Utility,34629128
+West Bengal,2022,1,P2P,115561007
+West Bengal,2022,1,Retail,92376770
+West Bengal,2022,1,Utility,36139836
+West Bengal,2022,2,P2P,135617157
+West Bengal,2022,2,Retail,119264274
+West Bengal,2022,2,Utility,43931757
+West Bengal,2022,3,P2P,164053490
+West Bengal,2022,3,Retail,147555161
+West Bengal,2022,3,Utility,52520673
+West Bengal,2022,4,P2P,177653143
+West Bengal,2022,4,Retail,168668806
+West Bengal,2022,4,Utility,54136987
+West Bengal,2023,1,P2P,209283878
+West Bengal,2023,1,Retail,200591201
+West Bengal,2023,1,Utility,59058589
+West Bengal,2023,2,P2P,240193606
+West Bengal,2023,2,Retail,249804214
+West Bengal,2023,2,Utility,67203833
+West Bengal,2023,3,P2P,270924969
+West Bengal,2023,3,Retail,298345848
+West Bengal,2023,3,Utility,72883447
+West Bengal,2023,4,P2P,317862227
+West Bengal,2023,4,Retail,354140336
+West Bengal,2023,4,Utility,75785796
+West Bengal,2024,1,P2P,355342023
+West Bengal,2024,1,Retail,403108218
+West Bengal,2024,1,Utility,84631995
+West Bengal,2024,2,P2P,393501626
+West Bengal,2024,2,Retail,499564293
+West Bengal,2024,2,Utility,95733729
+West Bengal,2024,3,P2P,436505032
+West Bengal,2024,3,Retail,554209559
+West Bengal,2024,3,Utility,100285771
+West Bengal,2024,4,P2P,493207369
+West Bengal,2024,4,Retail,636340603
+West Bengal,2024,4,Utility,100854212
+West Bengal,2025,1,P2P,517424510
+West Bengal,2025,1,Retail,677544402
+West Bengal,2025,1,Utility,109081452
+West Bengal,2025,2,P2P,534561791
+West Bengal,2025,2,Retail,764023386
+West Bengal,2025,2,Utility,111962112
+West Bengal,2025,3,P2P,575352040
+West Bengal,2025,3,Retail,845070081
+West Bengal,2025,3,Utility,114519341
+West Bengal,2025,4,P2P,603154869
+West Bengal,2025,4,Retail,878593910
+West Bengal,2025,4,Utility,113921300
+West Bengal,2026,1,P2P,643075471
+West Bengal,2026,1,Retail,929319640
+West Bengal,2026,1,Utility,119448284
+West Bengal,2026,2,P2P,653298215
+West Bengal,2026,2,Retail,1005841996
+West Bengal,2026,2,Utility,123212798

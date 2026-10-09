@@ -1,0 +1,40 @@
+check,status,detail
+national_transactions: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+state_transactions: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+state_totals: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+district_transactions: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+state_users: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+district_users: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+state_merchants: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+district_merchants: nulls / duplicate keys / negatives,PASS,"nulls=0, dup_keys=0, negatives=0"
+national_transactions: completeness,PASS,0 missing
+state_transactions: completeness,FAIL,1 missing (from 2018 Q1 to 2018 Q1)
+state_totals: completeness,PASS,0 missing
+district_transactions: completeness,WARN,6 missing (from 2018 Q1 to 2018 Q3)
+state_users: completeness,PASS,0 missing
+district_users: completeness,PASS,0 missing
+state_merchants: completeness,WARN,46 missing (from 2018 Q1 to 2019 Q2)
+district_merchants: completeness,WARN,1885 missing (from 2018 Q1 to 2022 Q3)
+state_totals: amount populated,PASS,"null=0, total=587,258,767,886,103"
+state_totals: median ticket size plausible,PASS,"median = 1,613 per transaction"
+district_transactions: amount populated,PASS,"null=0, total=587,258,767,886,103"
+district_transactions: median ticket size plausible,PASS,"median = 1,665 per transaction"
+reconcile state categories to national,PASS,max diff: transaction_count 0.0000%; 0/102 groups exceed 0.1%; 0 uncomparable
+reconcile state totals to national,PASS,max diff: transaction_count 0.0000%; 0/34 groups exceed 0.1%; 0 uncomparable
+reconcile state totals to state categories,PASS,max diff: transaction_count 0.0000%; 0/1224 groups exceed 0.1%; 0 uncomparable
+reconcile districts to state totals,PASS,"max diff: transaction_count 0.0000%, transaction_amount 0.0000%; 0/1224 groups exceed 0.1%; 0 uncomparable"
+key alignment: state_transactions vs state_totals,PASS,"0 only in state_transactions, 0 only in state_totals"
+key alignment: state_transactions vs state_users,PASS,"0 only in state_transactions, 0 only in state_users"
+key alignment: state_transactions vs state_merchants,WARN,"46 only in state_transactions, 0 only in state_merchants"
+key alignment: district_transactions vs district_users,WARN,"0 only in district_transactions, 6 only in district_users"
+key alignment: district_transactions vs district_merchants,WARN,"1879 only in district_transactions, 0 only in district_merchants"
+state names: state_totals vs state_transactions,PASS,36 states
+state names: district_transactions vs state_transactions,PASS,36 states
+state names: state_users vs state_transactions,PASS,36 states
+state names: district_users vs state_transactions,PASS,36 states
+state names: state_merchants vs state_transactions,PASS,36 states
+state names: district_merchants vs state_transactions,PASS,36 states
+state_users: registered_users never decreases,PASS,0 decreases (worst 310); most in {}
+state_merchants: registered_merchants never decreases,WARN,"13 decreases (worst -92,457); most in {'2023 Q1': 11, '2018 Q3': 1, '2018 Q2': 1}"
+district_users: registered_users never decreases,WARN,"28 decreases (worst -139,925); most in {'2026 Q2': 27, '2025 Q3': 1}"
+district_merchants: registered_merchants never decreases,WARN,"232 decreases (worst -36,609); most in {'2023 Q1': 179, '2024 Q1': 13, '2018 Q3': 12}"

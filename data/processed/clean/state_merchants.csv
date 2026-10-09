@@ -1,0 +1,1179 @@
+year,quarter,state,registered_merchants
+2018,1,Gujarat,23
+2018,1,Haryana,4
+2018,1,Madhya Pradesh,8
+2018,1,Punjab,12
+2018,1,Uttar Pradesh,24
+2018,1,Andhra Pradesh,30
+2018,1,Bihar,2
+2018,1,Chhattisgarh,10
+2018,1,Delhi,35
+2018,1,Jammu and Kashmir,2
+2018,1,Karnataka,11162
+2018,1,Kerala,3
+2018,1,Maharashtra,1643
+2018,1,Odisha,12
+2018,1,Rajasthan,33
+2018,1,Tamil Nadu,48
+2018,1,Telangana,36
+2018,1,West Bengal,29
+2018,2,Dadra and Nagar Haveli and Daman and Diu,1
+2018,2,Goa,1
+2018,2,Gujarat,112
+2018,2,Haryana,168
+2018,2,Madhya Pradesh,23
+2018,2,Punjab,12
+2018,2,Uttar Pradesh,342
+2018,2,Andhra Pradesh,140
+2018,2,Bihar,4
+2018,2,Chandigarh,2
+2018,2,Chhattisgarh,17
+2018,2,Delhi,1582
+2018,2,Himachal Pradesh,2
+2018,2,Jammu and Kashmir,2
+2018,2,Karnataka,18604
+2018,2,Kerala,8
+2018,2,Maharashtra,6629
+2018,2,Odisha,7
+2018,2,Rajasthan,139
+2018,2,Tamil Nadu,58
+2018,2,Telangana,395
+2018,2,West Bengal,153
+2018,3,Dadra and Nagar Haveli and Daman and Diu,5
+2018,3,Goa,4
+2018,3,Gujarat,274
+2018,3,Haryana,3949
+2018,3,Jharkhand,16
+2018,3,Madhya Pradesh,76
+2018,3,Puducherry,2
+2018,3,Punjab,17
+2018,3,Uttar Pradesh,5805
+2018,3,Andhra Pradesh,9605
+2018,3,Assam,12
+2018,3,Bihar,79
+2018,3,Chandigarh,6
+2018,3,Chhattisgarh,27
+2018,3,Delhi,20830
+2018,3,Himachal Pradesh,1
+2018,3,Jammu and Kashmir,8
+2018,3,Karnataka,65096
+2018,3,Kerala,97
+2018,3,Maharashtra,38653
+2018,3,Nagaland,1
+2018,3,Odisha,41
+2018,3,Rajasthan,8587
+2018,3,Tamil Nadu,211
+2018,3,Telangana,31579
+2018,3,Uttarakhand,10
+2018,3,West Bengal,387
+2018,4,Andhra Pradesh,28877
+2018,4,Arunachal Pradesh,2
+2018,4,Assam,58
+2018,4,Bihar,780
+2018,4,Chandigarh,17
+2018,4,Chhattisgarh,828
+2018,4,Delhi,122312
+2018,4,Himachal Pradesh,17
+2018,4,Jammu and Kashmir,21
+2018,4,Karnataka,230749
+2018,4,Kerala,172
+2018,4,Ladakh,3
+2018,4,Maharashtra,229210
+2018,4,Manipur,3
+2018,4,Nagaland,15
+2018,4,Odisha,448
+2018,4,Rajasthan,45801
+2018,4,Tamil Nadu,12417
+2018,4,Telangana,116006
+2018,4,Tripura,6
+2018,4,Uttarakhand,102
+2018,4,West Bengal,2273
+2018,4,Dadra and Nagar Haveli and Daman and Diu,9
+2018,4,Goa,231
+2018,4,Gujarat,1087
+2018,4,Haryana,29642
+2018,4,Jharkhand,227
+2018,4,Madhya Pradesh,498
+2018,4,Meghalaya,3
+2018,4,Puducherry,193
+2018,4,Punjab,113
+2018,4,Sikkim,1
+2018,4,Uttar Pradesh,44207
+2019,1,Andaman and Nicobar Islands,5
+2019,1,Dadra and Nagar Haveli and Daman and Diu,139
+2019,1,Goa,766
+2019,1,Gujarat,50733
+2019,1,Haryana,120132
+2019,1,Jharkhand,39115
+2019,1,Madhya Pradesh,66408
+2019,1,Meghalaya,28
+2019,1,Mizoram,8
+2019,1,Puducherry,4824
+2019,1,Punjab,19290
+2019,1,Sikkim,15
+2019,1,Uttar Pradesh,234825
+2019,1,Andhra Pradesh,117391
+2019,1,Arunachal Pradesh,27
+2019,1,Assam,2157
+2019,1,Bihar,47091
+2019,1,Chandigarh,6750
+2019,1,Chhattisgarh,23858
+2019,1,Delhi,291072
+2019,1,Himachal Pradesh,358
+2019,1,Jammu and Kashmir,1545
+2019,1,Karnataka,386773
+2019,1,Kerala,6922
+2019,1,Ladakh,12
+2019,1,Maharashtra,698175
+2019,1,Manipur,59
+2019,1,Nagaland,32
+2019,1,Odisha,56750
+2019,1,Rajasthan,198786
+2019,1,Tamil Nadu,89054
+2019,1,Telangana,280921
+2019,1,Tripura,389
+2019,1,Uttarakhand,7020
+2019,1,West Bengal,160231
+2019,2,Andaman and Nicobar Islands,9
+2019,2,Dadra and Nagar Haveli and Daman and Diu,1779
+2019,2,Goa,1863
+2019,2,Gujarat,218360
+2019,2,Haryana,192408
+2019,2,Jharkhand,103275
+2019,2,Madhya Pradesh,225653
+2019,2,Meghalaya,90
+2019,2,Mizoram,21
+2019,2,Puducherry,9678
+2019,2,Punjab,62954
+2019,2,Sikkim,57
+2019,2,Uttar Pradesh,480618
+2019,2,Andhra Pradesh,202343
+2019,2,Arunachal Pradesh,81
+2019,2,Assam,6178
+2019,2,Bihar,136642
+2019,2,Chandigarh,15994
+2019,2,Chhattisgarh,48515
+2019,2,Delhi,377636
+2019,2,Himachal Pradesh,3990
+2019,2,Jammu and Kashmir,5604
+2019,2,Karnataka,596683
+2019,2,Kerala,36394
+2019,2,Ladakh,30
+2019,2,Maharashtra,1019256
+2019,2,Manipur,165
+2019,2,Nagaland,75
+2019,2,Odisha,149542
+2019,2,Rajasthan,329767
+2019,2,Tamil Nadu,230529
+2019,2,Telangana,388096
+2019,2,Tripura,882
+2019,2,Uttarakhand,19747
+2019,2,West Bengal,408272
+2019,3,Andaman and Nicobar Islands,22
+2019,3,Dadra and Nagar Haveli and Daman and Diu,3393
+2019,3,Goa,3458
+2019,3,Gujarat,379073
+2019,3,Haryana,260991
+2019,3,Jharkhand,147954
+2019,3,Madhya Pradesh,358087
+2019,3,Meghalaya,145
+2019,3,Mizoram,48
+2019,3,Puducherry,11936
+2019,3,Punjab,91197
+2019,3,Sikkim,111
+2019,3,Uttar Pradesh,671645
+2019,3,Andhra Pradesh,282013
+2019,3,Arunachal Pradesh,153
+2019,3,Assam,8036
+2019,3,Bihar,192625
+2019,3,Chandigarh,18880
+2019,3,Chhattisgarh,65116
+2019,3,Delhi,457771
+2019,3,Himachal Pradesh,7828
+2019,3,Jammu and Kashmir,6323
+2019,3,Karnataka,786775
+2019,3,Kerala,55423
+2019,3,Ladakh,47
+2019,3,Lakshadweep,1
+2019,3,Maharashtra,1309633
+2019,3,Manipur,269
+2019,3,Nagaland,151
+2019,3,Odisha,205674
+2019,3,Rajasthan,452793
+2019,3,Tamil Nadu,318903
+2019,3,Telangana,490375
+2019,3,Tripura,1187
+2019,3,Uttarakhand,28981
+2019,3,West Bengal,557605
+2019,4,Andhra Pradesh,355373
+2019,4,Arunachal Pradesh,195
+2019,4,Assam,9805
+2019,4,Bihar,237558
+2019,4,Chandigarh,21146
+2019,4,Chhattisgarh,82700
+2019,4,Delhi,535746
+2019,4,Himachal Pradesh,11892
+2019,4,Jammu and Kashmir,6435
+2019,4,Karnataka,938176
+2019,4,Kerala,69452
+2019,4,Ladakh,64
+2019,4,Lakshadweep,1
+2019,4,Maharashtra,1597195
+2019,4,Manipur,358
+2019,4,Nagaland,201
+2019,4,Odisha,251989
+2019,4,Rajasthan,542233
+2019,4,Tamil Nadu,406910
+2019,4,Telangana,571643
+2019,4,Tripura,1413
+2019,4,Uttarakhand,39058
+2019,4,West Bengal,667857
+2019,4,Andaman and Nicobar Islands,34
+2019,4,Dadra and Nagar Haveli and Daman and Diu,4426
+2019,4,Goa,4792
+2019,4,Gujarat,479820
+2019,4,Haryana,318003
+2019,4,Jharkhand,175728
+2019,4,Madhya Pradesh,440884
+2019,4,Meghalaya,199
+2019,4,Mizoram,63
+2019,4,Puducherry,13809
+2019,4,Punjab,116388
+2019,4,Sikkim,153
+2019,4,Uttar Pradesh,828695
+2020,1,Andhra Pradesh,413286
+2020,1,Arunachal Pradesh,245
+2020,1,Assam,11386
+2020,1,Bihar,287792
+2020,1,Chandigarh,24121
+2020,1,Chhattisgarh,99397
+2020,1,Delhi,620971
+2020,1,Himachal Pradesh,14466
+2020,1,Jammu and Kashmir,6711
+2020,1,Karnataka,1076061
+2020,1,Kerala,83256
+2020,1,Ladakh,71
+2020,1,Lakshadweep,2
+2020,1,Maharashtra,1861784
+2020,1,Manipur,441
+2020,1,Nagaland,237
+2020,1,Odisha,289381
+2020,1,Rajasthan,628462
+2020,1,Tamil Nadu,484793
+2020,1,Telangana,640815
+2020,1,Tripura,1614
+2020,1,Uttarakhand,48320
+2020,1,West Bengal,775932
+2020,1,Andaman and Nicobar Islands,55
+2020,1,Dadra and Nagar Haveli and Daman and Diu,5118
+2020,1,Goa,5584
+2020,1,Gujarat,575783
+2020,1,Haryana,376341
+2020,1,Jharkhand,208858
+2020,1,Madhya Pradesh,513846
+2020,1,Meghalaya,251
+2020,1,Mizoram,82
+2020,1,Puducherry,15161
+2020,1,Punjab,140707
+2020,1,Sikkim,197
+2020,1,Uttar Pradesh,979673
+2020,2,Andaman and Nicobar Islands,67
+2020,2,Dadra and Nagar Haveli and Daman and Diu,5435
+2020,2,Goa,6457
+2020,2,Gujarat,623195
+2020,2,Haryana,404251
+2020,2,Jharkhand,223796
+2020,2,Madhya Pradesh,550154
+2020,2,Meghalaya,295
+2020,2,Mizoram,98
+2020,2,Puducherry,15759
+2020,2,Punjab,149795
+2020,2,Sikkim,221
+2020,2,Uttar Pradesh,1043964
+2020,2,Andhra Pradesh,443589
+2020,2,Arunachal Pradesh,290
+2020,2,Assam,12767
+2020,2,Bihar,310562
+2020,2,Chandigarh,25176
+2020,2,Chhattisgarh,105658
+2020,2,Delhi,662128
+2020,2,Himachal Pradesh,15575
+2020,2,Jammu and Kashmir,7274
+2020,2,Karnataka,1155989
+2020,2,Kerala,91350
+2020,2,Ladakh,79
+2020,2,Lakshadweep,3
+2020,2,Maharashtra,1925780
+2020,2,Manipur,523
+2020,2,Nagaland,283
+2020,2,Odisha,304562
+2020,2,Rajasthan,671680
+2020,2,Tamil Nadu,516057
+2020,2,Telangana,673726
+2020,2,Tripura,1741
+2020,2,Uttarakhand,52918
+2020,2,West Bengal,813620
+2020,3,Andhra Pradesh,523633
+2020,3,Arunachal Pradesh,315
+2020,3,Assam,14007
+2020,3,Bihar,376344
+2020,3,Chandigarh,28162
+2020,3,Chhattisgarh,120657
+2020,3,Delhi,806650
+2020,3,Himachal Pradesh,18895
+2020,3,Jammu and Kashmir,13647
+2020,3,Karnataka,1360600
+2020,3,Kerala,113135
+2020,3,Ladakh,89
+2020,3,Lakshadweep,4
+2020,3,Maharashtra,2160587
+2020,3,Manipur,557
+2020,3,Nagaland,304
+2020,3,Odisha,355640
+2020,3,Rajasthan,808116
+2020,3,Tamil Nadu,620844
+2020,3,Telangana,802189
+2020,3,Tripura,1801
+2020,3,Uttarakhand,65658
+2020,3,West Bengal,922488
+2020,3,Andaman and Nicobar Islands,76
+2020,3,Dadra and Nagar Haveli and Daman and Diu,7224
+2020,3,Goa,7492
+2020,3,Gujarat,757523
+2020,3,Haryana,495270
+2020,3,Jharkhand,268769
+2020,3,Madhya Pradesh,654441
+2020,3,Meghalaya,308
+2020,3,Mizoram,101
+2020,3,Puducherry,17736
+2020,3,Punjab,181331
+2020,3,Sikkim,242
+2020,3,Uttar Pradesh,1242714
+2020,4,Andaman and Nicobar Islands,187
+2020,4,Dadra and Nagar Haveli and Daman and Diu,9628
+2020,4,Goa,9461
+2020,4,Gujarat,915535
+2020,4,Haryana,596567
+2020,4,Jharkhand,344805
+2020,4,Madhya Pradesh,839834
+2020,4,Meghalaya,383
+2020,4,Mizoram,116
+2020,4,Puducherry,21019
+2020,4,Punjab,228303
+2020,4,Sikkim,291
+2020,4,Uttar Pradesh,1586664
+2020,4,Andhra Pradesh,669451
+2020,4,Arunachal Pradesh,364
+2020,4,Assam,18200
+2020,4,Bihar,527212
+2020,4,Chandigarh,31497
+2020,4,Chhattisgarh,153533
+2020,4,Delhi,956264
+2020,4,Himachal Pradesh,24496
+2020,4,Jammu and Kashmir,21742
+2020,4,Karnataka,1559103
+2020,4,Kerala,168782
+2020,4,Ladakh,109
+2020,4,Lakshadweep,7
+2020,4,Maharashtra,2544284
+2020,4,Manipur,638
+2020,4,Nagaland,348
+2020,4,Odisha,464756
+2020,4,Rajasthan,981664
+2020,4,Tamil Nadu,769374
+2020,4,Telangana,986977
+2020,4,Tripura,1980
+2020,4,Uttarakhand,85892
+2020,4,West Bengal,1136123
+2021,1,Andaman and Nicobar Islands,329
+2021,1,Dadra and Nagar Haveli and Daman and Diu,11346
+2021,1,Goa,11748
+2021,1,Gujarat,1057340
+2021,1,Haryana,689584
+2021,1,Jharkhand,414090
+2021,1,Madhya Pradesh,1038097
+2021,1,Meghalaya,720
+2021,1,Mizoram,126
+2021,1,Puducherry,24614
+2021,1,Punjab,284376
+2021,1,Sikkim,399
+2021,1,Uttar Pradesh,2059413
+2021,1,Andhra Pradesh,778520
+2021,1,Arunachal Pradesh,432
+2021,1,Assam,41335
+2021,1,Bihar,734157
+2021,1,Chandigarh,34879
+2021,1,Chhattisgarh,185878
+2021,1,Delhi,1076714
+2021,1,Himachal Pradesh,31399
+2021,1,Jammu and Kashmir,37358
+2021,1,Karnataka,1724839
+2021,1,Kerala,233096
+2021,1,Ladakh,257
+2021,1,Lakshadweep,10
+2021,1,Maharashtra,2884303
+2021,1,Manipur,714
+2021,1,Nagaland,390
+2021,1,Odisha,548595
+2021,1,Rajasthan,1160473
+2021,1,Tamil Nadu,912668
+2021,1,Telangana,1156920
+2021,1,Tripura,2294
+2021,1,Uttarakhand,124324
+2021,1,West Bengal,1344929
+2021,2,Andaman and Nicobar Islands,406
+2021,2,Dadra and Nagar Haveli and Daman and Diu,11960
+2021,2,Goa,12752
+2021,2,Gujarat,1139225
+2021,2,Haryana,752220
+2021,2,Jharkhand,450674
+2021,2,Madhya Pradesh,1117867
+2021,2,Meghalaya,1115
+2021,2,Mizoram,142
+2021,2,Puducherry,25656
+2021,2,Punjab,338480
+2021,2,Sikkim,455
+2021,2,Uttar Pradesh,2328409
+2021,2,Andhra Pradesh,835962
+2021,2,Arunachal Pradesh,565
+2021,2,Assam,70790
+2021,2,Bihar,873547
+2021,2,Chandigarh,37747
+2021,2,Chhattisgarh,198995
+2021,2,Delhi,1126168
+2021,2,Himachal Pradesh,38403
+2021,2,Jammu and Kashmir,45615
+2021,2,Karnataka,1777995
+2021,2,Kerala,257555
+2021,2,Ladakh,504
+2021,2,Lakshadweep,12
+2021,2,Maharashtra,3023504
+2021,2,Manipur,988
+2021,2,Nagaland,434
+2021,2,Odisha,597443
+2021,2,Rajasthan,1273446
+2021,2,Tamil Nadu,975536
+2021,2,Telangana,1230127
+2021,2,Tripura,4022
+2021,2,Uttarakhand,148562
+2021,2,West Bengal,1467960
+2021,3,Andhra Pradesh,913133
+2021,3,Arunachal Pradesh,863
+2021,3,Assam,115235
+2021,3,Bihar,1100249
+2021,3,Chandigarh,39808
+2021,3,Chhattisgarh,234841
+2021,3,Delhi,1228686
+2021,3,Himachal Pradesh,50357
+2021,3,Jammu and Kashmir,60539
+2021,3,Karnataka,1911755
+2021,3,Kerala,341400
+2021,3,Ladakh,561
+2021,3,Lakshadweep,16
+2021,3,Maharashtra,3290552
+2021,3,Manipur,1154
+2021,3,Nagaland,553
+2021,3,Odisha,672683
+2021,3,Rajasthan,1461773
+2021,3,Tamil Nadu,1089153
+2021,3,Telangana,1326576
+2021,3,Tripura,6525
+2021,3,Uttarakhand,185660
+2021,3,West Bengal,1640034
+2021,3,Andaman and Nicobar Islands,589
+2021,3,Dadra and Nagar Haveli and Daman and Diu,13043
+2021,3,Goa,14847
+2021,3,Gujarat,1237105
+2021,3,Haryana,835658
+2021,3,Jharkhand,512007
+2021,3,Madhya Pradesh,1314899
+2021,3,Meghalaya,1444
+2021,3,Mizoram,176
+2021,3,Puducherry,28079
+2021,3,Punjab,402314
+2021,3,Sikkim,792
+2021,3,Uttar Pradesh,2857565
+2021,4,Andhra Pradesh,1003391
+2021,4,Arunachal Pradesh,1555
+2021,4,Assam,178337
+2021,4,Bihar,1305682
+2021,4,Chandigarh,41069
+2021,4,Chhattisgarh,278371
+2021,4,Delhi,1313333
+2021,4,Himachal Pradesh,63178
+2021,4,Jammu and Kashmir,89313
+2021,4,Karnataka,2036736
+2021,4,Kerala,474428
+2021,4,Ladakh,612
+2021,4,Lakshadweep,19
+2021,4,Maharashtra,3607998
+2021,4,Manipur,1356
+2021,4,Nagaland,924
+2021,4,Odisha,756259
+2021,4,Rajasthan,1643349
+2021,4,Tamil Nadu,1209788
+2021,4,Telangana,1434453
+2021,4,Tripura,9671
+2021,4,Uttarakhand,226561
+2021,4,West Bengal,1841977
+2021,4,Andaman and Nicobar Islands,1110
+2021,4,Dadra and Nagar Haveli and Daman and Diu,14300
+2021,4,Goa,17696
+2021,4,Gujarat,1293971
+2021,4,Haryana,918155
+2021,4,Jharkhand,571098
+2021,4,Madhya Pradesh,1523277
+2021,4,Meghalaya,2117
+2021,4,Mizoram,211
+2021,4,Puducherry,30615
+2021,4,Punjab,466703
+2021,4,Sikkim,952
+2021,4,Uttar Pradesh,3413744
+2022,1,Andhra Pradesh,1087914
+2022,1,Arunachal Pradesh,2475
+2022,1,Assam,254792
+2022,1,Bihar,1548974
+2022,1,Chandigarh,42930
+2022,1,Chhattisgarh,321437
+2022,1,Delhi,1422784
+2022,1,Himachal Pradesh,75280
+2022,1,Jammu and Kashmir,122511
+2022,1,Karnataka,2174104
+2022,1,Kerala,572466
+2022,1,Ladakh,683
+2022,1,Lakshadweep,23
+2022,1,Maharashtra,3932588
+2022,1,Manipur,1592
+2022,1,Nagaland,1826
+2022,1,Odisha,839004
+2022,1,Rajasthan,1863349
+2022,1,Tamil Nadu,1356884
+2022,1,Telangana,1545651
+2022,1,Tripura,12351
+2022,1,Uttarakhand,269957
+2022,1,West Bengal,2052296
+2022,1,Andaman and Nicobar Islands,1618
+2022,1,Dadra and Nagar Haveli and Daman and Diu,15792
+2022,1,Goa,20221
+2022,1,Gujarat,1418981
+2022,1,Haryana,1026068
+2022,1,Jharkhand,638840
+2022,1,Madhya Pradesh,1697225
+2022,1,Meghalaya,3093
+2022,1,Mizoram,253
+2022,1,Puducherry,33226
+2022,1,Punjab,542139
+2022,1,Sikkim,1219
+2022,1,Uttar Pradesh,4069314
+2022,2,Andaman and Nicobar Islands,2036
+2022,2,Dadra and Nagar Haveli and Daman and Diu,16607
+2022,2,Goa,21786
+2022,2,Gujarat,1508860
+2022,2,Haryana,1106393
+2022,2,Jharkhand,682752
+2022,2,Madhya Pradesh,1812068
+2022,2,Meghalaya,3790
+2022,2,Mizoram,289
+2022,2,Puducherry,35254
+2022,2,Punjab,604578
+2022,2,Sikkim,1350
+2022,2,Uttar Pradesh,4486248
+2022,2,Andhra Pradesh,1160039
+2022,2,Arunachal Pradesh,3763
+2022,2,Assam,312828
+2022,2,Bihar,1703453
+2022,2,Chandigarh,44644
+2022,2,Chhattisgarh,353970
+2022,2,Delhi,1511233
+2022,2,Himachal Pradesh,86078
+2022,2,Jammu and Kashmir,147683
+2022,2,Karnataka,2291533
+2022,2,Kerala,632138
+2022,2,Ladakh,785
+2022,2,Lakshadweep,27
+2022,2,Maharashtra,4180983
+2022,2,Manipur,1799
+2022,2,Nagaland,3123
+2022,2,Odisha,897828
+2022,2,Rajasthan,2003276
+2022,2,Tamil Nadu,1467182
+2022,2,Telangana,1632694
+2022,2,Tripura,15494
+2022,2,Uttarakhand,302643
+2022,2,West Bengal,2198980
+2022,3,Andhra Pradesh,1223491
+2022,3,Arunachal Pradesh,7280
+2022,3,Assam,375732
+2022,3,Bihar,1848624
+2022,3,Chandigarh,46291
+2022,3,Chhattisgarh,390945
+2022,3,Delhi,1557751
+2022,3,Himachal Pradesh,94578
+2022,3,Jammu and Kashmir,167970
+2022,3,Karnataka,2383894
+2022,3,Kerala,684116
+2022,3,Ladakh,856
+2022,3,Lakshadweep,31
+2022,3,Maharashtra,4352350
+2022,3,Manipur,1996
+2022,3,Nagaland,3410
+2022,3,Odisha,959371
+2022,3,Rajasthan,2112900
+2022,3,Tamil Nadu,1553055
+2022,3,Telangana,1698591
+2022,3,Tripura,20339
+2022,3,Uttarakhand,329037
+2022,3,West Bengal,2336122
+2022,3,Andaman and Nicobar Islands,2469
+2022,3,Dadra and Nagar Haveli and Daman and Diu,17115
+2022,3,Goa,23829
+2022,3,Gujarat,1575338
+2022,3,Haryana,1171324
+2022,3,Jharkhand,717981
+2022,3,Madhya Pradesh,1923099
+2022,3,Meghalaya,4307
+2022,3,Mizoram,349
+2022,3,Puducherry,36822
+2022,3,Punjab,654993
+2022,3,Sikkim,1493
+2022,3,Uttar Pradesh,4865043
+2022,4,Andaman and Nicobar Islands,2740
+2022,4,Dadra and Nagar Haveli and Daman and Diu,17526
+2022,4,Goa,25200
+2022,4,Gujarat,1624532
+2022,4,Haryana,1231301
+2022,4,Jharkhand,747878
+2022,4,Madhya Pradesh,2040575
+2022,4,Meghalaya,5034
+2022,4,Mizoram,988
+2022,4,Puducherry,38131
+2022,4,Punjab,703167
+2022,4,Sikkim,1585
+2022,4,Uttar Pradesh,5262234
+2022,4,Andhra Pradesh,1272711
+2022,4,Arunachal Pradesh,9833
+2022,4,Assam,428380
+2022,4,Bihar,1983316
+2022,4,Chandigarh,47980
+2022,4,Chhattisgarh,425290
+2022,4,Delhi,1593056
+2022,4,Himachal Pradesh,103146
+2022,4,Jammu and Kashmir,191336
+2022,4,Karnataka,2456318
+2022,4,Kerala,727331
+2022,4,Ladakh,891
+2022,4,Lakshadweep,34
+2022,4,Maharashtra,4508736
+2022,4,Manipur,2742
+2022,4,Nagaland,4561
+2022,4,Odisha,1013277
+2022,4,Rajasthan,2221707
+2022,4,Tamil Nadu,1632127
+2022,4,Telangana,1755424
+2022,4,Tripura,23805
+2022,4,Uttarakhand,351700
+2022,4,West Bengal,2460123
+2023,1,Andhra Pradesh,1291077
+2023,1,Arunachal Pradesh,10591
+2023,1,Assam,468585
+2023,1,Bihar,1998018
+2023,1,Chandigarh,47270
+2023,1,Chhattisgarh,443733
+2023,1,Delhi,1500599
+2023,1,Himachal Pradesh,105878
+2023,1,Jammu and Kashmir,211380
+2023,1,Karnataka,2448968
+2023,1,Kerala,749862
+2023,1,Ladakh,899
+2023,1,Lakshadweep,34
+2023,1,Maharashtra,4522908
+2023,1,Manipur,5900
+2023,1,Nagaland,4886
+2023,1,Odisha,1002402
+2023,1,Rajasthan,2212283
+2023,1,Tamil Nadu,1653481
+2023,1,Telangana,1767962
+2023,1,Tripura,26411
+2023,1,Uttarakhand,354593
+2023,1,West Bengal,2476853
+2023,1,Andaman and Nicobar Islands,2880
+2023,1,Dadra and Nagar Haveli and Daman and Diu,17162
+2023,1,Goa,25609
+2023,1,Gujarat,1582606
+2023,1,Haryana,1205359
+2023,1,Jharkhand,732754
+2023,1,Madhya Pradesh,2083024
+2023,1,Meghalaya,6230
+2023,1,Mizoram,1784
+2023,1,Puducherry,38372
+2023,1,Punjab,681611
+2023,1,Sikkim,1831
+2023,1,Uttar Pradesh,5259389
+2023,2,Andhra Pradesh,1318135
+2023,2,Arunachal Pradesh,11544
+2023,2,Assam,498188
+2023,2,Bihar,2036559
+2023,2,Chandigarh,48825
+2023,2,Chhattisgarh,457643
+2023,2,Delhi,1518643
+2023,2,Himachal Pradesh,109661
+2023,2,Jammu and Kashmir,227949
+2023,2,Karnataka,2486882
+2023,2,Kerala,763613
+2023,2,Ladakh,922
+2023,2,Lakshadweep,34
+2023,2,Maharashtra,4608963
+2023,2,Manipur,6848
+2023,2,Nagaland,4988
+2023,2,Odisha,1021368
+2023,2,Rajasthan,2257614
+2023,2,Tamil Nadu,1683247
+2023,2,Telangana,1798270
+2023,2,Tripura,28521
+2023,2,Uttarakhand,367202
+2023,2,West Bengal,2540990
+2023,2,Andaman and Nicobar Islands,3030
+2023,2,Dadra and Nagar Haveli and Daman and Diu,17453
+2023,2,Goa,26285
+2023,2,Gujarat,1606526
+2023,2,Haryana,1231314
+2023,2,Jharkhand,745398
+2023,2,Madhya Pradesh,2142311
+2023,2,Meghalaya,6637
+2023,2,Mizoram,2544
+2023,2,Puducherry,38895
+2023,2,Punjab,700473
+2023,2,Sikkim,2524
+2023,2,Uttar Pradesh,5399393
+2023,3,Andaman and Nicobar Islands,3143
+2023,3,Dadra and Nagar Haveli and Daman and Diu,18026
+2023,3,Goa,27362
+2023,3,Gujarat,1639176
+2023,3,Haryana,1272783
+2023,3,Jharkhand,766786
+2023,3,Madhya Pradesh,2210798
+2023,3,Meghalaya,7310
+2023,3,Mizoram,3510
+2023,3,Puducherry,39645
+2023,3,Punjab,723574
+2023,3,Sikkim,3235
+2023,3,Uttar Pradesh,5617414
+2023,3,Andhra Pradesh,1365791
+2023,3,Arunachal Pradesh,13508
+2023,3,Assam,538577
+2023,3,Bihar,2114351
+2023,3,Chandigarh,49865
+2023,3,Chhattisgarh,476302
+2023,3,Delhi,1545075
+2023,3,Himachal Pradesh,113340
+2023,3,Jammu and Kashmir,242043
+2023,3,Karnataka,2549956
+2023,3,Kerala,788966
+2023,3,Ladakh,972
+2023,3,Lakshadweep,34
+2023,3,Maharashtra,4734743
+2023,3,Manipur,6862
+2023,3,Nagaland,5053
+2023,3,Odisha,1051651
+2023,3,Rajasthan,2324919
+2023,3,Tamil Nadu,1731234
+2023,3,Telangana,1844528
+2023,3,Tripura,32375
+2023,3,Uttarakhand,379354
+2023,3,West Bengal,2645684
+2023,4,Andhra Pradesh,1424574
+2023,4,Arunachal Pradesh,15170
+2023,4,Assam,574112
+2023,4,Bihar,2194129
+2023,4,Chandigarh,50833
+2023,4,Chhattisgarh,494172
+2023,4,Delhi,1569273
+2023,4,Himachal Pradesh,116857
+2023,4,Jammu and Kashmir,250758
+2023,4,Karnataka,2616609
+2023,4,Kerala,817185
+2023,4,Ladakh,1038
+2023,4,Lakshadweep,36
+2023,4,Maharashtra,4866495
+2023,4,Manipur,7555
+2023,4,Nagaland,5764
+2023,4,Odisha,1079039
+2023,4,Rajasthan,2406772
+2023,4,Tamil Nadu,1783632
+2023,4,Telangana,1893687
+2023,4,Tripura,35430
+2023,4,Uttarakhand,391364
+2023,4,West Bengal,2741155
+2023,4,Andaman and Nicobar Islands,3205
+2023,4,Dadra and Nagar Haveli and Daman and Diu,18911
+2023,4,Goa,28389
+2023,4,Gujarat,1672361
+2023,4,Haryana,1309518
+2023,4,Jharkhand,786962
+2023,4,Madhya Pradesh,2279592
+2023,4,Meghalaya,7883
+2023,4,Mizoram,4699
+2023,4,Puducherry,40430
+2023,4,Punjab,746968
+2023,4,Sikkim,3496
+2023,4,Uttar Pradesh,5820508
+2024,1,Andhra Pradesh,1500986
+2024,1,Arunachal Pradesh,16887
+2024,1,Assam,611691
+2024,1,Bihar,2272717
+2024,1,Chandigarh,52271
+2024,1,Chhattisgarh,518348
+2024,1,Delhi,1610556
+2024,1,Himachal Pradesh,120041
+2024,1,Jammu and Kashmir,264241
+2024,1,Karnataka,2702444
+2024,1,Kerala,847785
+2024,1,Ladakh,1091
+2024,1,Lakshadweep,56
+2024,1,Maharashtra,5039829
+2024,1,Manipur,10474
+2024,1,Nagaland,7149
+2024,1,Odisha,1106573
+2024,1,Rajasthan,2513905
+2024,1,Tamil Nadu,1856637
+2024,1,Telangana,1974451
+2024,1,Tripura,37140
+2024,1,Uttarakhand,403865
+2024,1,West Bengal,2845547
+2024,1,Andaman and Nicobar Islands,3255
+2024,1,Dadra and Nagar Haveli and Daman and Diu,20267
+2024,1,Goa,29320
+2024,1,Gujarat,1734621
+2024,1,Haryana,1349876
+2024,1,Jharkhand,810224
+2024,1,Madhya Pradesh,2371698
+2024,1,Meghalaya,8557
+2024,1,Mizoram,6017
+2024,1,Puducherry,41484
+2024,1,Punjab,770732
+2024,1,Sikkim,4068
+2024,1,Uttar Pradesh,6019346
+2024,2,Andhra Pradesh,1563902
+2024,2,Arunachal Pradesh,18807
+2024,2,Assam,645880
+2024,2,Bihar,2362109
+2024,2,Chandigarh,53545
+2024,2,Chhattisgarh,542535
+2024,2,Delhi,1648369
+2024,2,Himachal Pradesh,126235
+2024,2,Jammu and Kashmir,276715
+2024,2,Karnataka,2776153
+2024,2,Kerala,876516
+2024,2,Ladakh,1640
+2024,2,Lakshadweep,121
+2024,2,Maharashtra,5168187
+2024,2,Manipur,12042
+2024,2,Nagaland,8484
+2024,2,Odisha,1142368
+2024,2,Rajasthan,2630384
+2024,2,Tamil Nadu,1925501
+2024,2,Telangana,2034941
+2024,2,Tripura,38797
+2024,2,Uttarakhand,417986
+2024,2,West Bengal,2941809
+2024,2,Andaman and Nicobar Islands,3440
+2024,2,Dadra and Nagar Haveli and Daman and Diu,21337
+2024,2,Goa,30281
+2024,2,Gujarat,1790863
+2024,2,Haryana,1395864
+2024,2,Jharkhand,838391
+2024,2,Madhya Pradesh,2466722
+2024,2,Meghalaya,9226
+2024,2,Mizoram,7999
+2024,2,Puducherry,42724
+2024,2,Punjab,798969
+2024,2,Sikkim,4805
+2024,2,Uttar Pradesh,6248571
+2024,3,Andaman and Nicobar Islands,3739
+2024,3,Dadra and Nagar Haveli and Daman and Diu,22497
+2024,3,Goa,31250
+2024,3,Gujarat,1845568
+2024,3,Haryana,1436920
+2024,3,Jharkhand,866641
+2024,3,Madhya Pradesh,2568230
+2024,3,Meghalaya,10529
+2024,3,Mizoram,11489
+2024,3,Puducherry,44051
+2024,3,Punjab,827225
+2024,3,Sikkim,6355
+2024,3,Uttar Pradesh,6485244
+2024,3,Andhra Pradesh,1619870
+2024,3,Arunachal Pradesh,20805
+2024,3,Assam,683854
+2024,3,Bihar,2458579
+2024,3,Chandigarh,54821
+2024,3,Chhattisgarh,566499
+2024,3,Delhi,1677600
+2024,3,Himachal Pradesh,130210
+2024,3,Jammu and Kashmir,287841
+2024,3,Karnataka,2853759
+2024,3,Kerala,908337
+2024,3,Ladakh,2060
+2024,3,Lakshadweep,183
+2024,3,Maharashtra,5298716
+2024,3,Manipur,14222
+2024,3,Nagaland,9915
+2024,3,Odisha,1175562
+2024,3,Rajasthan,2738128
+2024,3,Tamil Nadu,1991578
+2024,3,Telangana,2090746
+2024,3,Tripura,40877
+2024,3,Uttarakhand,430448
+2024,3,West Bengal,3036684
+2024,4,Andhra Pradesh,1683203
+2024,4,Arunachal Pradesh,22873
+2024,4,Assam,725330
+2024,4,Bihar,2553973
+2024,4,Chandigarh,56177
+2024,4,Chhattisgarh,593346
+2024,4,Delhi,1707724
+2024,4,Himachal Pradesh,133259
+2024,4,Jammu and Kashmir,298282
+2024,4,Karnataka,2925825
+2024,4,Kerala,940307
+2024,4,Ladakh,2363
+2024,4,Lakshadweep,226
+2024,4,Maharashtra,5428259
+2024,4,Manipur,16334
+2024,4,Nagaland,11424
+2024,4,Odisha,1212893
+2024,4,Rajasthan,2840940
+2024,4,Tamil Nadu,2054574
+2024,4,Telangana,2147214
+2024,4,Tripura,43371
+2024,4,Uttarakhand,441710
+2024,4,West Bengal,3131480
+2024,4,Andaman and Nicobar Islands,4041
+2024,4,Dadra and Nagar Haveli and Daman and Diu,23494
+2024,4,Goa,32281
+2024,4,Gujarat,1897442
+2024,4,Haryana,1480933
+2024,4,Jharkhand,894994
+2024,4,Madhya Pradesh,2674535
+2024,4,Meghalaya,11765
+2024,4,Mizoram,13962
+2024,4,Puducherry,45073
+2024,4,Punjab,854323
+2024,4,Sikkim,7123
+2024,4,Uttar Pradesh,6724830
+2025,1,Andaman and Nicobar Islands,4344
+2025,1,Dadra and Nagar Haveli and Daman and Diu,24269
+2025,1,Goa,33494
+2025,1,Gujarat,1942361
+2025,1,Haryana,1522080
+2025,1,Jharkhand,920006
+2025,1,Madhya Pradesh,2763468
+2025,1,Meghalaya,12654
+2025,1,Mizoram,16138
+2025,1,Puducherry,46196
+2025,1,Punjab,877203
+2025,1,Sikkim,7607
+2025,1,Uttar Pradesh,6931337
+2025,1,Andhra Pradesh,1740695
+2025,1,Arunachal Pradesh,24793
+2025,1,Assam,761966
+2025,1,Bihar,2640021
+2025,1,Chandigarh,57875
+2025,1,Chhattisgarh,617762
+2025,1,Delhi,1736526
+2025,1,Himachal Pradesh,136228
+2025,1,Jammu and Kashmir,309405
+2025,1,Karnataka,2990287
+2025,1,Kerala,969176
+2025,1,Ladakh,2454
+2025,1,Lakshadweep,271
+2025,1,Maharashtra,5550838
+2025,1,Manipur,18944
+2025,1,Nagaland,12681
+2025,1,Odisha,1247790
+2025,1,Rajasthan,2927213
+2025,1,Tamil Nadu,2114180
+2025,1,Telangana,2196581
+2025,1,Tripura,45840
+2025,1,Uttarakhand,450722
+2025,1,West Bengal,3221457
+2025,2,Andhra Pradesh,1794867
+2025,2,Arunachal Pradesh,26579
+2025,2,Assam,794454
+2025,2,Bihar,2722198
+2025,2,Chandigarh,59143
+2025,2,Chhattisgarh,639801
+2025,2,Delhi,1766050
+2025,2,Himachal Pradesh,139315
+2025,2,Jammu and Kashmir,321443
+2025,2,Karnataka,3049279
+2025,2,Kerala,995224
+2025,2,Ladakh,2479
+2025,2,Lakshadweep,305
+2025,2,Maharashtra,5653784
+2025,2,Manipur,21382
+2025,2,Nagaland,13867
+2025,2,Odisha,1280523
+2025,2,Rajasthan,3005610
+2025,2,Tamil Nadu,2173347
+2025,2,Telangana,2246001
+2025,2,Tripura,47515
+2025,2,Uttarakhand,459615
+2025,2,West Bengal,3307755
+2025,2,Andaman and Nicobar Islands,4589
+2025,2,Dadra and Nagar Haveli and Daman and Diu,24909
+2025,2,Goa,34446
+2025,2,Gujarat,1982430
+2025,2,Haryana,1559622
+2025,2,Jharkhand,945687
+2025,2,Madhya Pradesh,2838187
+2025,2,Meghalaya,13470
+2025,2,Mizoram,17514
+2025,2,Puducherry,47524
+2025,2,Punjab,895586
+2025,2,Sikkim,8059
+2025,2,Uttar Pradesh,7118781
+2025,3,Andaman and Nicobar Islands,4894
+2025,3,Dadra and Nagar Haveli and Daman and Diu,25741
+2025,3,Goa,35183
+2025,3,Gujarat,2020150
+2025,3,Haryana,1596852
+2025,3,Jharkhand,973596
+2025,3,Madhya Pradesh,2916083
+2025,3,Meghalaya,14795
+2025,3,Mizoram,19563
+2025,3,Puducherry,48779
+2025,3,Punjab,912817
+2025,3,Sikkim,8403
+2025,3,Uttar Pradesh,7328300
+2025,3,Andhra Pradesh,1846994
+2025,3,Arunachal Pradesh,28636
+2025,3,Assam,832239
+2025,3,Bihar,2811281
+2025,3,Chandigarh,60176
+2025,3,Chhattisgarh,662495
+2025,3,Delhi,1796474
+2025,3,Himachal Pradesh,142979
+2025,3,Jammu and Kashmir,333554
+2025,3,Karnataka,3108462
+2025,3,Kerala,1020975
+2025,3,Ladakh,2530
+2025,3,Lakshadweep,330
+2025,3,Maharashtra,5758748
+2025,3,Manipur,25620
+2025,3,Nagaland,15356
+2025,3,Odisha,1316523
+2025,3,Rajasthan,3082538
+2025,3,Tamil Nadu,2227787
+2025,3,Telangana,2298730
+2025,3,Tripura,49397
+2025,3,Uttarakhand,468380
+2025,3,West Bengal,3397402
+2025,4,Andhra Pradesh,1916104
+2025,4,Arunachal Pradesh,30529
+2025,4,Assam,886076
+2025,4,Bihar,2921494
+2025,4,Chandigarh,61497
+2025,4,Chhattisgarh,687021
+2025,4,Delhi,1835425
+2025,4,Himachal Pradesh,147497
+2025,4,Jammu and Kashmir,348390
+2025,4,Karnataka,3182349
+2025,4,Kerala,1050542
+2025,4,Ladakh,2624
+2025,4,Lakshadweep,369
+2025,4,Maharashtra,5890201
+2025,4,Manipur,29734
+2025,4,Nagaland,16637
+2025,4,Odisha,1362649
+2025,4,Rajasthan,3178588
+2025,4,Tamil Nadu,2282219
+2025,4,Telangana,2374216
+2025,4,Tripura,51531
+2025,4,Uttarakhand,477700
+2025,4,West Bengal,3501166
+2025,4,Andaman and Nicobar Islands,5260
+2025,4,Dadra and Nagar Haveli and Daman and Diu,26635
+2025,4,Goa,35734
+2025,4,Gujarat,2064443
+2025,4,Haryana,1643434
+2025,4,Jharkhand,1007283
+2025,4,Madhya Pradesh,3018653
+2025,4,Meghalaya,16581
+2025,4,Mizoram,21331
+2025,4,Puducherry,49890
+2025,4,Punjab,931000
+2025,4,Sikkim,8877
+2025,4,Uttar Pradesh,7586405
+2026,1,Andhra Pradesh,1971965
+2026,1,Arunachal Pradesh,32620
+2026,1,Assam,925132
+2026,1,Bihar,2994241
+2026,1,Chandigarh,62840
+2026,1,Chhattisgarh,701882
+2026,1,Delhi,1864615
+2026,1,Himachal Pradesh,150358
+2026,1,Jammu and Kashmir,355982
+2026,1,Karnataka,3241683
+2026,1,Kerala,1070637
+2026,1,Ladakh,2639
+2026,1,Lakshadweep,369
+2026,1,Maharashtra,6005973
+2026,1,Manipur,32712
+2026,1,Nagaland,17757
+2026,1,Odisha,1397254
+2026,1,Rajasthan,3240632
+2026,1,Tamil Nadu,2318838
+2026,1,Telangana,2425675
+2026,1,Tripura,52868
+2026,1,Uttarakhand,484584
+2026,1,West Bengal,3567960
+2026,1,Andaman and Nicobar Islands,5541
+2026,1,Dadra and Nagar Haveli and Daman and Diu,27377
+2026,1,Goa,36079
+2026,1,Gujarat,2100808
+2026,1,Haryana,1672054
+2026,1,Jharkhand,1030825
+2026,1,Madhya Pradesh,3081980
+2026,1,Meghalaya,17977
+2026,1,Mizoram,22918
+2026,1,Puducherry,50591
+2026,1,Punjab,943590
+2026,1,Sikkim,9257
+2026,1,Uttar Pradesh,7724417
+2026,2,Andaman and Nicobar Islands,5789
+2026,2,Dadra and Nagar Haveli and Daman and Diu,27992
+2026,2,Goa,36404
+2026,2,Gujarat,2136458
+2026,2,Haryana,1706826
+2026,2,Jharkhand,1055747
+2026,2,Madhya Pradesh,3144386
+2026,2,Meghalaya,21772
+2026,2,Mizoram,24387
+2026,2,Puducherry,51299
+2026,2,Punjab,958812
+2026,2,Sikkim,9576
+2026,2,Uttar Pradesh,7866204
+2026,2,Andhra Pradesh,2031948
+2026,2,Arunachal Pradesh,35125
+2026,2,Assam,984328
+2026,2,Bihar,3076811
+2026,2,Chandigarh,64346
+2026,2,Chhattisgarh,715816
+2026,2,Delhi,1893905
+2026,2,Himachal Pradesh,154191
+2026,2,Jammu and Kashmir,365134
+2026,2,Karnataka,3305459
+2026,2,Kerala,1091604
+2026,2,Ladakh,2676
+2026,2,Lakshadweep,374
+2026,2,Maharashtra,6113793
+2026,2,Manipur,34456
+2026,2,Nagaland,19236
+2026,2,Odisha,1434708
+2026,2,Rajasthan,3314270
+2026,2,Tamil Nadu,2358819
+2026,2,Telangana,2481953
+2026,2,Tripura,55157
+2026,2,Uttarakhand,493992
+2026,2,West Bengal,3631496
